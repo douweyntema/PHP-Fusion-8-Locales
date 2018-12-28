@@ -1,0 +1,41 @@
+<?php
+/*-------------------------------------------------------+
+| PHP-Fusion Content Management System
+| Copyright (C) PHP-Fusion Inc
+| https://www.php-fusion.co.uk/
++--------------------------------------------------------+
+| Filename: locale/Danish/lostpassword.php
+| Author: Helmuth Mikkelsen (helmuth)
++--------------------------------------------------------+
+| This program is released as free software under the
+| Affero GPL license. You can redistribute it and/or
+| modify it under the terms of this license which you
+| can read by viewing the included agpl.txt or online
+| at www.gnu.org/licenses/agpl.html. Removal of this
+| copyright header is strictly prohibited without
+| written permission from the original author(s).
++--------------------------------------------------------*/
+$locale['400'] = "Glemt kodeord";
+$locale['401'] = "En bekr¾ftelsesmail er blevet sendt til din mail adresse.";
+$locale['402'] = "Dit nye kodeord er blevet sendt til din mail adresse.";
+$locale['403'] = "Tilbage til hjemmesiden";
+$locale['404'] = "Den mail adresse, du opgav, kunne ikke findes.";
+$locale['405'] = "Den mail adresse, du opgav, er ikke gyldig.";
+$locale['406'] = "Venligst pr¿v igen.";
+$locale['407'] = "Indtast venligst den mail adresse din konto er registreret med nedenfor.<br />
+Et nyt kodeord vil blive oprettet og sendt til den adresse.";
+$locale['408'] = "Send kodeord";
+$locale['409'] = "Nyt kodeord til ";
+$locale['410'] = "Hej [USER_NAME],\n
+Du eller en anden har bedt om at fŒ et nyt kodeord til din konto hos ".$settings['sitename']." tilsendt.\n
+For at skifte dit kodeord bedes du klikke pŒ f¿lgende link:\n
+[NEW_PASS_LINK]\n
+Venlig hilsen
+".$settings['siteusername'];
+$locale['411'] = "Hej [USER_NAME],\n
+Dit nye kodeord til ".$settings['sitename']." er:\n
+[NEW_PASS]\n
+Venligst,
+".$settings['siteusername'];
+$locale['412'] = "Der opstod en fejl. Pr¿v igen senere.";
+?>
