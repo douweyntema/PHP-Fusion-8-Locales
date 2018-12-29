@@ -1,5 +1,4 @@
 <?php
-// FAQ Allgemein
 $locale['400'] = "FAQ (H&auml;ufig gestellte Fragen)";
 $locale['401'] = "FAQ";
 $locale['402'] = "Top";

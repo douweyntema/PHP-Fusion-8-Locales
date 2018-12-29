@@ -13,11 +13,13 @@ $locale['no'] = "Nein";
 $locale['yes'] = "Ja";
 $locale['off'] = "Aus";
 $locale['on'] = "An";
+
 // Navigation
 $locale['next'] = "N&auml;chste";
 $locale['pevious'] = "Vorherige";
 $locale['back'] = "Zur&uuml;ck";
 $locale['forward'] = "Vorw&auml;rts";
+
 // Action
 $locale['add'] = "Hinzuf&uuml;gen";
 $locale['save'] = "Speichern";
@@ -30,6 +32,7 @@ $locale['ban'] = "Bannen";
 $locale['reactivate'] = "Reaktivieren";
 $locale['user'] = "Benutzer";
 $locale['promote'] = "F&ouml;rdern";
+
 //Tables
 $locale['status'] = "Status";
 $locale['order'] = "Reihenfolge";
@@ -38,6 +41,7 @@ $locale['title'] = "Titel";
 $locale['rights'] = "Rechte";
 $locale['image'] = "Bilder/Icons";
 $locale['info'] = "Info";
+
 // Forms
 $locale['choose'] = "W&auml;hle eins...";
 $locale['parent'] = "Erstellen als neue Kategorie..";
@@ -55,7 +59,7 @@ $locale['edit'] = "Bearbeiten";
 $locale['view'] = "Ansicht";
 $locale['login'] = "Login";
 $locale['logout'] = "Logout";
-$locale['message'] = "Private Nachrichten";
+$locale['pm'] = "Private Nachrichten";
 $locale['logged'] = "Eingeloggt als ";
 $locale['version'] = "Version ";
-?>
+$locale['browse'] = "Browse ...";

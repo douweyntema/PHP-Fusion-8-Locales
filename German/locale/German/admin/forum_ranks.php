@@ -35,7 +35,5 @@ $locale['436'] = "L&ouml;schen";
 $locale['437'] = "Keine Foren R&auml;nge definiert.";
 $locale['438'] = "Typ / Beitr&auml;ge";
 // Forum Ranks Disabled
-$locale['450'] = "Aktuell sind die Foren R&auml;nge deaktiviert.<br />\n";
-$locale['450'] = "Bitte gehe in den Adminbereich von den %s um diese zu aktivieren.<br />\n";
+$locale['450'] = "Aktuell sind die Foren R&auml;nge deaktiviert.<br />\n Bitte gehe in den Adminbereich von den %s um diese zu aktivieren.<br />\n";
 $locale['451'] = "Foren Einstellungen";
-?>

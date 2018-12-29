@@ -1,5 +1,4 @@
 <?php
-// Kommentare Allgemein
 $locale['c100'] = "Kommentare";
 $locale['c101'] = "Es wurden noch keine Kommentare verfasst.";
 $locale['c102'] = "Kommentar schreiben";

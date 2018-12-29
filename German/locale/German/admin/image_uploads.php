@@ -1,4 +1,6 @@
 <?php
+$locale['100'] = "Fusion File Manager";
+
 // Bild loeschen
 $locale['400'] = "Bild l&ouml;schen";
 $locale['401'] = "Das Bild wurde gel&ouml;scht.";
@@ -14,6 +16,8 @@ $locale['424'] = "Newsbilder";
 $locale['425'] = "Die Bilddatei muss im .GIF, .JPEG oder .PNG-Format sein.";
 $locale['426'] = "Das Bild wurde hinzugef&uuml;gt.";
 $locale['427'] = "News Kategoriebilder";
+$locale['428'] = "Blog Images";
+$locale['429'] = "Blog Cats Images";
 
 // Bild ansehen
 $locale['440'] = "Bild ansehen";
@@ -29,4 +33,3 @@ $locale['464'] = "Die Bilderliste des TinyMCEs Editor erneuern";
 
 // Javascript Alerts
 $locale['470'] = "Willst du dieses Bild wirklich löschen?";
-?>

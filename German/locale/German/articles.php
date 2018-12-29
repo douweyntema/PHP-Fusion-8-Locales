@@ -1,5 +1,4 @@
 <?php
-// Artikel Allgemein
 $locale['400'] = "Artikel";
 $locale['401'] = "Es wurden noch keine Artikel Kategorien angelegt.";
 $locale['402'] = "[NEU]";

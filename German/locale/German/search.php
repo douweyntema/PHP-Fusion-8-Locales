@@ -1,5 +1,4 @@
 <?php
-// Suche Allgemein
 $locale['400'] = "Suche auf ".$settings['sitename'];
 $locale['401'] = "Suchbegriff";
 $locale['402'] = "Suche";
@@ -27,6 +26,7 @@ $locale['440'] = "Geordnet nach:";
 $locale['441'] = "Datum";
 $locale['442'] = "Titel";
 $locale['443'] = "Autor";
+//
 $locale['450'] = "Absteigend";
 $locale['451'] = "Aufsteigend";
 // Zeichen in Ergebnisse
@@ -39,8 +39,10 @@ $locale['501'] = "Das Suchwort muss mindestens drei Zeichen lang sein.";
 $locale['502'] = "Suchw&ouml;rter mit weniger als 3 Zeichen (%s) werden in der Suche ignoriert.";
 // Gesamte Suche
 $locale['510'] = "Ergebnisse der Suche auf der gesamten Seite";
+//
 $locale['520'] = "Treffer";
 $locale['521'] = "Treffer";
 $locale['522'] = "wurde(n) mit diesen Suchmuster gefunden.";
+//Mehr als 100 Ergebnisse
 $locale['530'] = "Bitte mache genauere Angaben. Deine Anfrage erbrachte %s Ergebnisse. Es werden nur die ersten 100 Ergebnisse angezeigt.";
 ?>

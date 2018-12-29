@@ -1,5 +1,4 @@
 <?php
-// Mitgliederliste Allgemein
 $locale['400'] = "Mitgliederliste";
 $locale['401'] = "Benutzername";
 $locale['402'] = "Benutzertyp";

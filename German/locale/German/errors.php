@@ -13,8 +13,6 @@ $locale['E_USER_WARNING']    = "Warnung erzeugt vom Nutzer bei der Benutzung der
 $locale['E_USER_NOTICE']     = "Mitteilung erzeugt vom Nutzer bei der Benutzung der trigger_error() Funktion";
 $locale['E_ALL']             = "Definitionen aller Nachrichten aktzeptiert E_STRICT.";
 $locale['E_STRICT']          = "";
-
-// Fehlerlog Managment
 $locale['err_100'] = "Nicht verf&uuml;gbar";
 $locale['err_101'] = "<strong>WARNUNG:</strong> Beim Parsen der Seite ist ein Fehler aufgetretten. Bitte siehe in den PHP-Fusion <a href='[ERROR_LOG_URL]' class='alt'>Fehlerlog</a> nach f&uuml;r mehr Informationen.";
 ?>

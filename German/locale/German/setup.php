@@ -1,9 +1,9 @@
 <?php
-$locale['title'] = "PHP-Fusion Core 7 Edition Setup";
-$locale['sub-title'] = "PHP-Fusion Core 7 Edition Setup";
-$locale['os_version'] = '7.03.00';
+$locale['title'] = "PHP-Fusion Core 8 Edition Setup";
+$locale['sub-title'] = "PHP-Fusion Core 8 Edition Setup";
+$locale['os_version'] = '8.0';
 $locale['xml_lang'] = "de";
-$locale['charset'] = "iUTF-8";
+$locale['charset'] = "UTF-8";
 $locale['001'] = "Schritt 1: Sprache";
 $locale['002'] = "Schritt 2: Schreibrechte &Uuml;berpr&uuml;fung";
 $locale['003'] = "Schritt 3: Datenbank Einstellungen";
@@ -13,9 +13,11 @@ $locale['006'] = "Schritt 6: End Einstellungen";
 $locale['007'] = "Weiter";
 $locale['008'] = "Zur&uuml;ck";
 $locale['009'] = "Weiter";
+
 // Step 1
 $locale['010'] = "Bitte w&auml;hle die gew&uuml;nschte Sprache aus:";
 $locale['011'] = "Weitere Sprachen kannst du auf <a href='http://www.php-fusion.co.uk/' title='http://www.php-fusion.co.uk/' target='_blank' rel='nofollow'>http://www.php-fusion.co.uk</a> herunterladen.";
+
 // Step 2
 $locale['020'] = "Um die Installation fortzusetzten, m&uuml;ssen die folgenden Dateien/Ordner schreibbar sein:";
 $locale['021'] = "Alle Schreibrechte sind in Ordnung, klicke bitte auf &quot;<em>Weiter</em>&quot; um fortzufahren.";
@@ -23,6 +25,7 @@ $locale['022'] = "Die Schreibrechte sind nicht in Ordnung. Bitte gib den markier
 $locale['023'] = "Korrekt";
 $locale['024'] = "Fehlerhaft";
 $locale['025'] = "Erneut Pr&uuml;fen";
+
 // Step 3 - Access criteria
 $locale['030'] = "Bitte gib deine MySQL-Datenbank Daten an, um die Installation fortzusetzten.";
 $locale['031'] = "Datenbank Host:";
@@ -36,6 +39,7 @@ $locale['038'] = "PDO scheint nicht vorhanden zu sein";
 $locale['039'] = "Nein";
 $locale['039b'] = "Ja";
 $locale['039c'] = "W&auml;hle die Sprache aus:";
+
 // Step 4 - Database Setup
 $locale['040'] = "Die Datenbank Verbindung wurde hergestellt.";
 $locale['041'] = "Die Konfiguration wurde erstellt.";
@@ -55,6 +59,7 @@ $locale['054'] = "Die Datenbank Tabellen konnten nicht gel&ouml;scht und erstell
 $locale['055'] = "Bitte &uuml;berpr&uuml;fe, ob der Datenbank Benutzer f&uuml;r diese Datenbank die Rechte zum lesen, schreiben und l&ouml;schen hat.";
 $locale['056'] = "Leere Felder.";
 $locale['057'] = "Du musst alle Felder ausf&uuml;llen.";
+
 // Step 5 - Super Admin login
 $locale['060'] = "Bitte gib hier die Daten f&uuml;r deinen Seiten Administrator Account an.";
 $locale['061'] = "Benutzername:";
@@ -63,6 +68,7 @@ $locale['063'] = "Passwort best&auml;tigen:";
 $locale['064'] = "Admin Passwort:";
 $locale['065'] = "Admin Passwort best&auml;tigen:";
 $locale['066'] = "E-Mail Adresse:";
+
 // Step 6 - User details validation
 $locale['070']   = "Der Benutzername enth&auml;hlt ung&uuml;ltige Zeichen.";
 $locale['070b']  = "Du musst einen Benutzernamen angeben.";
@@ -133,20 +139,13 @@ $locale['129a'] = "Benutzerlog";
 $locale['129b'] = "robots.txt";
 $locale['129c'] = "Sprach Einstellungen";
 $locale['129d'] = "Permalinks";
-//Multilanguage table rights
-$locale['MLT001'] = "Artikel";
-$locale['MLT002'] = "Eigene Seiten";
-$locale['MLT003'] = "Downloads";
-$locale['MLT004'] = "FAQs";
-$locale['MLT005'] = "Forum";
-$locale['MLT006'] = "News";
-$locale['MLT007'] = "Fotogallery";
-$locale['MLT008'] = "Umfragen";
-$locale['MLT009'] = "Email Templates";
-$locale['MLT010'] = "Weblinks";
-$locale['MLT011'] = "Seitenlinks";
-$locale['MLT012'] = "Panels";
-$locale['MLT013'] = "Forum R&auml;nge";
+$locale['129e'] = "Migration Tool";
+$locale['129f'] = "Theme Settings";
+$locale['130a'] = "Blog Categories";
+$locale['130b'] = "Blog";
+$locale['130c'] = "Blog Settings";
+$locale['130d'] = "Fusion File Manager";
+
 // Step 6 - Navigation Links
 $locale['130'] = "Startseite";
 $locale['131'] = "Artikel";
@@ -163,6 +162,8 @@ $locale['141'] = "News einsenden";
 $locale['142'] = "Artikel einsenden";
 $locale['143'] = "Foto einsenden";
 $locale['144'] = "Download einsenden";
+$locale['145'] = "Blog einsenden";
+
 // Stage 6 - Panels
 $locale['160'] = "Seiten Navigation";
 $locale['161'] = "Benutzer Online";
@@ -172,7 +173,25 @@ $locale['164'] = "Willkommensnachricht";
 $locale['165'] = "Letzte aktive Foren Themen";
 $locale['166'] = "Benutzer Information";
 $locale['167'] = "Mitglieder Umfrage";
-$locale['168'] = "";
+$locale['168'] = "RSS Feeds";
+$locale['169'] = "Blog Archiv";
+
+//Multilanguage table rights
+$locale['MLT001'] = "Artikel";
+$locale['MLT002'] = "Eigene Seiten";
+$locale['MLT003'] = "Downloads";
+$locale['MLT004'] = "FAQs";
+$locale['MLT005'] = "Forum";
+$locale['MLT006'] = "News";
+$locale['MLT007'] = "Fotogallery";
+$locale['MLT008'] = "Umfragen";
+$locale['MLT009'] = "Email Templates";
+$locale['MLT010'] = "Weblinks";
+$locale['MLT011'] = "Seitenlinks";
+$locale['MLT012'] = "Panels";
+$locale['MLT013'] = "Forum R&auml;nge";
+$locale['MLT014'] = "Blog";
+
 // Stage 6 - News Categories
 $locale['180'] = "Fehler";
 $locale['181'] = "Downloads";
@@ -190,6 +209,7 @@ $locale['192'] = "Sicherheit";
 $locale['193'] = "Software";
 $locale['194'] = "Themes";
 $locale['195'] = "Windows";
+
 // Stage 6 - Sample Forum Ranks
 $locale['200'] = "Seiten Administrator";
 $locale['201'] = "Administrator";
@@ -200,6 +220,7 @@ $locale['205'] = "Mitglied";
 $locale['206'] = "Senior Mitglied";
 $locale['207'] = "Veteran Mitglied";
 $locale['208'] = "Fusioneer";
+
 // Stage 6 - Sample Smileys
 $locale['210'] = "Smile";
 $locale['211'] = "Wink";
@@ -210,14 +231,17 @@ $locale['215'] = "Pfft";
 $locale['216'] = "Cool";
 $locale['217'] = "Grin";
 $locale['218'] = "Angry";
+
 // Stage 6 - User Field Categories
 $locale['220'] = "Kontakt Informationen";
 $locale['221'] = "Sonstige Informationen";
 $locale['222'] = "Optionen";
 $locale['223'] = "Statistiken";
 $locale['224'] = "Privatsph&auml;re";
+
 // Welcome message
 $locale['230'] = "Herzlich Willkommen auf deiner eigenen Homepage!";
+
 // Final message
 $locale['240']  = "Die Installation von PHP-Fusion v7 ist nun abgeschlossen und benutzbar.<br />\n";
 $locale['240'] .= "Sobald du unterhalb auf &quot;<em>Weiter</em>&quot; klickst, kommst du auf deine neue Homepage.<br />\n";
@@ -225,14 +249,13 @@ $locale['240'] .= "<strong>ACHTUNG</strong> Nachdem du deine Homepage betreten h
 $locale['240'] .= "Andersfalls entsteht eine Sicherheitsl&uuml;cke.<br />\n";
 $locale['240'] .= "Vielen Dank, dass du dich f&uuml;r PHP-Fusion entschieden hast.\n";
 // Default time settings
-// http://php.net/manual/en/function.strftime.php
 $locale['shortdate']     = "%d.%m.%y";
 $locale['longdate']      = "%d. %B %Y um %H:%M:%S";
 $locale['forumdate']     = "%d.%m.%Y um %H:%M";
 $locale['newsdate']      = "%d. %B %Y";
 $locale['subheaderdate'] = "%d. %B %Y - %H:%M:%S";
-// Email Template Setup
-// Please do NOT translate the words between brackets [] !
+
+// Email Template Setup. Please do NOT translate the words between brackets [] !
 $locale['T001'] = "Email Templates";
 $locale['T101'] = "Benachrichtigung &uuml;ber eine neue Private Nachricht";
 $locale['T102'] = "Du hast eine neue private Nachricht von [USER] auf [SITENAME]";
@@ -243,6 +266,6 @@ $locale['T203'] = "Hallo [RECEIVER],\r\n\r\nes gibt einen neuen Beitrag im Thema
 $locale['T301'] = "Kontakt Formular";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";
+
 // Language Admin
 $locale['L001'] = "Mehrsprachig";
-?>

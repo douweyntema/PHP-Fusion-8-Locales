@@ -9,6 +9,7 @@ $locale['404'] = "Optionen";
 $locale['404a'] = "Einschalten";
 $locale['404b'] = "Ausschalten";
 $locale['404c'] = "Bearbeiten";
+$locale['404d'] = "Reinstall";
 // Editing Permalinks
 $locale['405'] = "Permalinks bearbeiten f&uuml;r %s";
 $locale['406'] = "Tags";
@@ -30,4 +31,12 @@ $locale['425'] = "Permalink f&uuml;r %s ist bereits eingeschaltet.";
 $locale['426'] = "Permalink wurde f&uuml;r %s erfolgreich ausgeschaltet.";
 // Other
 $locale['427'] = "Es sind keine Permalinks eingeschaltet.";
-?>
+// Settings 
+$locale['430'] = "SEO Settings";
+$locale['431'] = "Setting";
+$locale['432'] = "SEO Engine";
+$locale['433'] = "Toggle to turn the SEO engine on or off";
+$locale['434'] = "Normalize";
+$locale['435'] = "Toggle to strip URLs from all special characters";
+$locale['436'] = "Debug SEO";
+$locale['437'] = "Toggle to start SEO Engine Debugger";

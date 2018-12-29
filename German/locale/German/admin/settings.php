@@ -1,5 +1,4 @@
 <?php
-// Haupt Einstellungen
 $locale['400'] = "Einstellungen";
 // Seiten Einstellungen
 $locale['401'] = "Haupt";
@@ -57,6 +56,9 @@ $locale['461'] = "G&auml;ste";
 $locale['462'] = "Zeitzone des Servers";
 $locale['463'] = "Serverzeit so einstellen, dass GMT 0 ist";
 $locale['464'] = "Standart Zeitzone";
+$locale['465'] = "Enable Bootstrap";
+$locale['466'] = "Enable Entypo";
+$locale['467'] = "Enable Fontawesome";
 // Forum Einstellungen
 $locale['500'] = "Forum";
 $locale['501'] = "Letzte aktive Forenthemen Panel:";
@@ -198,6 +200,8 @@ $locale['699'] = "Login Methode";
 $locale['699b'] = "Beide";
 $locale['699e'] = "Email";
 $locale['699f'] = "Hochgeladene Dateien auf MIME Typen pr&uuml;fen?";
+$locale['699g'] = "Check uploaded files for MIME type?";
+$locale['699h'] = "Enable Registration Gateway?";
 // Private Message Settings
 $locale['700'] = "Private Nachrichten";
 $locale['701'] = "Posteingang:";
@@ -274,7 +278,6 @@ $locale['1014']  = "Benutzern erlauben, sich von mehreren Computern gleichzeitig
 $locale['1014a'] = "F&uuml;r mehr Sicherheit deaktivieren.";
 // Date format options (you can add/delete lines)
 // More info at: http://php.net/manual/en/function.strftime.php
-// Datumsformat Optionen
 $locale['dateformats'][] = "%m/%d/%Y";
 $locale['dateformats'][] = "%d/%m/%Y";
 $locale['dateformats'][] = "%d-%m-%Y";
@@ -301,4 +304,5 @@ $locale['error_type'] = 'Gib einen Erweiterungstyp ein.';
 $locale['error_width'] = 'Gib eine Weite ein.';
 $locale['error_height'] = 'Gib eine H&ouml;he ein.';
 $locale['error_value'] = 'Gib einen Wert ein.';
-?>
+$locale['theme_settings'] = 'Theme Settings';
+$locale['theme_description'] = "The configuration settings for Themes";

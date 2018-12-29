@@ -1,47 +1,47 @@
 <?php
-// Album Titel
-$locale['400'] = "Album hinzuf&uuml;gen";
-$locale['401'] = "Album bearbeiten";
-$locale['402'] = "Aktuell vorhandene Alben";
-$locale['403'] = "Album Fehler";
-
-// Album Nachrichten
-$locale['409'] = "Gib einen Album Namen ein";
-$locale['410']  = "Das Album wurde hinzugef&uuml;gt.";
-$locale['411']  = "Das Album wurde aktualisiert.";
-$locale['412']  = "Die Album Vorschau wurde gel&ouml;scht.";
-$locale['413']  = "Das Album wurde gel&ouml;scht.";
-$locale['414']  = "Folgende(r) Fehler sind/ist aufgetreten:";
-$locale['415']  = "Der Dateiname des Bildes ist ung&uuml;ltig.";
-$locale['416']  = "Das Bild muss kleiner als %s sein.";
-$locale['417']  = "Das Bild muss eine .GIF-, .JPEG- oder .PNG-Datei sein.";
-$locale['418']  = "Das Bild muss kleiner als %uw x %uh Pixel sein.";
-$locale['419']  = "Das Album konnte nicht gel&ouml;scht werden.<br />\n";
-$locale['419'] .= "Du hast kein Admin Passwort angegeben oder es ist fehlerhaft.";
-$locale['420']  = "Es wurde keine GD-Bibliothek gefunden. Fotoalben funktionieren jedoch nicht ohne GD Bibliothek. Bitte kontaktiere deinen Hoster und informiere ihn &uuml;ber dieses Problem.";
-
-// Album Loeschen Bestaetigen
-$locale['430']  = "Album l&ouml;schen &raquo; Best&auml;tigung";
-$locale['431']  = "Das Album, dass du l&ouml;schen m&ouml;chtest beinhaltet noch Fotos.<br />\n";
-$locale['431'] .= "Wenn du das Album samt Fotos wirklich l&ouml;schen m&ouml;chtest, gib bitte dein Admin Passwort ein.";
-$locale['432']  = "Album l&ouml;schen";
-$locale['433']  = "Abbrechen";
-
-
-// Aktuell vorhandene Alben
-$locale['460'] = "Album &ouml;ffnen";
-$locale['461'] = "Keine Album Vorschau";
-$locale['462'] = "Datum: ";
-$locale['463'] = "Erstellt von: ";
-$locale['464'] = "Zugriff: ";
-$locale['465'] = "Fotos: ";
-$locale['466'] = "Aufw&auml;rts";
-$locale['467'] = "Abw&auml;rts";
-$locale['468'] = "Bearbeiten";
-$locale['469'] = "L&ouml;schen";
-$locale['470'] = "Sortierung der Alben erneuern";
-$locale['471'] = "Keine Alben definiert.";
-
-// Album loeschen
-$locale['500'] = "Willst du dieses Album wirklich löschen?";
+// Album titles
+$locale['400'] = "Add Album";
+$locale['401'] = "Edit Album";
+$locale['402'] = "Current Albums";
+$locale['403'] = "Serious Photoalbum Error";
+// Album messages
+$locale['409'] = "Please enter an Album Name";
+$locale['410'] = "Album added";
+$locale['411'] = "Album updated";
+$locale['412'] = "Album thumbnail deleted";
+$locale['413'] = "Album deleted";
+$locale['414'] = "The following error has occured:";
+$locale['415'] = "Invalid image filename.";
+$locale['416'] = "Image must be less than %s.";
+$locale['417'] = "Image must be a GIF, JPEG or PNG file.";
+$locale['418'] = "Image must be no bigger than %uw x %uh pixels.";
+$locale['419'] = "Album cannot be deleted. Your password is incorrect.";
+$locale['420'] = "No GD library detected. Photoalbums will not work without GD library. Contact your host provider for further information.";
+// Album confirmation
+$locale['430'] = "Delete album confirmation";
+$locale['431'] = "The Album you are trying delete contains one or more photos.<br />\n"."In order to delete this album, please enter your admin password:";
+$locale['432'] = "Confirm";
+$locale['433'] = "Cancel";
+// Album form
+$locale['440'] = "Title: ";
+$locale['441'] = "Description: ";
+$locale['442'] = "Access: ";
+$locale['443'] = "Order: ";
+$locale['444'] = "Thumb: ";
+$locale['445'] = "Save Album";
+// Current Albums
+$locale['460'] = "Open Album";
+$locale['461'] = "No thumbnail";
+$locale['462'] = "Date: ";
+$locale['463'] = "Created by: ";
+$locale['464'] = "Access: ";
+$locale['465'] = "Photos: ";
+$locale['466'] = "Move up";
+$locale['467'] = "Move down";
+$locale['468'] = "Edit";
+$locale['469'] = "Delete";
+$locale['470'] = "Refresh Album and Photo Ordering";
+$locale['471'] = "No Photo Albums defined.";
+// Delete Album
+$locale['500'] = "Delete this Album?";
 ?>

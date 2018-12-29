@@ -1,31 +1,29 @@
 <?php
-// BB-Code Titel
-$locale['400'] = "BB-Codes Verwaltung";
-$locale['401'] = "BB-Codes testen";
-
-// Aktivierte BB-Codes
-$locale['402'] = "Aktivierte BB-Codes";
-$locale['403'] = "Name";
-$locale['404'] = "Symbol";
-$locale['405'] = "Beschreibung";
-$locale['406'] = "Benutzung";
-$locale['407'] = "Reihenfolge";
-$locale['408'] = "Abw&auml;rts";
-$locale['409'] = "Aufw&auml;rts";
-$locale['410'] = "Deaktivieren";
-$locale['411'] = "Es sind keine BB-Codes aktiviert.";
-
-// Deaktivierte BB-Codes
-$locale['413'] = "Deaktivierte BB-Codes";
-$locale['414'] = "Aktivieren";
-$locale['415'] = "Zeilenumbruch";
-$locale['416'] = "Es sind keine BB-Codes deaktiviert.";
-
-// BB-Codes testen
-$locale['417'] = "BB-Codes testen &raquo; Ausgabe";
-$locale['418'] = "Smileys in diesem Test deaktivieren.";
-
-$locale['418a'] = "Test Text";
-$locale['418b'] = "Bitte gib einen Text ein um die BBcodes zu testen.";
-
-?>
+$locale['BBCA_400'] = "BBCodes";
+$locale['BBCA_400a'] = "BBCodes Admin";
+$locale['BBCA_401'] = "BBCodes testen";
+// Enabled BB Codes
+$locale['BBCA_402'] = "BBCodes aktivieren";
+$locale['BBCA_403'] = "Name";
+$locale['BBCA_404'] = "Icon";
+$locale['BBCA_405'] = "Beschreibung";
+$locale['BBCA_406'] = "Nutzung";
+$locale['BBCA_407'] = "Sortierung";
+$locale['BBCA_408'] = "Runter";
+$locale['BBCA_409'] = "Hoch";
+$locale['BBCA_410'] = "Deaktivieren";
+$locale['BBCA_411'] = "Keine BBCodes aktiviert.";
+// Disabled BB Codes
+$locale['BBCA_413'] = "Deaktivierte BBCodes";
+$locale['BBCA_414'] = "Aktivieren";
+$locale['BBCA_416'] = "Keine BBCodes deaktiviert.";
+// Test BB Codes
+$locale['BBCA_417'] = "BB Codes Test Output";
+$locale['BBCA_418'] = "Smileys in diesem test deaktivieren";
+$locale['BBCA_418a'] = "Test Text";
+$locale['BBCA_418b'] = "Bitte gib einen Text ein um den BBCode zu testen.";
+// Notices
+$locale['BBCA_430'] = "BBCode wurde nach oben verschoben.";
+$locale['BBCA_431'] = "BBCode wurde nach unten verschoben.";
+$locale['BBCA_432'] = "BBCode wurde aktiviert.";
+$locale['BBCA_433'] = "BBCode wurde deaktiviert.";

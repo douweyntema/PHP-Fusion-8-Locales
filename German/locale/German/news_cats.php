@@ -1,5 +1,4 @@
 <?php
-// Newskategorien Allgemein
 $locale['400'] = "News Kategorien";
 $locale['401'] = "Kategorie:";
 $locale['402'] = "Enthaltene News:";

@@ -1,5 +1,4 @@
 <?php
-// Passwort vergessen Allgemein
 $locale['400']  = "Passwort vergessen";
 $locale['401']  = "Eine Best&auml;tigungs E-Mail wurde an deine E-Mail Adresse gesendet.";
 $locale['402']  = "Das neue Passwort wurde an deine E-Mail Adresse gesendet.";
@@ -11,7 +10,6 @@ $locale['407']  = "Bitte trage unterhalb die E-Mail Adresse ein, mit der dein Ac
 $locale['407'] .= "Dir wird dann ein neues Passwort an diese E-Mail Adresse gesendet.<br />\n";
 $locale['408']  = "Passwort zusenden";
 
-// Passwort vergessen E-Mails
 $locale['409']  = "Neues Passwort für ";
 $locale['410']  = "Hallo [USER_NAME],\n\n";
 $locale['410'] .= "du hast ein neues Passwort für deinen Account auf ".$settings['sitename']." beantragt.\n";
