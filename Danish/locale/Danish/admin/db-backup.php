@@ -18,7 +18,7 @@
 // Database Restore
 $locale['400'] = "Genskab database";
 $locale['401'] = "Fejl";
-$locale['402'] = "Formatet på sikkerhedskopien er forkert";
+$locale['402'] = "Formatet pï¿½ sikkerhedskopien er forkert";
 $locale['403'] = "Luk";
 // Backup File Information
 $locale['410'] = "Information om sikkerhedskopi";
@@ -37,17 +37,17 @@ $locale['431'] = "Filnavn:";
 $locale['432'] = "Dato:";
 $locale['433'] = "Genskab tabelstruktur:";
 $locale['434'] = "Genskab indhold:";
-$locale['435'] = "V¾lg:";
+$locale['435'] = "Vï¿½lg:";
 $locale['436'] = "alle";
 $locale['437'] = "ingen";
 $locale['438'] = "Genskab";
 $locale['439'] = "Fortryd";
-$locale['440'] = "Underst¿ttede filtyper:";
+$locale['440'] = "Understï¿½ttede filtyper:";
 // Database Backup
 $locale['450'] = "Sikkerhedskopiering af database";
 $locale['451'] = "Databaseinformation";
-$locale['452'] = "Tabellernes st¿rrelse i alt:";
-$locale['453'] = "Kernetabellernes st¿rrelse:";
+$locale['452'] = "Tabellernes stï¿½rrelse i alt:";
+$locale['453'] = "Kernetabellernes stï¿½rrelse:";
 $locale['454'] = "Valgmuligheder:";
 $locale['455'] = "Kopitype:";
 $locale['456'] = "(komprimeret)";
@@ -56,7 +56,7 @@ $locale['458'] = "kerne";
 $locale['459'] = "Kopier";
 $locale['460'] = "Administratorkodeord:";
 $locale['460b'] = "Indtast venligst dit administrator kodeord";
-$locale['461'] = "Kr¾vet information";
+$locale['461'] = "Krï¿½vet information";
 // Backup List
 $locale['480'] = "Genskab fra sikkerhedskopi";
 $locale['481'] = "Filnavn:";

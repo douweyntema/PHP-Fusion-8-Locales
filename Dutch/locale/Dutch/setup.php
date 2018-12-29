@@ -1,9 +1,9 @@
 <?php
-$locale['title'] = "PHP-Fusion Core 7 Edition setup";
-$locale['sub-title'] = "PHP-Fusion Core 7 Edition setup";
-$locale['os_version'] = '7.03.00';
+$locale['title'] = "PHP-Fusion Core 8 Edition Setup";
+$locale['sub-title'] = "PHP-Fusion Core 8 Edition Setup";
+$locale['os_version'] = '8.0';
 $locale['xml_lang'] = "nl";
-$locale['charset'] = "iso-8859-1";
+$locale['charset'] = "utf8";
 $locale['001'] = "Stap 1: Taal (locale)";
 $locale['002'] = "Stap 2: Testen bestands- en mappermissies";
 $locale['003'] = "Stap 3: Database-instellingen";
@@ -131,6 +131,42 @@ $locale['129a'] = "Gebruikers Log";
 $locale['129b'] = "robots.txt";
 $locale['129c'] = "Taal Instellingen";
 $locale['129d'] = "Permalinks";
+$locale['129e'] = "Migratie Tool";
+$locale['129f'] = "Thema Instellingen";
+$locale['130a'] = "Blog Categorieen";
+$locale['130b'] = "Blog";
+$locale['130c'] = "Blog Instellingen";
+$locale['130d'] = "Fusion Bestands beheerder";
+
+// Step 6 - Navigation Links
+$locale['130'] = "Start pagina";
+$locale['131'] = "Artikelen";
+$locale['132'] = "Downloads";
+$locale['133'] = "FAQ";
+$locale['134'] = "Discussie Forum";
+$locale['135'] = "Contact";
+$locale['136'] = "Nieuws Categorieen";
+$locale['137'] = "Web Links";
+$locale['138'] = "Foto Gallerij";
+$locale['139'] = "Zoeken";
+$locale['140'] = "Link inzenden";
+$locale['141'] = "Nieuws inzenden";
+$locale['142'] = "Artikel inzenden";
+$locale['143'] = "Foto inzenden";
+$locale['144'] = "Download inzenden";
+$locale['145'] = "Blog inzenden";
+
+// Stage 6 - Panels
+$locale['160'] = "Navigatie";
+$locale['161'] = "Online Leden";
+$locale['162'] = "Forum Onderwerpen";
+$locale['163'] = "Nieuwste Artikelen";
+$locale['164'] = "Welkom bericht";
+$locale['165'] = "Forum Onderwerpen lijst";
+$locale['166'] = "Gebruikerd insformatie";
+$locale['167'] = "Leden enquetes";
+$locale['168'] = "RSS Feeds";
+$locale['169'] = "Blog Archieven";
 //Multilanguage table rights
 $locale['MLT001'] = "Artikelen";
 $locale['MLT002'] = "Eigen Pagina&rsquo;s";

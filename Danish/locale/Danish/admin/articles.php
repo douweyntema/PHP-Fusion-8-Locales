@@ -16,12 +16,12 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // Article titles
-$locale['400'] = "Tilf¿j artikel";
+$locale['400'] = "Tilfï¿½j artikel";
 $locale['401'] = "Rediger artikel";
 $locale['402'] = "Eksisterende artikler";
 $locale['403'] = "Artikler";
 // Article messages
-$locale['410'] = "Artiklen er tilf¿jet";
+$locale['410'] = "Artiklen er tilfï¿½jet";
 $locale['411'] = "Artiklen er opdateret";
 $locale['412'] = "Artiklen er slettet";
 // Category form
@@ -33,8 +33,8 @@ $locale['424'] = "Introduktion:";
 $locale['425'] = "Artikel:";
 $locale['426'] = "Gem som udkast";
 $locale['427'] = "Automatiske linjeskift";
-$locale['428'] = "SlŒ kommentarer til";
-$locale['429'] = "SlŒ vurdering til";
+$locale['428'] = "Slï¿½ kommentarer til";
+$locale['429'] = "Slï¿½ vurdering til";
 $locale['430'] = "Vis artikel";
 $locale['431'] = "Gem artikel";
 $locale['432'] = "Sideskift";
@@ -46,7 +46,7 @@ $locale['452'] = "Der er endnu ikke defineret nogen artikelkategorier";
 $locale['453'] = "Du skal oprette mindst en kategori for at kunne skrive artikler";
 $locale['454'] = "Klik her";
 $locale['455'] = " for at springe til artikelkategorier";
-$locale['456'] = "%s er slŒet fra for alle tekster.<br />Denne funktion vil f¿rst blive aktiv, nŒr de er slŒet til igen.";
+$locale['456'] = "%s er slï¿½et fra for alle tekster.<br />Denne funktion vil fï¿½rst blive aktiv, nï¿½r de er slï¿½et til igen.";
 $locale['457'] = "Kommentarer";
 $locale['458'] = "Vurdering";
 $locale['459'] = $locale['457']." and ".$locale['458'];

@@ -15,31 +15,31 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['400'] = "S¿g pŒ ".$settings['sitename'];
-$locale['401'] = "S¿g efter:";
-$locale['402'] = "S¿g";
-$locale['403'] = "s¿g efter et af ordene";
+$locale['400'] = "Sï¿½g pï¿½ ".$settings['sitename'];
+$locale['401'] = "Sï¿½g efter:";
+$locale['402'] = "Sï¿½g";
+$locale['403'] = "sï¿½g efter et af ordene";
 $locale['404'] = "resultatet skal indeholde samtlige ord";
-$locale['405'] = "Hvor skal der s¿ges:";
+$locale['405'] = "Hvor skal der sï¿½ges:";
 $locale['406'] = "Valgmuligheder:";
 $locale['407'] = "Hele siden";
-$locale['408'] = "S¿geresultater";
+$locale['408'] = "Sï¿½geresultater";
 //addition date
-$locale['420'] = "S¿g:";
+$locale['420'] = "Sï¿½g:";
 $locale['421'] = "alle";
 $locale['422'] = "seneste dag";
 $locale['423'] = "seneste uge";
 $locale['424'] = "seneste to uger";
-$locale['425'] = "seneste mŒned";
-$locale['426'] = "seneste tre mŒneder";
-$locale['427'] = "seneste seks mŒneder";
+$locale['425'] = "seneste mï¿½ned";
+$locale['426'] = "seneste tre mï¿½neder";
+$locale['427'] = "seneste seks mï¿½neder";
 //where
 $locale['430'] = "overskrift og indhold";
 $locale['431'] = "bare indhold";
 $locale['432'] = "bare overskrift";
 //sort by
 $locale['440'] = "Sorter efter:";
-$locale['441'] = "tilf¿jelsesdato";
+$locale['441'] = "tilfï¿½jelsesdato";
 $locale['442'] = "overskrift";
 $locale['443'] = "forfatter";
 //
@@ -50,16 +50,16 @@ $locale['460'] = "Vis:";
 $locale['461'] = "karakterer af teksten";
 $locale['462'] = "hele teksten";
 //No results
-$locale['500'] = "Ingen resultater af s¿gningen.";
-$locale['501'] = "S¿geteksten skal v¾re pŒ mindst 3 karakterer.";
-$locale['502'] = "S¿geudtryk der er kortere end tre karakterer (%s) ignoreres i s¿gningen.";
+$locale['500'] = "Ingen resultater af sï¿½gningen.";
+$locale['501'] = "Sï¿½geteksten skal vï¿½re pï¿½ mindst 3 karakterer.";
+$locale['502'] = "Sï¿½geudtryk der er kortere end tre karakterer (%s) ignoreres i sï¿½gningen.";
 //Global search
-$locale['510'] = "forekomster i s¿gningen pŒ hele siden";
+$locale['510'] = "forekomster i sï¿½gningen pï¿½ hele siden";
 //
 $locale['520'] = "forekomst";
 $locale['521'] = "forekomster";
-$locale['522'] = "fundet, der passer med s¿gekriteriet";
+$locale['522'] = "fundet, der passer med sï¿½gekriteriet";
 //more than 100 results
-$locale['530'] = "V¾r lidt mere pr¾cis i ops¾tningen af dine s¿gekriterier. Din s¿gning giver %s resultater. 
-Vi viser kun de f¿rste 100 resultater";
+$locale['530'] = "Vï¿½r lidt mere prï¿½cis i opsï¿½tningen af dine sï¿½gekriterier. Din sï¿½gning giver %s resultater. 
+Vi viser kun de fï¿½rste 100 resultater";
 ?>

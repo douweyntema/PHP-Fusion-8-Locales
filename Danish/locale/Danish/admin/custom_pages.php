@@ -16,13 +16,13 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // Custom Pages titles
-$locale['400'] = "Tilf¿j brugeroprettet side";
+$locale['400'] = "Tilfï¿½j brugeroprettet side";
 $locale['401'] = "Rediger brugeroprettet side";
 $locale['402'] = "Aktuelle brugeroprettede sider";
 // Custom Pages messages
 $locale['410'] = "Siden er gemt";
 $locale['411'] = "Siden er opdateret";
-$locale['412'] = "Adressen pŒ denne side er: ";
+$locale['412'] = "Adressen pï¿½ denne side er: ";
 $locale['413'] = "Siden er slettet";
 // Custom Page form
 $locale['420'] = "Rediger";
@@ -31,9 +31,9 @@ $locale['422'] = "Sideoverskrift:";
 $locale['423'] = "Kan ses af: ";
 $locale['424'] = "Sidens indhold:";
 $locale['425'] = "Administrators kodeord:";
-$locale['426'] = "Tilf¿j et link til navigationspanelet";
-$locale['427'] = "SlŒ kommentarer til";
-$locale['428'] = "SlŒ vurdering til";
+$locale['426'] = "Tilfï¿½j et link til navigationspanelet";
+$locale['427'] = "Slï¿½ kommentarer til";
+$locale['428'] = "Slï¿½ vurdering til";
 $locale['429'] = "Se siden";
 $locale['430'] = "Gem siden";
 $locale['431'] = "Sideskift";
@@ -42,12 +42,12 @@ $locale['450'] = "Skal denne side slettes?";
 $locale['451'] = "Du skal angive en overskrift";
 $locale['452'] = "Du skal skrive et kodeord";
 $locale['453'] = "Administratorkodeordet er ikke korrekt";
-$locale['454'] = "%s er slŒet fra for alle tekster / sider.<br />Dette valg bliver f¿rst aktivt, nŒr funktionen slŒs til igen.";
+$locale['454'] = "%s er slï¿½et fra for alle tekster / sider.<br />Dette valg bliver fï¿½rst aktivt, nï¿½r funktionen slï¿½s til igen.";
 $locale['455'] = "Kommentarer";
 $locale['456'] = "Vurdering";
 $locale['457'] = $locale['455']." and ".$locale['456'];
 // TinyMCE editor
 $locale['460'] = "TinyMCE:";
-$locale['461'] = "SlŒ til";
-$locale['462'] = "SlŒ fra";
+$locale['461'] = "Slï¿½ til";
+$locale['462'] = "Slï¿½ fra";
 ?>

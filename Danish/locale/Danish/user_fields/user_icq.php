@@ -18,5 +18,5 @@
 $locale['uf_icq'] = "ICQ#";
 $locale['uf_icq_desc'] = "ICQ ID nummer";
 $locale['uf_icq_error'] = "ICQ skal udfyldes.";
-$locale['uf_icq_error2'] = "ICQ skal udelukkende bestŒ af tal.";
+$locale['uf_icq_error2'] = "ICQ skal udelukkende bestï¿½ af tal.";
 ?>

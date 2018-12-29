@@ -7,6 +7,11 @@ $locale['403'] = "Volgorde";
 $locale['404'] = "Type";
 $locale['405'] = "Toegang";
 $locale['406'] = "Opties";
+$locale['407'] = "Huidige Panelen";
+$locale['408'] = "Paneel toevoegen";
+$locale['409'] = "Paneel wijzigen";
+$locale['410'] = "Je kunt de panelen slepen over het panelen scherm om de positie te veranderen of om de volgorde aan te passen";
+
 // Panel Settings
 $locale['420'] = "Links";
 $locale['421'] = "Middenboven";
@@ -52,6 +57,8 @@ $locale['463'] = "Voorbeeld:";
 $locale['464'] = "Uitsluiten op deze pagina&rsquo;s";
 $locale['465'] = "Insluiten op deze pagina&rsquo;s";
 $locale['466'] = "Paneel Taal:";
+$locale['467'] = "Toon alleen op home pagina";
+$locale['468'] = "Paneel Type";
 // Update/Add new Panel Errors
 $locale['470'] = "Geen naam voor paneel opgegeven";
 $locale['471'] = "Naam voor paneel al in gebruik";
@@ -69,6 +76,7 @@ $locale['485'] = "Nieuw paneel toegevoegd";
 $locale['486'] = "Terug naar Paneel Beheer";
 $locale['487'] = "Terug naar Beheerder Index";
 $locale['488'] = "Panelen volgorde bijgewerkt.";
+$locale['489'] = "Panelen verwijderd.";
 //Visual Panel
 $locale['600'] = "Paneel Beheer Interface";
 $locale['602'] = "Ongebruikte panelen";

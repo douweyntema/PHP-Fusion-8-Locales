@@ -15,13 +15,13 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['f400'] = "Debatindl¾g";
+$locale['f400'] = "Debatindlï¿½g";
 $locale['f401'] = "alle debatter";
-$locale['f402'] = "Debatindl¾g";
-$locale['f403'] = "Debatindl¾g";
+$locale['f402'] = "Debatindlï¿½g";
+$locale['f403'] = "Debatindlï¿½g";
 $locale['f404'] = "Fastholdte emner:";
-$locale['f405'] = "Bekendtg¿relse:";
+$locale['f405'] = "Bekendtgï¿½relse:";
 $locale['f406'] = "fundet i";
-$locale['f407'] = "indl¾ggets emne";
-$locale['f408'] = "indl¾ggets tekst";
+$locale['f407'] = "indlï¿½ggets emne";
+$locale['f408'] = "indlï¿½ggets tekst";
 ?>

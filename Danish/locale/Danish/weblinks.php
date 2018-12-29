@@ -18,9 +18,9 @@
 $locale['400'] = "Links";
 // Download File Information
 $locale['410'] = "[NY]";
-$locale['411'] = "Dato for tilf¿jelse:";
-$locale['412'] = "Bes¿g:";
+$locale['411'] = "Dato for tilfï¿½jelse:";
+$locale['412'] = "Besï¿½g:";
 // Downloads Notices
 $locale['430'] = "Der er endnu ikke defineret nogen linkkategorier";
-$locale['431'] = "Der er endnu ikke tilf¿jet links til denne kategori";
+$locale['431'] = "Der er endnu ikke tilfï¿½jet links til denne kategori";
 ?>

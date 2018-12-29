@@ -16,6 +16,6 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['bb_yahoo'] = "Yahoo";
-$locale['bb_yahoo_description'] = "Yahoo S¿gemaskine";
-$locale['bb_yahoo_usage'] = "Den tekst der skal s¿ges i Yahoo!";
+$locale['bb_yahoo_description'] = "Yahoo Sï¿½gemaskine";
+$locale['bb_yahoo_usage'] = "Den tekst der skal sï¿½ges i Yahoo!";
 ?>

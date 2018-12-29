@@ -16,33 +16,33 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // Album titles
-$locale['400'] = "Tilf¿j album";
+$locale['400'] = "Tilfï¿½j album";
 $locale['401'] = "Rediger album";
 $locale['402'] = "Aktuelt oprettede albums";
-$locale['403'] = "Der er opstŒet en alvorlig fejl";
+$locale['403'] = "Der er opstï¿½et en alvorlig fejl";
 // Album messages
 $locale['409'] = "Venligst indtast et albumnavn";
-$locale['410'] = "Det nye album er tilf¿jet";
+$locale['410'] = "Det nye album er tilfï¿½jet";
 $locale['411'] = "Album'et er opdateret";
 $locale['412'] = "Albumikonet er slettet";
 $locale['413'] = "Dit album er slettet";
-$locale['414'] = "Der er opsŒŒet f¿lgende fejl:";
-$locale['415'] = "Filnavnet er fejlbeh¾ftet.";
-$locale['416'] = "Billedet skal v¾re mindre end %s.";
-$locale['417'] = "Billedformatet skal v¾re GIF, JPEG eller PNG.";
-$locale['418'] = "Billedet mŒ ikke v¾re st¿rre end %uw x %uh pixels.";
+$locale['414'] = "Der er opsï¿½ï¿½et fï¿½lgende fejl:";
+$locale['415'] = "Filnavnet er fejlbehï¿½ftet.";
+$locale['416'] = "Billedet skal vï¿½re mindre end %s.";
+$locale['417'] = "Billedformatet skal vï¿½re GIF, JPEG eller PNG.";
+$locale['418'] = "Billedet mï¿½ ikke vï¿½re stï¿½rre end %uw x %uh pixels.";
 $locale['419'] = "Album'et kan ikke slettes. Dit kodeord er forkert.";
-$locale['420'] = "GD er ikke installeret pŒ serveren. Fotoalbumfunktionen vil kun virke, nŒr der er adgang til GD. Kontakt din leverand¿r.";
+$locale['420'] = "GD er ikke installeret pï¿½ serveren. Fotoalbumfunktionen vil kun virke, nï¿½r der er adgang til GD. Kontakt din leverandï¿½r.";
 // Album confirmation
-$locale['430'] = "Bekr¾ftelse af sletning";
-$locale['431'] = "Det album, du pr¿ver at slette, indeholder et eller flere billeder<br />\nFor at slette dette album, skal du angive dit administratorkodeord:";
-$locale['432'] = "Bekr¾ft";
+$locale['430'] = "Bekrï¿½ftelse af sletning";
+$locale['431'] = "Det album, du prï¿½ver at slette, indeholder et eller flere billeder<br />\nFor at slette dette album, skal du angive dit administratorkodeord:";
+$locale['432'] = "Bekrï¿½ft";
 $locale['433'] = "Fortryd";
 // Album form
 $locale['440'] = "Overskrift: ";
 $locale['441'] = "Beskrivelse: ";
 $locale['442'] = "Adgang for: ";
-$locale['443'] = "R¾kkef¿lge: ";
+$locale['443'] = "Rï¿½kkefï¿½lge: ";
 $locale['444'] = "Ikon: ";
 $locale['445'] = "Gem album";
 // Current Albums

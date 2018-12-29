@@ -15,6 +15,6 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_size_description'] = "Definerer st¿rrelsen pŒ den udvalgte tekst";
+$locale['bb_size_description'] = "Definerer stï¿½rrelsen pï¿½ den udvalgte tekst";
 $locale['bb_size_usage'] = "Den tekst der skal defineres";
 ?>

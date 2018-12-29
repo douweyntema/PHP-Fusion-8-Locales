@@ -17,10 +17,10 @@
 +--------------------------------------------------------*/
 // News Categories titles
 $locale['400'] = "Rediger nyhedskategori";
-$locale['401'] = "Tilf¿j nyhedskategori";
+$locale['401'] = "Tilfï¿½j nyhedskategori";
 $locale['402'] = "Aktuelle nyhedskategorier";
 // News Categories messages
-$locale['420'] = "Nyhedskategorien er tilf¿jet";
+$locale['420'] = "Nyhedskategorien er tilfï¿½jet";
 $locale['421'] = "Nyhedskategorien er opdateret";
 $locale['422'] = "Nyhedskategorien kan ikke slettes";
 $locale['423'] = "Der er knyttet nyheder til denne kategori";

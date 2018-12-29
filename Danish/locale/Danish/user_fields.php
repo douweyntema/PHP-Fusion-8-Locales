@@ -17,8 +17,8 @@
 +--------------------------------------------------------*/
 // Items shown in profile
 $locale['u040'] = "Dato for oprettelse";
-$locale['u041'] = "Seneste bes¿g";
-$locale['u042'] = "Har ikke v¾ret pŒ siden";
+$locale['u041'] = "Seneste besï¿½g";
+$locale['u042'] = "Har ikke vï¿½ret pï¿½ siden";
 $locale['u043'] = "Send privat besked";
 $locale['u044'] = "Kontaktinformation";
 $locale['u045'] = "Diverse information";
@@ -32,25 +32,25 @@ $locale['u052'] = " Ja ";
 $locale['u053'] = " Nej";
 $locale['u054'] = "Se udelukkelseslog";
 $locale['u055'] = "Brugerstatus:";
-$locale['u056'] = "Årsag";
+$locale['u056'] = "ï¿½rsag";
 $locale['u057'] = "Brugergrupper";
 $locale['u058'] = "Administrative valgmuligheder";
-$locale['u059'] = "Tilf¿j";
-$locale['u060'] = "Skal brugeren tilf¿jes til den valgte gruppe?";
-$locale['u061'] = "Tilf¿j til gruppe";
+$locale['u059'] = "Tilfï¿½j";
+$locale['u060'] = "Skal brugeren tilfï¿½jes til den valgte gruppe?";
+$locale['u061'] = "Tilfï¿½j til gruppe";
 $locale['u062'] = "Brugerens avatar";
 $locale['u063'] = "Brugerniveau";
 $locale['u064'] = "Mail";
 $locale['u066'] = "Oprettelsesdato";
-$locale['u067'] = "Seneste bes¿g";
+$locale['u067'] = "Seneste besï¿½g";
 $locale['u068'] = "Brugernavn";
 $locale['u069'] = "Rediger";
 $locale['u070'] = "Udeluk";
-$locale['u071'] = "Udeluk tidsbegr¾nset";
+$locale['u071'] = "Udeluk tidsbegrï¿½nset";
 $locale['u072'] = "Slet";
 $locale['u073'] = "Skal denne bruger slettes?";
 // Profile and register
-$locale['u100'] = "For at kunne ¾ndre dit kodeord eller din mail adresse<br />skal du angive dit aktuelle kodeord.";
+$locale['u100'] = "For at kunne ï¿½ndre dit kodeord eller din mail adresse<br />skal du angive dit aktuelle kodeord.";
 $locale['u101'] = "Tilmeld";
 $locale['u102'] = "Rediger profil";
 $locale['u103'] = "Profil";
@@ -64,8 +64,8 @@ $locale['uf_102'] = "Bruger avatar indstillinger";
 $locale['uf_103'] = "Generelt";
 $locale['uf_104'] = "Bruger info";
 $locale['uf_105'] = "Profil billede";
-$locale['uf_106'] = "Grundl¾ggende information";
-$locale['uf_107'] = "%s har ingen bruger information tilg¾ngelig.";
+$locale['uf_106'] = "Grundlï¿½ggende information";
+$locale['uf_107'] = "%s har ingen bruger information tilgï¿½ngelig.";
 $locale['uf_108'] = "Brugerfelter ikke fundet.";
 
 
@@ -79,8 +79,8 @@ $locale['u114'] = "Brugertype";
 $locale['u120'] = "Brugernavnet indeholder forbudte karakterer.";
 $locale['u121'] = "Det valgte brugernavn anvendes allerede af en anden bruger.";
 $locale['u122'] = "Der skal angives et brugernavn.";
-$locale['u123'] = "Det ser ud, som om din mail adresse er fejlbeh¾ftet.";
-$locale['u124'] = "Din mail adresse eller dit maildom¾ne ser ud til at v¾re udelukket.";
+$locale['u123'] = "Det ser ud, som om din mail adresse er fejlbehï¿½ftet.";
+$locale['u124'] = "Din mail adresse eller dit maildomï¿½ne ser ud til at vï¿½re udelukket.";
 $locale['u125'] = "Den angivne mail adresse anvendes allerede af en anden bruger.";
 $locale['u126'] = "Der skal angives en mail adresse.";
 $locale['u127'] = "Brugernavn";
@@ -92,79 +92,79 @@ $locale['u131'] = "Administrator kodeord";
 $locale['u132'] = "Kodeord";
 $locale['u133'] = "Aktuelt kodeord";
 $locale['u134'] = "Nyt kodeord";
-$locale['u135'] = "Bekr¾ft kodeord";
+$locale['u135'] = "Bekrï¿½ft kodeord";
 $locale['u136'] = "Kodeordet skal angives.";
 $locale['u137'] = "Dit aktuelle administratorkodeord skal angives.";
 $locale['u138'] = "Dit aktuelle kodeord skal angives.";
 $locale['u139'] = "Dit aktuelle kodeord var ikke korrekt.";
 $locale['u140'] = "Dit aktuelle administrative kodeord var ikke korrekt.";
-$locale['u141'] = " kan ikke v¾re det samme som ";
+$locale['u141'] = " kan ikke vï¿½re det samme som ";
 $locale['u142'] = " er for kort eller indeholder forbudte karakterer!";
 $locale['u143'] = " er ikke den samme!";
-$locale['u143a'] = " mŒ ikke v¾re tom.";
+$locale['u143a'] = " mï¿½ ikke vï¿½re tom.";
 $locale['u144'] = "Nyt admin. kodeord";
-$locale['u145'] = "Bekr¾ft kodeord";
-$locale['u146'] = " kan ikke v¾re identisk med det aktuelle ";
-$locale['u147'] = "Kodeordet skal have en l¾ngde pŒ mellem 8 og 64 karakterer.<br />Tilladte symboler og karakterer er a-z, 0-9 og @!#$%&\/()=-_?+*.,:;";
+$locale['u145'] = "Bekrï¿½ft kodeord";
+$locale['u146'] = " kan ikke vï¿½re identisk med det aktuelle ";
+$locale['u147'] = "Kodeordet skal have en lï¿½ngde pï¿½ mellem 8 og 64 karakterer.<br />Tilladte symboler og karakterer er a-z, 0-9 og @!#$%&\/()=-_?+*.,:;";
 $locale['u148'] = "De to nye kodeord er ikke identiske.";
 $locale['u148a'] = "De to administrative kodeord er ikke identiske.";
-$locale['u149'] = "Der blev ikke angivet et nyt kodeord eller ogsŒ var kodeord forkert.";
+$locale['u149'] = "Der blev ikke angivet et nyt kodeord eller ogsï¿½ var kodeord forkert.";
 $locale['u149a'] = "Dit administrative kodeord blev ikke angivet eller var forkert.";
-$locale['u149b'] = "Dit aktuelle kodeord blev ikke opgivet eller er forkert.<br />Du kan ikke ¾ndre dit administrative kodeord uden at angive det g¾ldende kodeord korrekt.";
+$locale['u149b'] = "Dit aktuelle kodeord blev ikke opgivet eller er forkert.<br />Du kan ikke ï¿½ndre dit administrative kodeord uden at angive det gï¿½ldende kodeord korrekt.";
 // Email actiation
-$locale['u150'] = "Din tilmelding er n¾sten f¾rdig. Du vil modtage en mail med dine pŒlogningsoplysninger sammen med et link, du skal bruge til at verificere din brugerkonto.";
+$locale['u150'] = "Din tilmelding er nï¿½sten fï¿½rdig. Du vil modtage en mail med dine pï¿½logningsoplysninger sammen med et link, du skal bruge til at verificere din brugerkonto.";
 $locale['u151'] = "Velkommen til ".$settings['sitename'];
 $locale['u152'] = "Hej USER_NAME\n
-Velkommen som bruger pŒ ".$settings['sitename'].". Her er dine pŒlogningsoplysninger:\n
+Velkommen som bruger pï¿½ ".$settings['sitename'].". Her er dine pï¿½logningsoplysninger:\n
 Brugernavn: USER_NAME
 Kodeord: USER_PASSWORD\n
-Aktiver din konto ved at klikke pŒ dette link: ACTIVATION_LINK\n\n
+Aktiver din konto ved at klikke pï¿½ dette link: ACTIVATION_LINK\n\n
 Venlig hilsen
 ".$settings['sitename'];
 $locale['u153'] = "Aktiveringsmail kunne ikke afsendes.";
 $locale['u154'] = "Kontakt venligst sidens administrator.";
 $locale['u155'] = "Aktiver din konto";
-$locale['u156'] = "Du skal angive dit aktuelle kodeord for at ¾ndre din mail adresse.";
+$locale['u156'] = "Du skal angive dit aktuelle kodeord for at ï¿½ndre din mail adresse.";
 // Success / Fail
-$locale['u160'] = "Tilmeldingen er gennemf¿rt";
-$locale['u161'] = "Du kan nu logge ind pŒ siden.";
+$locale['u160'] = "Tilmeldingen er gennemfï¿½rt";
+$locale['u161'] = "Du kan nu logge ind pï¿½ siden.";
 $locale['u162'] = "En administrator vil aktivere din konto meget snart.";
 $locale['u163'] = "Profilen blev opdateret.";
 $locale['u164'] = "Opdateringen lykkedes ikke";
 $locale['u165'] = "Der opstod fejl i tilmeldingen";
-$locale['u167'] = "af f¿lgende Œrsag(er):";
-$locale['u168'] = "Fors¿g igen.";
+$locale['u167'] = "af fï¿½lgende ï¿½rsag(er):";
+$locale['u168'] = "Forsï¿½g igen.";
 $locale['u169'] = "Profilen er opdateret";
-$locale['u170'] = "Tilmeldingen er gennemf¿rt";
+$locale['u170'] = "Tilmeldingen er gennemfï¿½rt";
 $locale['u171'] = "Dine kontooplysninger er blevet verificeret.";
-$locale['u172'] = "Brugeren er tilf¿jet.";
+$locale['u172'] = "Brugeren er tilfï¿½jet.";
 $locale['u173'] = "Tilbage til brugeradministration.";
-$locale['u174'] = "Tilf¿j endnu en bruger.";
+$locale['u174'] = "Tilfï¿½j endnu en bruger.";
 // Avatar upload
-$locale['u180'] = "Din avatar var for stor. Gr¾nsen er ".parsebytesize($settings['avatar_filesize']).".";
-$locale['u181'] = "Din avatar ser ud til at v¾re af en forbudt filtype. Der mŒ kun  bruges filer af typen jpg, png og gif.";
-$locale['u182'] = "Din avatar var st¿rre end ".$settings['avatar_width']."x".$settings['avatar_height']." pixels.";
+$locale['u180'] = "Din avatar var for stor. Grï¿½nsen er ".parsebytesize($settings['avatar_filesize']).".";
+$locale['u181'] = "Din avatar ser ud til at vï¿½re af en forbudt filtype. Der mï¿½ kun  bruges filer af typen jpg, png og gif.";
+$locale['u182'] = "Din avatar var stï¿½rre end ".$settings['avatar_width']."x".$settings['avatar_height']." pixels.";
 $locale['u183'] = "Din avatar blev ikke uploadet korrekt.";
-$locale['u184'] = "Maksimal filst¿rrelse: %s / Maksimal st¿rrelse: %ux%u pixels";
+$locale['u184'] = "Maksimal filstï¿½rrelse: %s / Maksimal stï¿½rrelse: %ux%u pixels";
 $locale['u185'] = "Avatar";
-$locale['u186'] = "Klik pŒ <i>gennemse</i> for at uploade et billede";
+$locale['u186'] = "Klik pï¿½ <i>gennemse</i> for at uploade et billede";
 $locale['u187'] = "Slet";
 // Captcha and terms
 $locale['u190'] = "Sikkerhedskode";
 $locale['u191'] = "Indskriv sikkerhedskode";
 $locale['u192'] = "Tilmeldingsbetingelser";
-$locale['u193'] = "Jeg har l¾st <a href='".BASEDIR."print.php?type=T' target='_blank'>tilmeldingsbetingelserne</a> og er indforstŒet med dem.";
+$locale['u193'] = "Jeg har lï¿½st <a href='".BASEDIR."print.php?type=T' target='_blank'>tilmeldingsbetingelserne</a> og er indforstï¿½et med dem.";
 $locale['u194'] = "Forkert sikkerhedskode.";
 $locale['u195'] = "Der skal indskrives en sikkerhedskode.";
 // E-mail Change Confirmation
-$locale['u200'] = "En bekr¾ftelsesmail er sendt til din mail adresse (%s).";
-$locale['u201'] = "Din mail adresse ¾ndres, nŒr du klikker pŒ linket i mailen.";
-$locale['u202'] = "Bekr¾ftelse af mail adresse pŒ - ".$settings['sitename'];
+$locale['u200'] = "En bekrï¿½ftelsesmail er sendt til din mail adresse (%s).";
+$locale['u201'] = "Din mail adresse ï¿½ndres, nï¿½r du klikker pï¿½ linket i mailen.";
+$locale['u202'] = "Bekrï¿½ftelse af mail adresse pï¿½ - ".$settings['sitename'];
 $locale['u203'] = "Hej [USER_NAME]\n
-Du eller en andcen har angivet denne mail adresse i relation til kontoen pŒ vores side.\n
-Hvis du virkelig vil ¾ndre din mail adresse til det angivne, sŒ klik pŒ f¿lgende link:\n
+Du eller en andcen har angivet denne mail adresse i relation til kontoen pï¿½ vores side.\n
+Hvis du virkelig vil ï¿½ndre din mail adresse til det angivne, sï¿½ klik pï¿½ fï¿½lgende link:\n
 [EMAIL_VERIFY_LINK]\n
-Bem¾rk: Du skal v¾re logget pŒ for at forts¾tte.\n
+Bemï¿½rk: Du skal vï¿½re logget pï¿½ for at fortsï¿½tte.\n
 Venlig hilsen
 ".$settings['siteusername']."
 ".$settings['sitename'];

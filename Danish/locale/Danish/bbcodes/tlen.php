@@ -15,6 +15,6 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_tlen_description'] = "Vis status pŒ den polske Tlen kommunikationsfunktion";
+$locale['bb_tlen_description'] = "Vis status pï¿½ den polske Tlen kommunikationsfunktion";
 $locale['bb_tlen_usage'] = "Tlen bruger ID";
 ?>

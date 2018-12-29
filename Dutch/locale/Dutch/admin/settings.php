@@ -56,6 +56,9 @@ $locale['461'] = "Gasten";
 $locale['462'] = "Server compensatie";
 $locale['463'] = "Stel de server tijd in op GMT 0";
 $locale['464'] = "Standaard tijdzone";
+$locale['465'] = "Bootstrap inschakelen";
+$locale['466'] = "Entypo inschakelen";
+$locale['467'] = "Fontawesome inschakelen";
 // Forum Settings
 $locale['500'] = "Forum";
 $locale['501'] = "Laatste actieve forum onderwerpen paneel:";
@@ -90,6 +93,7 @@ $locale['535'] = "Maximaal aantal bijlagen";
 $locale['536'] = "Termijn voor het bewerken van berichten:";
 $locale['537'] = "(In minuten, 0 voor geen limiet)";
 $locale['538'] = "Stel de huidige tijd in voor gewijzigde berichten.";
+$locale['539'] = "Toon profielfoto bij de laatste post in het forum?";
 // Registration Settings
 $locale['550'] = "Aanmelding";
 $locale['551'] = "Aanmeldingssysteem inschakelen?";
@@ -195,7 +199,10 @@ $locale['698'] = "SMTP Authenticatie?";
 $locale['699'] = "Login methode";
 $locale['699b'] = "Beide";
 $locale['699e'] = "Email";
-$locale['699f'] = "Controleer uploaded bestanden op MIME type?";
+$locale['699f'] = "Algemeen";
+$locale['699g'] = "Controleer uploaded bestanden op MIME type?";
+$locale['699h'] = "Registratie Gateway inschakelen?";
+
 // Private Message Settings
 $locale['700'] = "Privé Berichten";
 $locale['701'] = "Berichtenlimiet inbox:";
@@ -298,4 +305,7 @@ $locale['error_type'] = 'Please enter Extension Type.';
 $locale['error_width'] = 'Please enter Width.';
 $locale['error_height'] = 'Please enter Height.';
 $locale['error_value'] = 'Please enter a value.';
+$locale['theme_settings'] = 'Thema Instellingen';
+$locale['theme_description'] = "De configuratie instellingen voor themas";
+
 ?>

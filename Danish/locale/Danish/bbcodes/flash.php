@@ -16,7 +16,7 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['bb_flash_description'] = "Viser en flash animation fra den angivne URL";
-$locale['bb_flash_usage'] = "URL for den ¿nskede animation";
+$locale['bb_flash_usage'] = "URL for den ï¿½nskede animation";
 $locale['bb_flash_width'] = "Bredde i pixels";
-$locale['bb_flash_height'] = "H¿jde i pixels";
+$locale['bb_flash_height'] = "Hï¿½jde i pixels";
 ?>

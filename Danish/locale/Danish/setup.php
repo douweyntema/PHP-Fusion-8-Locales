@@ -21,40 +21,40 @@ $locale['os_version'] = '8.0';
 $locale['xml_lang'] = "da";
 $locale['charset'] = "uft8";
 $locale['001'] = "Trin 1: Sprogvalg";
-$locale['002'] = "Trin 2: Test af tilladelser pŒ filer og foldere";
-$locale['003'] = "Trin 3: Databaseops¾tning";
-$locale['004'] = "Trin 4: Ops¾tning af konfigurationsfil og database";
-$locale['005'] = "Trin 5: Ops¾tning af data vedr¿rende administrationen";
-$locale['006'] = "Trin 6: Afsluttende ops¾tning";
-$locale['007'] = "N¾ste";
+$locale['002'] = "Trin 2: Test af tilladelser pï¿½ filer og foldere";
+$locale['003'] = "Trin 3: Databaseopsï¿½tning";
+$locale['004'] = "Trin 4: Opsï¿½tning af konfigurationsfil og database";
+$locale['005'] = "Trin 5: Opsï¿½tning af data vedrï¿½rende administrationen";
+$locale['006'] = "Trin 6: Afsluttende opsï¿½tning";
+$locale['007'] = "Nï¿½ste";
 $locale['008'] = "Tilbage";
 $locale['009'] = "Afslut";
 
 // Step 1
-$locale['010'] = "V¾lg et sprog";
-$locale['011'] = "Hent flere sprogfiler pŒ <a href='http://www.php-fusion.co.uk'>php-fusion.co.uk</a>.";
+$locale['010'] = "Vï¿½lg et sprog";
+$locale['011'] = "Hent flere sprogfiler pï¿½ <a href='http://www.php-fusion.co.uk'>php-fusion.co.uk</a>.";
 
 // Step 2
-$locale['020'] = "For at installationen kan forts¾tte, skal f¿lgende filer v¾re skrivbare:";
-$locale['021'] = "Skriverettigheder stŒr korrekt, klik pŒ N®STE for at forts¾tte.";
-$locale['022'] = "Skriverettigheder stŒr forkert. Du skal ¾ndre rettigheder pŒ de filer og foldere, som stŒr forkert.";
+$locale['020'] = "For at installationen kan fortsï¿½tte, skal fï¿½lgende filer vï¿½re skrivbare:";
+$locale['021'] = "Skriverettigheder stï¿½r korrekt, klik pï¿½ Nï¿½STE for at fortsï¿½tte.";
+$locale['022'] = "Skriverettigheder stï¿½r forkert. Du skal ï¿½ndre rettigheder pï¿½ de filer og foldere, som stï¿½r forkert.";
 $locale['023'] = "I orden";
-$locale['024'] = "StŒr forkert";
+$locale['024'] = "Stï¿½r forkert";
 $locale['025'] = "Genopfrisk";
 
 // Step 3 - Access criteria
-$locale['030'] = "Database adgangsops¾tning";
-$locale['031'] = "Database v¾rtsnavn:";
+$locale['030'] = "Database adgangsopsï¿½tning";
+$locale['031'] = "Database vï¿½rtsnavn:";
 $locale['032'] = "Database brugernavn:";
 $locale['033'] = "Database kodeord:";
 $locale['034'] = "Databasenavn:";
 $locale['035'] = "Tabellernes fornavn:";
 $locale['036'] = "Cookiens fornavn:";
 $locale['037'] = "Aktiver PDO eller MySqli";
-$locale['038'] = "PDO er ikke tilg¾ngelig";
+$locale['038'] = "PDO er ikke tilgï¿½ngelig";
 $locale['039'] = "PDO";
 $locale['039b'] = "MySqli";
-$locale['039c'] = "V¾lg sprog der skal benyttes:";
+$locale['039c'] = "Vï¿½lg sprog der skal benyttes:";
 
 // Step 4 - Database Setup
 $locale['040'] = "Forbindelse til databasen er etableret.";
@@ -64,20 +64,20 @@ $locale['043'] = "Fejl:";
 $locale['044'] = "Var ikke i stand til at komme i forbindelse med databasen.";
 $locale['045'] = "Kontroller dine MySQL oplysninger.";
 $locale['046'] = "Kunne ikke skrive til konfigurationsfilen.";
-$locale['047'] = "S¿rg for at filen config.php er Œben for skrivning.";
+$locale['047'] = "Sï¿½rg for at filen config.php er ï¿½ben for skrivning.";
 $locale['048'] = "Var ikke i stand til at skabe tabellerne i databasen.";
-$locale['049'] = "Angiv navnet pŒ din database.";
-$locale['050'] = "Ude af stand til at kobles pŒ din MySQL database.";
+$locale['049'] = "Angiv navnet pï¿½ din database.";
+$locale['050'] = "Ude af stand til at kobles pï¿½ din MySQL database.";
 $locale['051'] = "Den angivne MySQL database eksisterer ikke.";
 $locale['052'] = "Fejl i fornavnet til tabellerne.";
 $locale['053'] = "Det angivne fornavn bruges allerede.";
 $locale['054'] = "Kunne ikke skrive til eller slette tabeller i MySQL.";
-$locale['055'] = "Du skal sikre dig, at din MySQL bruger har l¾se, skrive og sletterettigheder til den valgte database.";
+$locale['055'] = "Du skal sikre dig, at din MySQL bruger har lï¿½se, skrive og sletterettigheder til den valgte database.";
 $locale['056'] = "Tomme felter.";
-$locale['057'] = "Du skal sikre dig, at du har angivet alle n¿dvendige oplysninger for at kunne etablere forbindelse til MySQL.";
+$locale['057'] = "Du skal sikre dig, at du har angivet alle nï¿½dvendige oplysninger for at kunne etablere forbindelse til MySQL.";
 
 // Step 5 - Super Admin login
-$locale['060'] = "Hovedadministratorens pŒlogningsoplysninger";
+$locale['060'] = "Hovedadministratorens pï¿½logningsoplysninger";
 $locale['061'] = "Brugernavn:";
 $locale['062'] = "Kodeord:";
 $locale['063'] = "Gentag kodeord:";
@@ -89,11 +89,11 @@ $locale['066'] = "Mail adresse:";
 $locale['070'] = "Brugernavnet indeholder forkerte karakterer.";
 $locale['070b'] ="Brugernavnet skal opgives.";
 $locale['071'] = "Dine to kodeord er ikke identiske.";
-$locale['072'] = "Forkert kodeord. Du mŒ kun bruge alfanumeriske karakterer.<br />Kodeordet skal mindst v¾re pŒ 8 karakterer.";
+$locale['072'] = "Forkert kodeord. Du mï¿½ kun bruge alfanumeriske karakterer.<br />Kodeordet skal mindst vï¿½re pï¿½ 8 karakterer.";
 $locale['072b'] ="Kodeord skal opgives";
 $locale['073'] = "De to administratorkodeord er ikke identiske.";
-$locale['074'] = "Brugerkodeord og administratorkodeord skal v¾re forskellige.";
-$locale['075'] = "Dit administratorkodeord er ikke gyldigt. Du mŒ kun bruge alfanumeriske karakterer.<br />Kodeordet skal v¾re pŒ mindst 8 karakterer.";
+$locale['074'] = "Brugerkodeord og administratorkodeord skal vï¿½re forskellige.";
+$locale['075'] = "Dit administratorkodeord er ikke gyldigt. Du mï¿½ kun bruge alfanumeriske karakterer.<br />Kodeordet skal vï¿½re pï¿½ mindst 8 karakterer.";
 $locale['075b'] ="Administratorkodeord skal opgives.";
 $locale['076'] = "Det ser ikke ud, som om du har opgivet en korrekt mail adresse.";
 $locale['076b'] ="Mail adresse skal opgives.";
@@ -131,10 +131,10 @@ $locale['107'] = "Opgradering";
 $locale['108'] = "Brugergrupper";
 $locale['109'] = "Linkkategorier";
 $locale['110'] = "Links";
-$locale['111'] = "Hovedops¾tning";
-$locale['112'] = "Ops¾tning af dato og klokkesl¾t";
-$locale['113'] = "Debatops¾tning";
-$locale['114'] = "Tilmeldingsops¾tning";
+$locale['111'] = "Hovedopsï¿½tning";
+$locale['112'] = "Opsï¿½tning af dato og klokkeslï¿½t";
+$locale['113'] = "Debatopsï¿½tning";
+$locale['114'] = "Tilmeldingsopsï¿½tning";
 $locale['115'] = "Fotoalbums";
 $locale['116'] = "Diverse";
 $locale['117'] = "Private beskeder";
@@ -142,19 +142,19 @@ $locale['118'] = "Brugerfelter";
 $locale['119'] = "Rangsystem";
 $locale['120'] = "Kategorier for brugerfelter";
 $locale['121'] = "Nyheder";
-$locale['122'] = "BrugerhŒndtering";
+$locale['122'] = "Brugerhï¿½ndtering";
 $locale['123'] = "Downloads";
 $locale['124'] = "Nyheder, artikler og lignende pr. side";
 $locale['125'] = "Sikkerhed";
-$locale['126'] = "Nyhedsops¾tning";
-$locale['127'] = "Downloads - ops¾tning";
-$locale['128'] = "Ændring af administrativt kodeord";
+$locale['126'] = "Nyhedsopsï¿½tning";
+$locale['127'] = "Downloads - opsï¿½tning";
+$locale['128'] = "ï¿½ndring af administrativt kodeord";
 $locale['129'] = "Fejllog";
 $locale['129a'] = "Brugerlog";
 $locale['129b'] = "robots.txt";
 $locale['129c'] = "Sprog indstillinger";
 $locale['129d'] = "Permalinks";
-$locale['129e'] = "Migrations v¾rkt¿j";
+$locale['129e'] = "Migrations vï¿½rktï¿½j";
 $locale['129f'] = "Tema indstillinger";
 $locale['130a'] = "Blog kategorier";
 $locale['130b'] = "Blog";
@@ -171,18 +171,18 @@ $locale['135'] = "Kontakt siden";
 $locale['136'] = "Nyhedskategorier";
 $locale['137'] = "Links";
 $locale['138'] = "Fotoalbum";
-$locale['139'] = "S¿g";
-$locale['140'] = "ForeslŒ link";
-$locale['141'] = "ForeslŒ nyhed";
-$locale['142'] = "ForeslŒ artikel";
-$locale['143'] = "ForeslŒ billede";
-$locale['144'] = "ForeslŒ download";
-$locale['145'] = "ForeslŒ blog";
+$locale['139'] = "Sï¿½g";
+$locale['140'] = "Foreslï¿½ link";
+$locale['141'] = "Foreslï¿½ nyhed";
+$locale['142'] = "Foreslï¿½ artikel";
+$locale['143'] = "Foreslï¿½ billede";
+$locale['144'] = "Foreslï¿½ download";
+$locale['145'] = "Foreslï¿½ blog";
 
 // Stage 6 - Panels
 $locale['160'] = "Navigation";
 $locale['161'] = "Brugere online";
-$locale['162'] = "Debatindl¾g";
+$locale['162'] = "Debatindlï¿½g";
 $locale['163'] = "Nyeste artikler";
 $locale['164'] = "Velkomstbesked";
 $locale['165'] = "Liste over debatter";
@@ -217,7 +217,7 @@ $locale['185'] = "Journal";
 $locale['186'] = "Brugere";
 $locale['187'] = "Mods";
 $locale['188'] = "Film";
-$locale['189'] = "Netv¾rk";
+$locale['189'] = "Netvï¿½rk";
 $locale['190'] = "Nyheder";
 $locale['191'] = "PHP-Fusion";
 $locale['192'] = "Sikkerhed";
@@ -230,9 +230,9 @@ $locale['200'] = "Superadministrator";
 $locale['201'] = "Administrator";
 $locale['202'] = "Ordstyrer";
 $locale['203'] = "Begynder";
-$locale['204'] = "Lidt ¿vet";
+$locale['204'] = "Lidt ï¿½vet";
 $locale['205'] = "Medlem";
-$locale['206'] = "Meget ¿vet";
+$locale['206'] = "Meget ï¿½vet";
 $locale['207'] = "Erfaren bruger";
 $locale['208'] = "Ekspert";
 
@@ -258,10 +258,10 @@ $locale['224'] = "Privaliv";
 $locale['230'] = "Velkommen til din side";
 
 // Final message
-$locale['240'] = "Installationen er f¾rdig, og PHP-Fusion 7 er nu klar til brug.<br />
-<a href='index.php'>Klik her</a> for at gŒ videre til din nye PHP-Fusion-side.<br />
-<strong>HUSK</strong> at du b¿r slette filen setup.php fra din server og ¾ndre rettighederne<br />
-pŒ filen config.php tilbage til 644 af sikkerhedshensyn<br /><br />
+$locale['240'] = "Installationen er fï¿½rdig, og PHP-Fusion 7 er nu klar til brug.<br />
+<a href='index.php'>Klik her</a> for at gï¿½ videre til din nye PHP-Fusion-side.<br />
+<strong>HUSK</strong> at du bï¿½r slette filen setup.php fra din server og ï¿½ndre rettighederne<br />
+pï¿½ filen config.php tilbage til 644 af sikkerhedshensyn<br /><br />
 Tak fordi du valgte PHP-Fusion.";
 
 // Default time settings
@@ -271,14 +271,14 @@ $locale['forumdate'] = "%d-%m-%Y %H:%M";
 $locale['newsdate'] = "%d %B %Y";
 $locale['subheaderdate'] = " %d %B %Y %H:%M:%S";
 
-// Email Template Setup, don«t translate the words between brackets [].
+// Email Template Setup, donï¿½t translate the words between brackets [].
 $locale['T001'] = "Mail skabeloner";
 $locale['T101'] = "Underretning ved ny PB";
-$locale['T102'] = "Du har en ny privat besked fra [USER] ventende pŒ [SITENAME]";
-$locale['T103'] = "Hej [RECEIVER],\r\nDu har modtaget en ny privat besked med emnet [SUBJECT] fra [USER] pŒ [SITENAME]. Du kan l¾se din private besked pŒ [SITEURL]messages.php\r\n\r\nBesked: [MESSAGE]\r\n\r\nDu kan deaktivere underretningen fra Private beskeder administrationen hvis du ikke l¾ngere ¿nsker at modtage dem.\r\n\r\nMed venlig hilsen,\r\n[SENDER].";
-$locale['T201'] = "Underretning om nye debatforum indl¾g";
-$locale['T202'] = "TrŒdsvar underretning - [SUBJECT]";
-$locale['T203'] = "Hej [RECEIVER],\r\n\r\nEt svar er oprettet i den debattrŒd \'[SUBJECT]\' du f¿lger pŒ [SITENAME]. Se svaret pŒ f¿lgende link:\r\n\r\n[THREAD_URL]\r\n\r\n¯nsker du ikke l¾ngere at f¿lge denne trŒd kan du klikke pŒ \'Hold op med at f¿lge denne trŒd\' linket i toppen af trŒden.\r\n\r\nMed venlig hilsen,\r\n[SENDER].";
+$locale['T102'] = "Du har en ny privat besked fra [USER] ventende pï¿½ [SITENAME]";
+$locale['T103'] = "Hej [RECEIVER],\r\nDu har modtaget en ny privat besked med emnet [SUBJECT] fra [USER] pï¿½ [SITENAME]. Du kan lï¿½se din private besked pï¿½ [SITEURL]messages.php\r\n\r\nBesked: [MESSAGE]\r\n\r\nDu kan deaktivere underretningen fra Private beskeder administrationen hvis du ikke lï¿½ngere ï¿½nsker at modtage dem.\r\n\r\nMed venlig hilsen,\r\n[SENDER].";
+$locale['T201'] = "Underretning om nye debatforum indlï¿½g";
+$locale['T202'] = "Trï¿½dsvar underretning - [SUBJECT]";
+$locale['T203'] = "Hej [RECEIVER],\r\n\r\nEt svar er oprettet i den debattrï¿½d \'[SUBJECT]\' du fï¿½lger pï¿½ [SITENAME]. Se svaret pï¿½ fï¿½lgende link:\r\n\r\n[THREAD_URL]\r\n\r\nï¿½nsker du ikke lï¿½ngere at fï¿½lge denne trï¿½d kan du klikke pï¿½ \'Hold op med at fï¿½lge denne trï¿½d\' linket i toppen af trï¿½den.\r\n\r\nMed venlig hilsen,\r\n[SENDER].";
 $locale['T301'] = "Kontakt formular";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";

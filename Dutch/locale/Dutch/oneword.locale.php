@@ -55,7 +55,8 @@ $locale['edit'] = "Wijzig";
 $locale['view'] = "Bekijk";
 $locale['login'] = "Inloggen";
 $locale['logout'] = "Uitloggen";
-$locale['message'] = "Priv&eacute; Berichten";
+$locale['pm'] = "Priv&eacute; Berichten";
 $locale['logged'] = "Ingelogd als ";
 $locale['version'] = "Versie ";
+$locale['browse'] = "Bladeren ...";
 ?>

@@ -21,5 +21,6 @@ $locale['417'] = "Geen Infusies beschikbaar.";
 $locale['418'] = "Status";
 $locale['419'] = "Opties";
 $locale['420'] = "Versie";
-$locale['421'] = "Auteur"
+$locale['421'] = "Auteur";
+$locale['422'] = "Download meer toevoegingen";
 ?>

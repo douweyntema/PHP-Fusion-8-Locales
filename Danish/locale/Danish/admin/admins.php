@@ -16,26 +16,26 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // Administrators messages
-$locale['400'] = "Administrator er tilf¿jet";
+$locale['400'] = "Administrator er tilfï¿½jet";
 $locale['401'] = "Administrator er opdateret";
 $locale['402'] = "Administrator er fjernet";
 // Search/Add Administrator
-$locale['410'] = "Tilf¿j administrator";
-$locale['411'] = "S¿g efter brugere ved at anvende formularen nedenfor.";
+$locale['410'] = "Tilfï¿½j administrator";
+$locale['411'] = "Sï¿½g efter brugere ved at anvende formularen nedenfor.";
 $locale['412'] = "Bruger-ID";
 $locale['413'] = "Brugernavn";
-$locale['414'] = "S¿g";
+$locale['414'] = "Sï¿½g";
 $locale['415'] = "Giv bruger alle rettigheder";
-$locale['416'] = "G¿r brugeren til superadministrator";
-$locale['417'] = "Tilf¿j administrator";
+$locale['416'] = "Gï¿½r brugeren til superadministrator";
+$locale['417'] = "Tilfï¿½j administrator";
 $locale['418'] = "Ingen brugere fundet.";
-$locale['419'] = "S¿g igen";
+$locale['419'] = "Sï¿½g igen";
 // Current Administrators
 $locale['420'] = "Administratorer";
 $locale['421'] = "Brugernavn";
 $locale['422'] = "Administrator niveau";
 $locale['423'] = "Valgmuligheder";
-$locale['424'] = "Prim¾r administrator";
+$locale['424'] = "Primï¿½r administrator";
 $locale['425'] = "Der er ikke tildelt rettigheder";
 $locale['426'] = "Rediger";
 $locale['427'] = "Fjern";
@@ -45,19 +45,19 @@ $locale['441'] = "Indholdsadministration";
 $locale['442'] = "Brugeradministration";
 $locale['443'] = "Systemadministration";
 $locale['444'] = "Infusioner";
-$locale['445'] = "V¾lg alle";
-$locale['446'] = "Frav¾lg alle";
+$locale['445'] = "Vï¿½lg alle";
+$locale['446'] = "Fravï¿½lg alle";
 $locale['447'] = "Admin kodeord:";
 $locale['448'] = "Gem administrator rettigheder";
-$locale['449'] = "Ops¾tning";
-$locale['450'] = "V¾lg kun sikre";
+$locale['449'] = "Opsï¿½tning";
+$locale['450'] = "Vï¿½lg kun sikre";
 // Popup Error/Warning Messages
 $locale['460'] = "Fjern denne administrator?";
-$locale['461'] = "Skal administratoren tilf¿jes?";
-$locale['462'] = "Giver du administrative rettigheder til en bruger, sŒ udg¿r det potentielt en sikkerhedsrisiko!";
+$locale['461'] = "Skal administratoren tilfï¿½jes?";
+$locale['462'] = "Giver du administrative rettigheder til en bruger, sï¿½ udgï¿½r det potentielt en sikkerhedsrisiko!";
 // Remove Admin confirmation
 $locale['470'] = "Slet Admin";
 $locale['471'] = "For at kunne fjerne denne Administrator, skal du indtaste dit admin kodeord:";
-$locale['472'] = "Bekr¾ft";
+$locale['472'] = "Bekrï¿½ft";
 $locale['473'] = "Fortryd";
 ?>

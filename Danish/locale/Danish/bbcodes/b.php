@@ -16,5 +16,5 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['bb_b_description'] = "Viser den udvalgte tekst som fed skrift";
-$locale['bb_b_usage'] = "Den tekst der skal v¾re i fed";
+$locale['bb_b_usage'] = "Den tekst der skal vï¿½re i fed";
 ?>

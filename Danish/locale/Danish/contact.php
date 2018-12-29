@@ -17,9 +17,9 @@
 +--------------------------------------------------------*/
 // Contact Form
 $locale['400'] = "Kontakt siden";
-$locale['401'] = "Der er flere mŒder, du kan kontakte siden pŒ. Du kan sende en mail pŒ adressen ".hide_email($settings['siteemail']).". 
-Hvis du er medlem pŒ siden, kan du sende administratoren en privat besked. Alternativt kan du udfylde formularen
-her pŒ siden, sŒ vil din besked blive sendt som en mail.";
+$locale['401'] = "Der er flere mï¿½der, du kan kontakte siden pï¿½. Du kan sende en mail pï¿½ adressen ".hide_email($settings['siteemail']).". 
+Hvis du er medlem pï¿½ siden, kan du sende administratoren en privat besked. Alternativt kan du udfylde formularen
+her pï¿½ siden, sï¿½ vil din besked blive sendt som en mail.";
 $locale['402'] = "Navn:";
 $locale['403'] = "Mailadresse:";
 $locale['404'] = "Emne:";
@@ -38,5 +38,5 @@ $locale['425'] = "Intern fejl: Kan ikke sende din besked.";
 $locale['440'] = "Din besked er sendt";
 $locale['441'] = "Tak skal du have";
 $locale['442'] = "Din besked blev ikke sendt fordi du har glemt:";
-$locale['443'] = "Pr¿v igen.";
+$locale['443'] = "Prï¿½v igen.";
 ?>

@@ -17,16 +17,16 @@
 +--------------------------------------------------------*/
 // News titles
 $locale['400'] = "Eksisterende nyheder";
-$locale['401'] = "Tilf¿j nyhed";
+$locale['401'] = "Tilfï¿½j nyhed";
 $locale['402'] = "Rediger nyhed";
 // News messages
-$locale['410'] = "Nyheden er tilf¿jet";
+$locale['410'] = "Nyheden er tilfï¿½jet";
 $locale['411'] = "Nyheden er opdateret";
 $locale['412'] = "Nyheden er slettet";
-$locale['413'] = "Fejlagtigt filnavn pŒ billeder.";
-$locale['414'] = "Billedet skal være mindre end %s.";
-$locale['415'] = "Billedformatet skal v¾re GIF, JPEG eller PNG.";
-$locale['416'] = "Billedet mŒ ikke v¾re st¿rre end %uw x %uh pixels.";
+$locale['413'] = "Fejlagtigt filnavn pï¿½ billeder.";
+$locale['414'] = "Billedet skal vï¿½re mindre end %s.";
+$locale['415'] = "Billedformatet skal vï¿½re GIF, JPEG eller PNG.";
+$locale['416'] = "Billedet mï¿½ ikke vï¿½re stï¿½rre end %uw x %uh pixels.";
 // News form
 $locale['420'] = "Rediger";
 $locale['421'] = "Slet";
@@ -40,20 +40,20 @@ $locale['428'] = "Stopdato:";
 $locale['429'] = "(Valgfri)";
 $locale['430'] = "Ses af: ";
 $locale['431'] = "Gem som udkast";
-$locale['432'] = "FŒ denne nyhed til at blive i toppen";
+$locale['432'] = "Fï¿½ denne nyhed til at blive i toppen";
 $locale['433'] = "Automatiske linjeskift";
-$locale['434'] = "SlŒ kommentarer til";
-$locale['435'] = "SlŒ vurdering til";
+$locale['434'] = "Slï¿½ kommentarer til";
+$locale['435'] = "Slï¿½ vurdering til";
 $locale['436'] = "Se nyheden";
 $locale['437'] = "Gem nyhed";
 $locale['438'] = "[UDKAST]";
 $locale['439'] = "Nyhedsbillede";
-$locale['440'] = "Maksimal filst¿rrelse: %s / Tilladte filtyper: GIF, JPEG eller PNG.";
+$locale['440'] = "Maksimal filstï¿½rrelse: %s / Tilladte filtyper: GIF, JPEG eller PNG.";
 $locale['441'] = "Sideskift";
 // Popup Error/Warning Messages
 $locale['450'] = "Du skal angive en overskrift";
 $locale['451'] = "Skal denne nyhed slettes?";
-$locale['452'] = "%s er nu slået fra for alle nyheder.<br />Denne valgmulighed bliver f¿rst aktiv igen, nŒr funktionen slŒs til.";
+$locale['452'] = "%s er nu slï¿½et fra for alle nyheder.<br />Denne valgmulighed bliver fï¿½rst aktiv igen, nï¿½r funktionen slï¿½s til.";
 $locale['453'] = "Kommentarer";
 $locale['454'] = "Vurdering";
 $locale['455'] = $locale['453']." and ".$locale['454'];

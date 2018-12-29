@@ -18,42 +18,42 @@
 // Member Management Options
 $locale['400'] = "Brugere";
 $locale['401'] = "Brugernavn";
-$locale['402'] = "Tilf¿j ny bruger";
+$locale['402'] = "Tilfï¿½j ny bruger";
 $locale['403'] = "Brugerstatus";
 $locale['404'] = "Valgmuligheder";
 $locale['405'] = "Se";
 $locale['406'] = "Rediger";
 $locale['407'] = "Aktiver";
-$locale['408'] = "Oph¾v udelukkelse";
+$locale['408'] = "Ophï¿½v udelukkelse";
 $locale['409'] = "Udeluk";
 $locale['410'] = "Slet";
 $locale['411'] = "Der er ikke fundet: <i>%s brugere</i>";
 $locale['412'] = ", hvis brugernavn begynder med ";
-$locale['413'] = ", der passer pŒ s¿gekriteriet ";
+$locale['413'] = ", der passer pï¿½ sï¿½gekriteriet ";
 $locale['414'] = "Vis alle";
-$locale['415'] = "S¿g efter bruger:";
-$locale['416'] = "S¿g";
-$locale['417'] = "V¾lg handling";
+$locale['415'] = "Sï¿½g efter bruger:";
+$locale['416'] = "Sï¿½g";
+$locale['417'] = "Vï¿½lg handling";
 $locale['418'] = "Fortryd";
 $locale['419'] = "Genopret";
 // Ban/Unban/Delete Member
-$locale['420'] = "Udelukkelsen er gennemf¿rt";
-$locale['421'] = "Udelukkelsen er oph¾vet";
+$locale['420'] = "Udelukkelsen er gennemfï¿½rt";
+$locale['421'] = "Udelukkelsen er ophï¿½vet";
 $locale['422'] = "Brugeren er slettet";
-$locale['423'] = "Er du sikker pŒ, at denne bruger skal slettes?";
+$locale['423'] = "Er du sikker pï¿½, at denne bruger skal slettes?";
 $locale['424'] = "Brugerkonto aktiveret";
 $locale['425'] = "<h2>Advarsel!</h2><br />
 Du er ved at slette bruger <strong>%s</strong> !<br />
-F¿lgende indhold <u>oprettet af denne bruger</u> pŒ denne hjemmeside vil blive slettet hvis du forts¾tter:<br />
+Fï¿½lgende indhold <u>oprettet af denne bruger</u> pï¿½ denne hjemmeside vil blive slettet hvis du fortsï¿½tter:<br />
 - Artikler<br />
 - Nyheder<br />
-- DebatforumtrŒde. Bem¾rk at indl¾g oprettet af andre brugere i disse trŒde ogsŒ vil blive slettet, sammen med afgivne stemmer i afstemninger og filvedh¾ftelser.<br />
-- Debatforumindl¾g<br />
-- Debatforum vedh¾ftelser<br />
+- Debatforumtrï¿½de. Bemï¿½rk at indlï¿½g oprettet af andre brugere i disse trï¿½de ogsï¿½ vil blive slettet, sammen med afgivne stemmer i afstemninger og filvedhï¿½ftelser.<br />
+- Debatforumindlï¿½g<br />
+- Debatforum vedhï¿½ftelser<br />
 - Kommentarer<br />
 - Private beskeder sendt eller modtaget af denne bruger<br />
 - Afgivne afstemningsstemmer<br />
-- Afgivne bed¿mmelser<br />
+- Afgivne bedï¿½mmelser<br />
 Medmindre det f.eks. er en spammer anbefaler vi at du i stedet for udelukker, suspenderer eller anonymiserer brugeren.<br />
 <br />
 Vil du slette denne bruger?<br />";
@@ -66,9 +66,9 @@ $locale['432'] = "Tilbage til brugerstyring";
 $locale['433'] = "Tilbage til administration";
 $locale['434'] = "Var ikke i stand til at opdatere brugeroplysninger:";
 // Extra Edit Member Details form options
-$locale['440'] = "Gem ¾ndringer";
+$locale['440'] = "Gem ï¿½ndringer";
 // Update Profile Errors
-$locale['450'] = "Den prim¾re administrator kan ikke redigeres.";
+$locale['450'] = "Den primï¿½re administrator kan ikke redigeres.";
 $locale['451'] = "Du skal angive et brugernavn og en mail adresse.";
 $locale['452'] = "Brugernavnet indeholder forbudte tegn.";
 $locale['453'] = "Brugernavnet ".(isset($_POST['user_name']) ? $_POST['user_name'] : "")." anvendes allerede.";
@@ -76,14 +76,14 @@ $locale['454'] = "Fejl i mail adresse.";
 $locale['455'] = "Mail adressen ".(isset($_POST['user_email']) ? $_POST['user_email'] : "")." anvendes allerede.";
 $locale['456'] = "De to kodeord er ikke identiske.";
 $locale['457'] = "Der er fejl i kodeordet, brug kun alfanumeriske karakterer.<br />
-Kodeordet skal v¾re pŒ mindst 8 tegn.";
-$locale['458'] = "<strong>Advarsel:</strong> fejl i udf¿relsen af scriptet.";
+Kodeordet skal vï¿½re pï¿½ mindst 8 tegn.";
+$locale['458'] = "<strong>Advarsel:</strong> fejl i udfï¿½relsen af scriptet.";
 // View Member Profile
 $locale['470'] = "Brugerprofil";
 $locale['472'] = "Statistik";
 $locale['473'] = "Brugergrupper";
 // Add Member Errors
-$locale['480'] = "Tilf¿j bruger";
+$locale['480'] = "Tilfï¿½j bruger";
 $locale['481'] = "Brugerkontoen er oprettet.";
 $locale['482'] = "Brugerkontoen kunne ikke oprettes.";
 // Suspension Log 
@@ -92,66 +92,66 @@ $locale['511s'] = "Der er ikke registreret udelukkelse for denne bruger.";
 $locale['512s'] = "Tidligere udelukkelse for ";
 $locale['513'] = "Nr."; // as in number
 $locale['514'] = "Dato";
-$locale['515'] = "rsag";
+$locale['515'] = "ï¿½rsag";
 $locale['516'] = "Udelukket af";
 $locale['517'] = "Systemhandling";
 $locale['518'] = "Tilbage til brugerprofil";
 $locale['519'] = "Udelukkelseshistorik for denne bruger ";
-$locale['520'] = "Oph¾vet: ";
+$locale['520'] = "Ophï¿½vet: ";
 $locale['521'] = "IP: ";
 $locale['522'] = "Endnu ikke genaktiveret";
 $locale['540'] = "Fejl";
-$locale['541'] = "Fejl: Du skal angive en Œrsag til udelukkelsen!";
-$locale['542'] = "Fejl: Du skal angive en Œrsag til sikkerhedsudelukkelsen!";
+$locale['541'] = "Fejl: Du skal angive en ï¿½rsag til udelukkelsen!";
+$locale['542'] = "Fejl: Du skal angive en ï¿½rsag til sikkerhedsudelukkelsen!";
 // User Management Admin
-$locale['550'] = "Suspendér bruger: ";
+$locale['550'] = "Suspendï¿½r bruger: ";
 $locale['551'] = "Varighed i dage:";
-$locale['552'] = "rsag:";
+$locale['552'] = "ï¿½rsag:";
 $locale['553'] = "Udelukket af";
 $locale['554'] = "Der er ikke registreret udelukkelse for denne bruger.";
-$locale['555'] = "Hvis du beslutter, at denne bruger skal udelukkes, sŒ klik UDELUK";
-$locale['556'] = "Oph¾v udelukkelse af brugeren: ";
-$locale['557'] = "Oph¾v suspension";
+$locale['555'] = "Hvis du beslutter, at denne bruger skal udelukkes, sï¿½ klik UDELUK";
+$locale['556'] = "Ophï¿½v udelukkelse af brugeren: ";
+$locale['557'] = "Ophï¿½v suspension";
 $locale['558'] = "Fjern udelukkelse af brugeren: ";
-$locale['559'] = "Oph¾v udelukkelse for: ";
-$locale['560'] = "Oph¾v sikkerhedsudelukkelse for brugeren: ";
-$locale['561'] = "Oph¾v sikkerhedsudelukkelse";
+$locale['559'] = "Ophï¿½v udelukkelse for: ";
+$locale['560'] = "Ophï¿½v sikkerhedsudelukkelse for brugeren: ";
+$locale['561'] = "Ophï¿½v sikkerhedsudelukkelse";
 $locale['562'] = "Udeluk brugeren: ";
 $locale['563'] = "Sikkerhedsudeluk brugeren: ";
-$locale['585a'] = "Angiv en Œrsag til udelukkelse eller oph¾velse af udelukkelse for brugeren: ";
-$locale['566'] = "Udelukkelsen er oph¾vet";
-$locale['568'] = "Sikkerhedsudelukkelse gennemf¿rt";
-$locale['569'] = "Sikkerhedsudelukkelse oph¾vet";
+$locale['585a'] = "Angiv en ï¿½rsag til udelukkelse eller ophï¿½velse af udelukkelse for brugeren: ";
+$locale['566'] = "Udelukkelsen er ophï¿½vet";
+$locale['568'] = "Sikkerhedsudelukkelse gennemfï¿½rt";
+$locale['569'] = "Sikkerhedsudelukkelse ophï¿½vet";
 $locale['572'] = "Brugeren er suspenderet";
-$locale['573'] = "Suspensionen er oph¾vet";
+$locale['573'] = "Suspensionen er ophï¿½vet";
 $locale['574'] = "Brugeren er deaktiveret";
 $locale['575'] = "Brugeren er genaktiveret";
 $locale['576'] = "Kontoen er slettet";
-$locale['577'] = "Sletning af brugerkonto oph¾vet";
+$locale['577'] = "Sletning af brugerkonto ophï¿½vet";
 $locale['578'] = "Brugerkontoen er slettet og brugeren anonymiseret";
-$locale['579'] = "Anonymiseringen er oph¾vet";
+$locale['579'] = "Anonymiseringen er ophï¿½vet";
 $locale['580'] = "Fjern inaktive brugere";
-$locale['581'] = "Du har flere end 50 inaktive brugere og er n¿dt til at gennemf¿re processen <strong>%d gange</strong>.";
+$locale['581'] = "Du har flere end 50 inaktive brugere og er nï¿½dt til at gennemfï¿½re processen <strong>%d gange</strong>.";
 $locale['582'] = "Genaktiver";
-$locale['583'] = "Geninds¾t";
-$locale['584'] = "V¾lg ny status";
-$locale['585'] = "Denne bruger blev oprindelig udelukket af sikkerhedsŒrsager! Er du sikker pŒ, at du vil genaktivere brugeren nu?";
-$locale['590'] = "Suspendr";
-$locale['591'] = "Oph¾v suspension";
+$locale['583'] = "Genindsï¿½t";
+$locale['584'] = "Vï¿½lg ny status";
+$locale['585'] = "Denne bruger blev oprindelig udelukket af sikkerhedsï¿½rsager! Er du sikker pï¿½, at du vil genaktivere brugeren nu?";
+$locale['590'] = "Suspendï¿½r";
+$locale['591'] = "Ophï¿½v suspension";
 $locale['592'] = "udelukker";
-$locale['593'] = "oph¾ver udelukkelsen af";
-$locale['594'] = "Angiv en Œrsag til at du ";
+$locale['593'] = "ophï¿½ver udelukkelsen af";
+$locale['594'] = "Angiv en ï¿½rsag til at du ";
 $locale['595'] = " brugeren ";
 $locale['596'] = "Varighed:";
 $locale['600'] = "Sikkerhedsudelukkelse";
 $locale['601'] = "sikkerhedsudelukkelse";
-$locale['602'] = "Oph¾v";
-$locale['603'] = "oph¾ver";
-$locale['604'] = "Årsag:";
+$locale['602'] = "Ophï¿½v";
+$locale['603'] = "ophï¿½ver";
+$locale['604'] = "ï¿½rsag:";
 // Deactivation System
-$locale['610'] = "<strong>%d bruger(e)</strong> har ikke v¾ret logget pŒ i <strong>%d dag(e)</strong> og er markeret som inaktive. 
-Ved at deaktivere disse brugere vil de fŒ <strong>%d dag(e)</strong> f¿r de bliver %s.";
-$locale['611'] = "Bem¾rk at visse brugere kan have bidraget med indhold til siden sŒ som debatindl¾g, kommentarer, billeder og sŒ videre.
+$locale['610'] = "<strong>%d bruger(e)</strong> har ikke vï¿½ret logget pï¿½ i <strong>%d dag(e)</strong> og er markeret som inaktive. 
+Ved at deaktivere disse brugere vil de fï¿½ <strong>%d dag(e)</strong> fï¿½r de bliver %s.";
+$locale['611'] = "Bemï¿½rk at visse brugere kan have bidraget med indhold til siden sï¿½ som debatindlï¿½g, kommentarer, billeder og sï¿½ videre.
 Dette indhold vil blive slettet, hvis deaktiverede brugere slettes.";
 $locale['612'] = "bruger";
 $locale['613'] = "brugere";
@@ -159,8 +159,8 @@ $locale['614'] = "Deaktiver";
 $locale['615'] = "slettet helt";
 $locale['616'] = "anonymiser";
 $locale['617'] = "Advarsel:";
-$locale['618'] = "Det anbefales st¾rkt at ¾ndre den handling, som udl¿ses af en deaktivering til anonymisering i stedet for sletning for ikke at miste data!";
-$locale['619'] = "Det kan du g¿re det samme <a href='".ADMIN."settings_users.php".$aidlink."'>HER</a>.";
+$locale['618'] = "Det anbefales stï¿½rkt at ï¿½ndre den handling, som udlï¿½ses af en deaktivering til anonymisering i stedet for sletning for ikke at miste data!";
+$locale['619'] = "Det kan du gï¿½re det samme <a href='".ADMIN."settings_users.php".$aidlink."'>HER</a>.";
 $locale['620'] = "anonymiser";
 $locale['621'] = "Automatisk deaktivering af inaktive brugere.";
 ?>

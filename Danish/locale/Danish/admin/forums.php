@@ -16,10 +16,10 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // Forum Category titles
-$locale['400'] = "Tilf¿j debatforumkategori";
+$locale['400'] = "Tilfï¿½j debatforumkategori";
 $locale['401'] = "Rediger debatforumkategori";
 // Forum Category messages
-$locale['410'] = "Debatforumkategori er tilf¿jet";
+$locale['410'] = "Debatforumkategori er tilfï¿½jet";
 $locale['411'] = "Debatforumkategori er opdateret";
 $locale['412'] = "Debatforumkategori kan ikke slettes";
 $locale['413'] = "Der er oprettet debatforums under denne kategori";
@@ -32,13 +32,13 @@ $locale['422'] = "Gem kategori";
 // Delete Forum Category
 $locale['440'] = "Skal denne debatforumkategori slettes?";
 // Forum titles
-$locale['500'] = "Tilf¿j debatforum";
+$locale['500'] = "Tilfï¿½j debatforum";
 $locale['501'] = "Rediger debatforum";
 // Forum Category messages
-$locale['510'] = "Debatforum er tilf¿jet";
+$locale['510'] = "Debatforum er tilfï¿½jet";
 $locale['511'] = "Debatforum er opdateret";
 $locale['512'] = "Dettee debatforum kan ikke slettes";
-$locale['513'] = "Der er indl¾g knyttet til den";
+$locale['513'] = "Der er indlï¿½g knyttet til den";
 $locale['514'] = "Debatforum er slettet";
 $locale['515'] = "Listen over ordstyrere er opdateret";
 $locale['516'] = "Angiv et kategorinavn.";
@@ -50,19 +50,19 @@ $locale['522'] = "Debatforumkategori:";
 $locale['523'] = "Sortering:";
 $locale['524'] = "Debatforum : Rettigheder";
 $locale['525'] = "Debatforum : Adgang:";
-$locale['526'] = "MŒ oprette indl¾g:";
-$locale['527'] = "MŒ skrive svar:";
-$locale['528'] = "Tilf¿je filer:";
-$locale['529'] = "MŒ oprette afstemning:";
-$locale['530'] = "MŒ afgive stemme:";
+$locale['526'] = "Mï¿½ oprette indlï¿½g:";
+$locale['527'] = "Mï¿½ skrive svar:";
+$locale['528'] = "Tilfï¿½je filer:";
+$locale['529'] = "Mï¿½ oprette afstemning:";
+$locale['530'] = "Mï¿½ afgive stemme:";
 $locale['531'] = "Ingen";
 $locale['532'] = "Gem debatforum";
 $locale['533'] = "Ordstyrere";
 $locale['534'] = "Gem ordstyrerliste";
 $locale['535'] = "Download tilknyttede filer:";
 // Forum Settings
-$locale['540'] = "Debatforumops¾tning:";
-$locale['541'] = "Sammenl¾g indl¾g:";
+$locale['540'] = "Debatforumopsï¿½tning:";
+$locale['541'] = "Sammenlï¿½g indlï¿½g:";
 $locale['542'] = "Aktiv";
 $locale['543'] = "Inaktiv";
 // Current Forums
@@ -78,22 +78,22 @@ $locale['558'] = "Flyt opad";
 $locale['559'] = "Flyt nedad";
 $locale['560'] = "Der er endnu ikke defineret debatforumkategorier";
 $locale['561'] = "Der er endnu ikke oprettet debatforums";
-$locale['562'] = "Opfrisk r¾kkef¿lge";
+$locale['562'] = "Opfrisk rï¿½kkefï¿½lge";
 $locale['563'] = "Ryd op";
 // Delete Forum
 $locale['570'] = "Slet debatforum?";
 // Pruning
 $locale['600'] = "Ryd op i debatforum";
-$locale['601'] = "Denne funktion vil fjerne bŒde emner og indl¾g";
-$locale['602'] = "der er ¾ldre end den valgte tidsperiode.";
-$locale['603'] = "V¾lg periode: ";
+$locale['601'] = "Denne funktion vil fjerne bï¿½de emner og indlï¿½g";
+$locale['602'] = "der er ï¿½ldre end den valgte tidsperiode.";
+$locale['603'] = "Vï¿½lg periode: ";
 $locale['604'] = "Uge";
 $locale['605'] = "Uger";
-$locale['606'] = "MŒned";
-$locale['607'] = "MŒneder";
-$locale['608'] = "Oprydningen er gennemf¿rt.";
-$locale['609'] = "Antal slettede indl¾g: ";
-$locale['610'] = "Antal slettede filtilf¿jelser: ";
+$locale['606'] = "Mï¿½ned";
+$locale['607'] = "Mï¿½neder";
+$locale['608'] = "Oprydningen er gennemfï¿½rt.";
+$locale['609'] = "Antal slettede indlï¿½g: ";
+$locale['610'] = "Antal slettede filtilfï¿½jelser: ";
 $locale['611'] = "Antal emner slettet: ";
-$locale['612'] = "V¾lger du at rydde op i debatten, sŒ vil indl¾g, emner og tilknyttede filer v¾re v¾k. Er du sikker pŒ, at du vil rydde op i debatten?";
+$locale['612'] = "Vï¿½lger du at rydde op i debatten, sï¿½ vil indlï¿½g, emner og tilknyttede filer vï¿½re vï¿½k. Er du sikker pï¿½, at du vil rydde op i debatten?";
 ?>

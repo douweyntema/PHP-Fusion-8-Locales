@@ -23,10 +23,10 @@ $locale['403'] = "Navn";
 $locale['404'] = "Ikon";
 $locale['405'] = "Beskrivelse";
 $locale['406'] = "Anvendelse";
-$locale['407'] = "R¾kkef¿lge";
+$locale['407'] = "Rï¿½kkefï¿½lge";
 $locale['408'] = "Ned";
 $locale['409'] = "Op";
-$locale['410'] = "SlŒ fra";
+$locale['410'] = "Slï¿½ fra";
 $locale['411'] = "Der er ikke aktiveret nogen BB koder";
 // Disabled BB Codes
 $locale['413'] = "Deaktiverede BB koder.";
@@ -34,7 +34,7 @@ $locale['414'] = "Aktiver";
 $locale['416'] = "Start en ny linje med BB koder";
 // Test BB Codes
 $locale['417'] = "Resultat af testen";
-$locale['418'] = "SlŒ smileys fra i denne test";
+$locale['418'] = "Slï¿½ smileys fra i denne test";
 $locale['BBCA_418a'] = "Test besked";
 $locale['BBCA_418b'] = "Venligst indtast en besked for at teste BB koder.";
 // Notices

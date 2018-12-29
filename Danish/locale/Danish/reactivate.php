@@ -17,17 +17,17 @@
 +--------------------------------------------------------*/
 // Error messages
 $locale['500'] = "Der opstod en fejl";
-$locale['501'] = "Genaktiverings linket du har trykket pŒ er ikke l¾ngere gyldigt.<br /><br />
-Kontakt sidens administrator via <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> hvis du vil foresp¿rge om manuel gen-aktivering.";
-$locale['502'] = "Genaktiverings linket du har trykket pŒ er ikke gyldigt!<br /><br />
-Kontakt sidens administrator via <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> hvis du vil foresp¿rge om manuel gen-aktivering.";
+$locale['501'] = "Genaktiverings linket du har trykket pï¿½ er ikke lï¿½ngere gyldigt.<br /><br />
+Kontakt sidens administrator via <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> hvis du vil forespï¿½rge om manuel gen-aktivering.";
+$locale['502'] = "Genaktiverings linket du har trykket pï¿½ er ikke gyldigt!<br /><br />
+Kontakt sidens administrator via <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> hvis du vil forespï¿½rge om manuel gen-aktivering.";
 $locale['503'] = "Det genaktiverings link du fulgte kunne ikke genaktivere din konto.<br />
-MŒske er din konto allerede blevet aktiveret igen, og i sŒ fald b¿r du v¾re i stand til at <a href='".$settings['siteurl']."login.php'>logge ind her</a>.<br /><br />
-Hvis du ikke kan logge ind nu, kan du kontakte sidens administrator pŒ <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> 
+Mï¿½ske er din konto allerede blevet aktiveret igen, og i sï¿½ fald bï¿½r du vï¿½re i stand til at <a href='".$settings['siteurl']."login.php'>logge ind her</a>.<br /><br />
+Hvis du ikke kan logge ind nu, kan du kontakte sidens administrator pï¿½ <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> 
 hvis du vil anmode om en manuel genaktivering.";
-$locale['504'] = "Konto genaktiveret pŒ ".$settings['sitename'];
+$locale['504'] = "Konto genaktiveret pï¿½ ".$settings['sitename'];
 $locale['505'] = "Hej [USER_NAME],\n
-Din brugerkonto pŒ ".$settings['sitename']." er blevet genaktiveret. Vi hŒber at se dig oftere pŒ hjemmesiden.\n\n
+Din brugerkonto pï¿½ ".$settings['sitename']." er blevet genaktiveret. Vi hï¿½ber at se dig oftere pï¿½ hjemmesiden.\n\n
 Med venlig hilsen\n\n
 ".$settings['siteusername'];
 $locale['506'] = "Genaktiveret af bruger.";

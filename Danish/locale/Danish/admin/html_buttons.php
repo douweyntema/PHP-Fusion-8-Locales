@@ -15,23 +15,23 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['html400'] = "- V¾lg farve -";
-$locale['html401'] = "- V¾lg billede -";
-$locale['html402'] = "R¿dbrun";
-$locale['html403'] = "R¿d";
+$locale['html400'] = "- Vï¿½lg farve -";
+$locale['html401'] = "- Vï¿½lg billede -";
+$locale['html402'] = "Rï¿½dbrun";
+$locale['html403'] = "Rï¿½d";
 $locale['html404'] = "Orange";
 $locale['html405'] = "Brun";
 $locale['html406'] = "Gul";
-$locale['html407'] = "Gr¿n";
+$locale['html407'] = "Grï¿½n";
 $locale['html408'] = "Lime";
-$locale['html409'] = "Olivengr¿n";
+$locale['html409'] = "Olivengrï¿½n";
 $locale['html410'] = "Turkis";
-$locale['html411'] = "BlŒ";
-$locale['html412'] = "MarineblŒ";
+$locale['html411'] = "Blï¿½";
+$locale['html412'] = "Marineblï¿½";
 $locale['html413'] = "Purpur";
 $locale['html414'] = "Violet";
 $locale['html415'] = "Sort";
-$locale['html416'] = "GrŒ";
-$locale['html417'] = "S¿lv";
+$locale['html416'] = "Grï¿½";
+$locale['html417'] = "Sï¿½lv";
 $locale['html418'] = "Hvid";
 ?>

@@ -16,7 +16,7 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['bb_php'] = "PHP";
-$locale['bb_php_description'] = "Fremh¾v den udpegede tekst som PHP kode";
-$locale['bb_php_usage'] = "Den PHP kode der skal fremh¾ves";
+$locale['bb_php_description'] = "Fremhï¿½v den udpegede tekst som PHP kode";
+$locale['bb_php_usage'] = "Den PHP kode der skal fremhï¿½ves";
 $locale['bb_php_save'] = "Hent kildekode";
 ?>

@@ -16,5 +16,5 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['bb_smiley_description'] = "Smileys";
-$locale['bb_smiley_usage'] = "Inds¾t en smiley med bbcode";
+$locale['bb_smiley_usage'] = "Indsï¿½t en smiley med bbcode";
 ?>

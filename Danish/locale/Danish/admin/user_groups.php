@@ -18,12 +18,12 @@
 // Edit/Save/Delete User Group Messages
 $locale['400'] = "Rediger brugergruppe";
 $locale['401'] = "Brugergruppen er opdateret";
-$locale['402'] = "Tilf¿j brugergruppe";
-$locale['403'] = "Brugergruppen er tilf¿jet";
+$locale['402'] = "Tilfï¿½j brugergruppe";
+$locale['403'] = "Brugergruppen er tilfï¿½jet";
 $locale['404'] = "Rediger brugere i gruppen";
 $locale['405'] = "De udvalgte brugere er fjernet fra gruppen";
 $locale['406'] = "Alle brugere fjernet fra gruppen";
-$locale['407'] = "De udvalgte brugere er tilf¿jet gruppen";
+$locale['407'] = "De udvalgte brugere er tilfï¿½jet gruppen";
 // Edit/Delete Options
 $locale['420'] = "Brugergrupper";
 $locale['421'] = "Rediger";
@@ -31,24 +31,24 @@ $locale['422'] = "Slet";
 $locale['423'] = "Skal denne brugergruppe slettes?";
 // Edit/Add User Group
 $locale['430'] = "Rediger brugergrupper";
-$locale['431'] = "Tilf¿j brugergruppe";
+$locale['431'] = "Tilfï¿½j brugergruppe";
 $locale['432'] = "Gruppens navn:";
 $locale['433'] = "Beskrivelse af gruppen:";
 $locale['434'] = "Gem gruppen";
 // Search/Add Group Users
-$locale['440'] = "Tilf¿j brugere til gruppen";
-$locale['441'] = "S¿g efter brugere at tilf¿je ved at bruge formularen herunder.";
-$locale['442'] = "Du kan s¿ge efter flere brugere ved at adskille s¿geudtryk med et komma.";
+$locale['440'] = "Tilfï¿½j brugere til gruppen";
+$locale['441'] = "Sï¿½g efter brugere at tilfï¿½je ved at bruge formularen herunder.";
+$locale['442'] = "Du kan sï¿½ge efter flere brugere ved at adskille sï¿½geudtryk med et komma.";
 $locale['443'] = "Bruger-ID'er";
 $locale['444'] = "Brugernavne";
-$locale['445'] = "S¿g";
+$locale['445'] = "Sï¿½g";
 $locale['446'] = "Brugernavn";
 $locale['447'] = "Brugertype";
-$locale['448'] = "V¾lg alle";
-$locale['449'] = "Frav¾lg alle";
-$locale['450'] = "Tilf¿j de udvalgte brugere";
+$locale['448'] = "Vï¿½lg alle";
+$locale['449'] = "Fravï¿½lg alle";
+$locale['450'] = "Tilfï¿½j de udvalgte brugere";
 $locale['451'] = "Der blev ikke fundet nogen brugere.";
-$locale['452'] = "S¿g igen";
+$locale['452'] = "Sï¿½g igen";
 // Current Group Users
 $locale['460'] = "Aktuelle gruppemedlemmer";
 $locale['461'] = "Fjern valgte brugere";

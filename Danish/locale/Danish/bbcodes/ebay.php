@@ -16,6 +16,6 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['bb_ebay'] = "eBay";
-$locale['bb_ebay_description'] = "eBay s¿gemaskine";
-$locale['bb_ebay_usage'] = "Den tekst, der skal s¿ges efter pŒ eBay";
+$locale['bb_ebay_description'] = "eBay sï¿½gemaskine";
+$locale['bb_ebay_usage'] = "Den tekst, der skal sï¿½ges efter pï¿½ eBay";
 ?>

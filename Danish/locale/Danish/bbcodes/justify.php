@@ -15,6 +15,6 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_justify_description'] = "Lige venstre og h¿jre margin";
+$locale['bb_justify_description'] = "Lige venstre og hï¿½jre margin";
 $locale['bb_justify_usage'] = "Den tekst der skal justeres";
 ?>

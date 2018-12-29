@@ -16,6 +16,6 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['uf_theme'] = "Tema:";
-$locale['uf_theme_desc'] = "Tillader brugeren at v¾lge sit eget tema";
-$locale['uf_theme_error'] = "Temaet skal v¾lges.";
+$locale['uf_theme_desc'] = "Tillader brugeren at vï¿½lge sit eget tema";
+$locale['uf_theme_error'] = "Temaet skal vï¿½lges.";
 ?>

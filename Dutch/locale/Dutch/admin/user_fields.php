@@ -22,7 +22,7 @@ $locale['424'] = "Wijzigen";
 $locale['425'] = "Inschakelen";
 $locale['426'] = "API Versie:";
 $locale['427'] = "Vereist";
-$Locale['428'] = "Dit gebruikers veld biedt geen ondersteuning voor &ldquo;vereist&rdquo;";
+$locale['428'] = "Dit gebruikers veld biedt geen ondersteuning voor &ldquo;vereist&rdquo;";
 $locale['429'] = "Log";
 $locale['429a'] = "Dit gebruikers veld biedt geen ondersteuning voor &ldquo;loggen&rdquo;";
 // Disabled user fields

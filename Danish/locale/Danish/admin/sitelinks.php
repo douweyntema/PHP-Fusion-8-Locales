@@ -16,11 +16,11 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // News titles
-$locale['400'] = "Tilf¿j internt link";
+$locale['400'] = "Tilfï¿½j internt link";
 $locale['401'] = "Rediger internt link";
 $locale['402'] = "Aktuelle interne links";
 // News messages
-$locale['410'] = "Det interne link er tilf¿jet";
+$locale['410'] = "Det interne link er tilfï¿½jet";
 $locale['411'] = "Det interne link er opdateret";
 $locale['412'] = "Det interne link er slettet";
 // Site Links form
@@ -28,9 +28,9 @@ $locale['420'] = "Linkets overskrift:";
 $locale['421'] = "Linkadresse:";
 $locale['422'] = "Skal ses af:";
 $locale['423'] = "Placering:";
-$locale['424'] = "Ses pŒ:";
+$locale['424'] = "Ses pï¿½:";
 $locale['425'] = "kun i navigationspanelet";
-$locale['426'] = "bŒde i navigationspanel og menu";
+$locale['426'] = "bï¿½de i navigationspanel og menu";
 $locale['427'] = "kun i menu";
 $locale['428'] = "Luk linket op i et nyt vindue";
 $locale['429'] = "Gem linket";
@@ -47,8 +47,8 @@ $locale['450'] = "Op";
 $locale['451'] = "Ned";
 $locale['452'] = "Flyt opad";
 $locale['453'] = "Flyt nedad";
-$locale['454'] = "Genopfrisk r¾kkef¿lge";
-$locale['455'] = "Linkenes r¾kkef¿lge er opdateret.";
+$locale['454'] = "Genopfrisk rï¿½kkefï¿½lge";
+$locale['455'] = "Linkenes rï¿½kkefï¿½lge er opdateret.";
 // Delete Site Link category
 $locale['460'] = "Skal dette interne link slettes?";
 // Error

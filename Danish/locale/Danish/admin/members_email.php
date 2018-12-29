@@ -17,40 +17,40 @@
 +--------------------------------------------------------*/
 $locale['email_create_subject'] = "Brugerkonto oprettet ";
 $locale['email_create_message'] = "Hej [USER_NAME],\n
-Din brugerkonto pŒ ".$settings['sitename']." er blevet oprettet.\n
-Du kan nu logge pŒ med f¿lgende oplysninger:\n
+Din brugerkonto pï¿½ ".$settings['sitename']." er blevet oprettet.\n
+Du kan nu logge pï¿½ med fï¿½lgende oplysninger:\n
 Brugernavn: [USER_NAME]\n
 Kodeord: [PASSWORD]\n\n
 Venlig hilsen\n
 ".$settings['siteusername'];
 $locale['email_activate_subject'] = "Brugerkonto aktiveret ";
 $locale['email_activate_message'] = "Hej [USER_NAME],\n
-Din konto pŒ ".$settings['sitename']." er blevet aktiveret.\n
-Du kan nu logge pŒ med det brugernavn og det kodeord, du har valgt.\n\n
+Din konto pï¿½ ".$settings['sitename']." er blevet aktiveret.\n
+Du kan nu logge pï¿½ med det brugernavn og det kodeord, du har valgt.\n\n
 Venlig hilsen\n
 ".$settings['siteusername'];
-$locale['email_deactivate_subject'] = "Behov for genaktivering pŒ ".$settings['sitename'];
+$locale['email_deactivate_subject'] = "Behov for genaktivering pï¿½ ".$settings['sitename'];
 $locale['email_deactivate_message'] = "Hej [USER_NAME],\n
-Der er nu mere end ".$settings['deactivation_period']." dag(e) siden du sidst var logget ind pŒ ".$settings['sitename'].". Din brugerkonto er noteret som inaktiv, men alle dine kontooplysninger og alt indhold er bevaret.\n
-For at genaktivere din brugerkonto skal du ganske enkelt klikke pŒ f¿lgende link:\n
+Der er nu mere end ".$settings['deactivation_period']." dag(e) siden du sidst var logget ind pï¿½ ".$settings['sitename'].". Din brugerkonto er noteret som inaktiv, men alle dine kontooplysninger og alt indhold er bevaret.\n
+For at genaktivere din brugerkonto skal du ganske enkelt klikke pï¿½ fï¿½lgende link:\n
 ".$settings['siteurl']."reactivate.php?user_id=[USER_ID]&code=[CODE]\n\n
 Venlig hilsen\n
 ".$settings['siteusername'];
-$locale['email_ban_subject'] = "Din brugerkonto pŒ ".$settings['sitename']." er blevet udelukket";
+$locale['email_ban_subject'] = "Din brugerkonto pï¿½ ".$settings['sitename']." er blevet udelukket";
 $locale['email_ban_message'] = "Hej [USER_NAME],\n
-Din brugerkonto pŒ ".$settings['sitename']." er blevet udelukket af ".$userdata['user_name']." af f¿lgende Œrsag:\n
+Din brugerkonto pï¿½ ".$settings['sitename']." er blevet udelukket af ".$userdata['user_name']." af fï¿½lgende ï¿½rsag:\n
 [REASON].\n
-Hvis du ¿nsker at fŒ mere at vide om udelukkelsen, skal du kontakte sideadministratoren via ".$settings['siteemail'].".\n
+Hvis du ï¿½nsker at fï¿½ mere at vide om udelukkelsen, skal du kontakte sideadministratoren via ".$settings['siteemail'].".\n
 ".$settings['siteusername'];
-$locale['email_secban_subject'] = "Din konto pŒ ".$settings['sitename']." er blevet udelukket";
+$locale['email_secban_subject'] = "Din konto pï¿½ ".$settings['sitename']." er blevet udelukket";
 $locale['email_secban_message'] = "Hej [USER_NAME],\n
-Din konto pŒ ".$settings['sitename']." er blevet udelukket af ".$userdata['user_name']." pŒ grund af bestemte aktiviteter der tilskrives dig eller har forbindelse til din konto, og som udg¿r en sikkerhedsrisiko.\n
-Hvis du vil vide mere om denne udelukkelse, sŒ v¾r sŒ venlig at kontakte sidens administrator pŒ ".$settings['siteemail'].".\n
+Din konto pï¿½ ".$settings['sitename']." er blevet udelukket af ".$userdata['user_name']." pï¿½ grund af bestemte aktiviteter der tilskrives dig eller har forbindelse til din konto, og som udgï¿½r en sikkerhedsrisiko.\n
+Hvis du vil vide mere om denne udelukkelse, sï¿½ vï¿½r sï¿½ venlig at kontakte sidens administrator pï¿½ ".$settings['siteemail'].".\n
 ".$settings['siteusername'];
-$locale['email_suspend_subject'] = "Din konto pŒ ".$settings['sitename']." er blevet suspenderet";
+$locale['email_suspend_subject'] = "Din konto pï¿½ ".$settings['sitename']." er blevet suspenderet";
 $locale['email_suspend_message'] = "Hej [USER_NAME]\n
-Din brugerkonto pŒ ".$settings['sitename']." er blevet suspenderet af ".$userdata['user_name']." frem til [DATE] (site time) af f¿lgende Œrsag:\n
+Din brugerkonto pï¿½ ".$settings['sitename']." er blevet suspenderet af ".$userdata['user_name']." frem til [DATE] (site time) af fï¿½lgende ï¿½rsag:\n
 [REASON].\n
-Hvis du vil vide mere om denne suspension, sŒ v¾r sŒ venlig at kontakte os via denne email: ".$settings['siteemail'].".\n
+Hvis du vil vide mere om denne suspension, sï¿½ vï¿½r sï¿½ venlig at kontakte os via denne email: ".$settings['siteemail'].".\n
 ".$settings['siteusername'];
 ?>

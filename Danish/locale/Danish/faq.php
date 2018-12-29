@@ -15,10 +15,10 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['400'] = "FAQ / OSS (Ofte Stillede Sp¿rgsmŒl)";
+$locale['400'] = "FAQ / OSS (Ofte Stillede Spï¿½rgsmï¿½l)";
 $locale['401'] = "FAQ";
 $locale['402'] = "Top";
 // Notices
 $locale['410'] = "Der er endnu ikke defineret kategorier her.";
-$locale['411'] = "Der er ikke tilf¿jet sp¿rgsmŒl eller svar til denne kategori.";
+$locale['411'] = "Der er ikke tilfï¿½jet spï¿½rgsmï¿½l eller svar til denne kategori.";
 ?>

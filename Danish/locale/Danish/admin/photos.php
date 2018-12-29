@@ -16,24 +16,24 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // Album titles
-$locale['400'] = "Tilf¿j billede";
+$locale['400'] = "Tilfï¿½j billede";
 $locale['401'] = "Rediger billede";
 $locale['402'] = "Aktuelle billeder";
 $locale['403'] = "Alvorlig fejl i dit fotoalbum";
 // Album messages
-$locale['410'] = "Billedet eller billederne er f¿jet til databasen";
+$locale['410'] = "Billedet eller billederne er fï¿½jet til databasen";
 $locale['411'] = "Billedet er opdateret";
 $locale['412'] = "Miniaturen er fjernet";
 $locale['413'] = "Billedet er slettet";
-$locale['414'] = "F¿lgende fejl er opstŒet:";
+$locale['414'] = "Fï¿½lgende fejl er opstï¿½et:";
 $locale['415'] = "Filnavnet er ukorrekt.";
-$locale['416'] = "Billedet skal v¾re mindre end %s.";
-$locale['417'] = "Billedtypen skal v¾re GIF, JPEG eller PNG.";
-$locale['418'] = "Billedet mŒ ikke v¾re st¿rre end %uw x %uh pixels.";
+$locale['416'] = "Billedet skal vï¿½re mindre end %s.";
+$locale['417'] = "Billedtypen skal vï¿½re GIF, JPEG eller PNG.";
+$locale['418'] = "Billedet mï¿½ ikke vï¿½re stï¿½rre end %uw x %uh pixels.";
 $locale['419'] = "Billedet / billederne er flyttet.";
 $locale['420'] = "Der er ikke fundet et GD bibliotek. Fotoalbums kan ikke virke uden et GD bibliotek. Kontakt din internetudbyder for yderligere information.";
 $locale['421'] = "Billedinformation skal udfyldes.";
-$locale['422'] = "Den valgte folder er ikke skrivbar. Skift adgangsrettigheder pŒ den til CHMOD 777.";
+$locale['422'] = "Den valgte folder er ikke skrivbar. Skift adgangsrettigheder pï¿½ den til CHMOD 777.";
 // Photos form
 $locale['430'] = "Flyt billedet til dette album ";
 $locale['431'] = "Flyt";
@@ -42,8 +42,8 @@ $locale['433'] = "Beskrivelse: ";
 $locale['434'] = "Placering: ";
 $locale['435'] = "Ikon: ";
 $locale['436'] = "Billede: ";
-$locale['437'] = "SlŒ kommentarer til";
-$locale['438'] = "SlŒ vurdering til";
+$locale['437'] = "Slï¿½ kommentarer til";
+$locale['438'] = "Slï¿½ vurdering til";
 $locale['439'] = "Gem billede";
 $locale['440'] = "Fortryd";
 // Current Photos
@@ -54,14 +54,14 @@ $locale['453'] = "Flyt nedad";
 $locale['454'] = "Rediger";
 $locale['455'] = "Slet";
 $locale['456'] = "Dato: ";
-$locale['457'] = "Tilf¿jet af: ";
+$locale['457'] = "Tilfï¿½jet af: ";
 $locale['458'] = "Fremvisninger: ";
 $locale['459'] = "Kommentarer: ";
 // Current Photos options
-$locale['470'] = "V¾lg alle";
-$locale['471'] = "Frav¾lg alle";
+$locale['470'] = "Vï¿½lg alle";
+$locale['471'] = "Fravï¿½lg alle";
 $locale['472'] = "Flyt til album";
-$locale['473'] = "V¾lg album";
+$locale['473'] = "Vï¿½lg album";
 $locale['474'] = "Flyt de valgte";
 $locale['475'] = "Flyt alle";
 $locale['476'] = "Luk album";
@@ -70,29 +70,29 @@ $locale['480'] = "Der er ikke oprettet billeder.";
 $locale['481'] = "Skal de valgte billeder flyttes?";
 $locale['482'] = "Skal alle billeder flyttes?";
 //Mass Upload
-$locale['490'] = "Tilf¿j folder";
-$locale['491'] = "Tilf¿j folder til album";
-$locale['492'] = "Tilf¿j billeder til album";
+$locale['490'] = "Tilfï¿½j folder";
+$locale['491'] = "Tilfï¿½j folder til album";
+$locale['492'] = "Tilfï¿½j billeder til album";
 $locale['493'] = "Upload enkeltbilleder";
 $locale['494'] = "Upload folder med billeder";
 $locale['495'] = "Upload flere billeder";
-$locale['496'] = "Advarsel:<br />Overskrift og beskrivelse til de enkelte billeder vil stŒ tomme.<br />Du kan rette dette senere ved at redigere de enkelte billeder!";
+$locale['496'] = "Advarsel:<br />Overskrift og beskrivelse til de enkelte billeder vil stï¿½ tomme.<br />Du kan rette dette senere ved at redigere de enkelte billeder!";
 $locale['497'] = "1. Upload din folder med billeder til folderen %s.";
-$locale['498'] = "2. V¾lg den folder, du vil tilf¿je til dit album %s.";
-$locale['499'] = "V¾lg folder:";
-$locale['500'] = "Tilf¿j de valgte foldere til dit album";
+$locale['498'] = "2. Vï¿½lg den folder, du vil tilfï¿½je til dit album %s.";
+$locale['499'] = "Vï¿½lg folder:";
+$locale['500'] = "Tilfï¿½j de valgte foldere til dit album";
 $locale['501'] = "Ingen foldere fundet";
 $locale['502'] = "%s er ikke skrivbar!";
-$locale['503'] = "Ret adgangsrettigheder til 0777 og klik sŒ pŒ knappen for at genindl¾se denne side.";
-$locale['504'] = "Genindl¾s";
+$locale['503'] = "Ret adgangsrettigheder til 0777 og klik sï¿½ pï¿½ knappen for at genindlï¿½se denne side.";
+$locale['504'] = "Genindlï¿½s";
 $locale['505'] = "1. Upload dine billeder til folderen %s.";
-$locale['506'] = "2. V¾lg de billeder, som du ¿nsker at tilf¿je til dit album/'et %s.";
-$locale['507'] = "3. Du kan v¾lge mere end et billede ved at holde tasterne [SHIFT] eller [CTRL] nede mens du klikker.";
-$locale['508'] = "V¾lg billede(r):";
-$locale['509'] = "Tilf¿j de valgte billeder til dit album";
+$locale['506'] = "2. Vï¿½lg de billeder, som du ï¿½nsker at tilfï¿½je til dit album/'et %s.";
+$locale['507'] = "3. Du kan vï¿½lge mere end et billede ved at holde tasterne [SHIFT] eller [CTRL] nede mens du klikker.";
+$locale['508'] = "Vï¿½lg billede(r):";
+$locale['509'] = "Tilfï¿½j de valgte billeder til dit album";
 $locale['510'] = "Der er ikke fundet billeder";
 // Messages
-$locale['520'] = "%s er slŒet fra for alle billeder.<br />Denne valgmulighed vil f¿rst blive tilg¾ngelig igen, nŒr funktionerne er slŒet til.";
+$locale['520'] = "%s er slï¿½et fra for alle billeder.<br />Denne valgmulighed vil fï¿½rst blive tilgï¿½ngelig igen, nï¿½r funktionerne er slï¿½et til.";
 $locale['521'] = "Kommentar";
 $locale['522'] = "Vurdering";
 $locale['523'] = $locale['521']." and ".$locale['522'];

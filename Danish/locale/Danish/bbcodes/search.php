@@ -15,9 +15,9 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_search_description'] = "S¿g efter en bestemt tekst pŒ den aktuelle side";
-$locale['bb_search_usage'] = "Den tekst der skal s¿ges efter";
-$locale['bb_search_prefix'] = "S¿g efter ";
-$locale['bb_search_suffix'] = " pŒ ";
+$locale['bb_search_description'] = "Sï¿½g efter en bestemt tekst pï¿½ den aktuelle side";
+$locale['bb_search_usage'] = "Den tekst der skal sï¿½ges efter";
+$locale['bb_search_prefix'] = "Sï¿½g efter ";
+$locale['bb_search_suffix'] = " pï¿½ ";
 $locale['bb_search_where'] = "Hvor";
 ?>

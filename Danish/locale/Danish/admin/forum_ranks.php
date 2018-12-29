@@ -16,21 +16,21 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // Forum Ranks Titles
-$locale['400'] = "Tilf¿j rang";
+$locale['400'] = "Tilfï¿½j rang";
 $locale['401'] = "Rediger rang";
 $locale['402'] = "Aktuelle rangklasser";
-$locale['403'] = "Rangsystemet er slŒet fra";
+$locale['403'] = "Rangsystemet er slï¿½et fra";
 // News messages
-$locale['410'] = "Rangen er tilf¿jet";
+$locale['410'] = "Rangen er tilfï¿½jet";
 $locale['411'] = "Rangen er opdateret";
 $locale['412'] = "Rangen er slettet";
-$locale['413'] = "Kun en rang kan tilf¿jes administratorer og ordstyrere";
+$locale['413'] = "Kun en rang kan tilfï¿½jes administratorer og ordstyrere";
 $locale['414'] = "Venligst indtast en rangtitel";
 // Forum Ranks form
 $locale['420'] = "Rangens overskrift:";
 $locale['421'] = "Rangens billede:";
-$locale['422'] = "Antal indl¾g:";
-$locale['423'] = "Brug pŒ:";
+$locale['422'] = "Antal indlï¿½g:";
+$locale['423'] = "Brug pï¿½:";
 $locale['424'] = "Medlemmer";
 $locale['425'] = "Ordstyrere";
 $locale['426'] = "Administratorer";
@@ -39,18 +39,18 @@ $locale['428'] = "Gem";
 $locale['429'] = "Type:";
 $locale['429a'] = "Speciel";
 $locale['429b'] = "Admin";
-$locale['429c'] = "Antal indl¾g";
+$locale['429c'] = "Antal indlï¿½g";
 // Current Forum Ranks
 $locale['430'] = "Overskrift";
-$locale['431'] = "G¾lder";
+$locale['431'] = "Gï¿½lder";
 $locale['432'] = "Billede";
-$locale['433'] = "Indl¾g";
+$locale['433'] = "Indlï¿½g";
 $locale['434'] = "Valgmuligheder";
 $locale['435'] = "Rediger";
 $locale['436'] = "Slet";
 $locale['437'] = "Der er ikke defineret rangklasser.";
 $locale['438'] = "Type / Antal";
 // Forum Ranks Disabled
-$locale['450'] = "Rangsystemet er aktuelt slŒet fra.<br />GŒ til panelet %s for at slŒ det til.";
-$locale['451'] = "Debatops¾tning";
+$locale['450'] = "Rangsystemet er aktuelt slï¿½et fra.<br />Gï¿½ til panelet %s for at slï¿½ det til.";
+$locale['451'] = "Debatopsï¿½tning";
 ?>

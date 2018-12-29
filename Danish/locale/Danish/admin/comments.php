@@ -22,7 +22,7 @@ $locale['401'] = "Kommentarer";
 $locale['410'] = "Kommentaren er opdateret";
 $locale['411'] = "Kommentaren er slettet";
 // Edit Comment form
-$locale['420'] = "SlŒ smileys fra i denne kommentar";
+$locale['420'] = "Slï¿½ smileys fra i denne kommentar";
 $locale['421'] = "Gem kommentar";
 // Comments
 $locale['430'] = "Ret";

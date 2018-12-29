@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['uf_location'] = "Bop¾l";
+$locale['uf_location'] = "Bopï¿½l";
 $locale['uf_location_desc'] = "Land eller by";
 $locale['uf_location_error'] = "Feltet skal udfyldes.";
 ?>

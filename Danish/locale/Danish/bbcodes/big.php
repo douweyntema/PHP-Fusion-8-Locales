@@ -16,5 +16,5 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['bb_big_description'] = "Viser teksten i stort format";
-$locale['bb_big_usage'] = "Den tekst der skal v¾re stor";
+$locale['bb_big_usage'] = "Den tekst der skal vï¿½re stor";
 ?>

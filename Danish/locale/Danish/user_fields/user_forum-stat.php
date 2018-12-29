@@ -15,6 +15,6 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['uf_forum-stat'] = "Debatindl¾g";
-$locale['uf_forum-stat_desc'] = "Viser antallet af debatindl¾g.";
+$locale['uf_forum-stat'] = "Debatindlï¿½g";
+$locale['uf_forum-stat_desc'] = "Viser antallet af debatindlï¿½g.";
 ?>

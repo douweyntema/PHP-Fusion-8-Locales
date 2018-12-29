@@ -16,12 +16,12 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['400'] = "Opgrader";
-$locale['401'] = "Der er ingen databaseopgradering tilg¾ngelig.";
+$locale['401'] = "Der er ingen databaseopgradering tilgï¿½ngelig.";
 
 //Upgrade locales
-$locale['500'] = "En %s opgradering til databasen er tilg¾ngelig.";
-$locale['501'] = "Klik ganske enkelt pŒ opgrader for at gennemf¿re den.";
-$locale['502'] = "Opgraderingen er gennemf¿rt.";
-$locale['503'] = "st¿rre";
+$locale['500'] = "En %s opgradering til databasen er tilgï¿½ngelig.";
+$locale['501'] = "Klik ganske enkelt pï¿½ opgrader for at gennemfï¿½re den.";
+$locale['502'] = "Opgraderingen er gennemfï¿½rt.";
+$locale['503'] = "stï¿½rre";
 $locale['504'] = "mindre";
 $locale['505'] = "Erstat disse linjer i filen config.php!";

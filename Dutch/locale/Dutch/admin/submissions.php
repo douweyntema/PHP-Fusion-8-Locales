@@ -8,9 +8,11 @@ $locale['403'] = "Terug naar Beheerder Index";
 $locale['410'] = "Inzendingen";
 $locale['411'] = "Ingezonden links:";
 $locale['412'] = "Ingezonden nieuwsberichten:";
+$locale['412b'] = "Ingezonden Blogberichten:";
 $locale['413'] = "Ingezonden artikelen:";
 $locale['414'] = "Er zijn geen links om te publiceren.";
 $locale['415'] = "Er zijn geen nieuwsberichten om te publiceren.";
+$locale['415b'] = "Er zijn geen Blogberichten om te publiceren.";
 $locale['416'] = "Er zijn geen artikelen om te publiceren.";
 $locale['417'] = "Bekijken";
 $locale['418'] = "Verwijderen";
@@ -35,12 +37,16 @@ $locale['446'] = "Beschrijving van link:";
 $locale['447'] = "Wilt u deze link publiceren of verwijderen?";
 $locale['448'] = "Link publiceren";
 $locale['449'] = "Link verwijderen";
-// Add/Delete News Submissions
+// Add/Delete News & Blog Submissions
 $locale['490'] = "Ingezonden nieuwsbericht publiceren";
 $locale['491'] = "Het nieuwsbericht is gepubliceerd";
 $locale['492'] = "Ingezonden nieuwsbericht verwijderen";
 $locale['493'] = "Het nieuwsbericht is verwijderd";
-// News Submission Form
+$locale['490b'] = "Ingezonden Blogbericht publiceren";
+$locale['491b'] = "Het Blogbericht is gepubliceerd";
+$locale['492b'] = "Verwijder het ingezonen Blogbericht";
+$locale['493b'] = "Het Blogbericht is verwijderd";
+// News $ Blog Submission Form
 $locale['500'] = "Ingezonden nieuwsbericht bekijken";
 $locale['501'] = "Het bovenstaande nieuwsbericht werd ingezonden door ";
 $locale['502'] = "Wilt u dit nieuwsbericht publiceren of verwijderen??";
@@ -52,6 +58,18 @@ $locale['507'] = "- Geen -";
 $locale['508'] = "Nieuws:";
 $locale['509'] = "Nieuws fragment:";
 $locale['510'] = "Nieuws Voorbeeld";
+$locale['500b'] = "Ingezonden Blogbericht bekijken";
+$locale['501b'] = "Het bovenstaande Blogbericht werd ingezonden door ";
+$locale['502b'] = "Wilt u dit Blogbericht publiceren of verwijderen??";
+$locale['503b'] = "Blogbericht publiceren";
+$locale['504b'] = "Blogbericht verwijdernen";
+$locale['505b'] = "Onderwerp:";
+$locale['506b'] = "Categorie:";
+$locale['507b'] = "- Geen -";
+$locale['508b'] = "Blog:";
+$locale['509b'] = "Blog fragment:";
+$locale['510b'] = "Blog voorbeeld";
+
 // Add/Delete Article Submissions
 $locale['530'] = "Ingezonden artikel publiceren";
 $locale['531'] = "Het artikel is gepubliceerd";

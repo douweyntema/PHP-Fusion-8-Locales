@@ -16,94 +16,94 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // Post Titles
-$locale['400'] = "Se indl¾g";
-$locale['401'] = "Gem indl¾g";
+$locale['400'] = "Se indlï¿½g";
+$locale['401'] = "Gem indlï¿½g";
 $locale['402'] = "Se svar";
-$locale['403'] = "Svar pŒ indl¾g";
+$locale['403'] = "Svar pï¿½ indlï¿½g";
 $locale['404'] = "Gem svar";
-$locale['405'] = "Se ¾ndringer";
-$locale['407'] = "Slet indl¾g";
-$locale['408'] = "Rediger indl¾g";
-$locale['409'] = "Gem ¾ndringer";
+$locale['405'] = "Se ï¿½ndringer";
+$locale['407'] = "Slet indlï¿½g";
+$locale['408'] = "Rediger indlï¿½g";
+$locale['409'] = "Gem ï¿½ndringer";
 // Post Preview
 $locale['420'] = "Ingen overskrift";
-$locale['421'] = "Ingen tekst. Dit indl¾g vil blive afvist, hvis du ikke skriver noget tekst";
+$locale['421'] = "Ingen tekst. Dit indlï¿½g vil blive afvist, hvis du ikke skriver noget tekst";
 $locale['422'] = "Forfatter:";
-$locale['423'] = "Antal indl¾g:";
-$locale['424'] = "Bop¾l:";
+$locale['423'] = "Antal indlï¿½g:";
+$locale['424'] = "Bopï¿½l:";
 $locale['425'] = "Oprettet:";
 $locale['426'] = "Skrevet d. ";
 $locale['427'] = "Redigeret af ";
 $locale['428'] = " d. ";
 $locale['429'] = " skrev:";
 $locale['430'] = "Brugers avatar";
-$locale['431'] = "Seneste indl¾g";
-$locale['432'] = "Seneste %s indl¾g";
+$locale['431'] = "Seneste indlï¿½g";
+$locale['432'] = "Seneste %s indlï¿½g";
 // Post Error/Success
-$locale['440a'] = "Filer af denne type mŒ ikke tilknyttes.";
-$locale['440b'] = "Filnavn eller filst¿rrelse er forkert.";
+$locale['440a'] = "Filer af denne type mï¿½ ikke tilknyttes.";
+$locale['440b'] = "Filnavn eller filstï¿½rrelse er forkert.";
 $locale['441'] = "Fejl: Du glemte at angive en overskrift eller at skrive en tekst";
-$locale['442'] = "Dit indl¾g er gemt";
+$locale['442'] = "Dit indlï¿½g er gemt";
 $locale['443'] = "Dit svar er gemt";
 $locale['444'] = "Emnet er slettet";
-$locale['445'] = "Indl¾gget er slettet";
-$locale['446'] = "Dit indl¾g er blevet opdateret";
+$locale['445'] = "Indlï¿½gget er slettet";
+$locale['446'] = "Dit indlï¿½g er blevet opdateret";
 $locale['447'] = "Tilbage til emne";
 $locale['448'] = "Tilbage til debat";
 $locale['449'] = "Tilbage til debatoversigt";
-$locale['450'] = "Fejl: Din session er udl¿bet, log pŒ igen og skriv et nyt indl¾g";
-$locale['451'] = "F¿lg med i denne debat";
-$locale['452'] = "Du bliver nu underrettet, nŒr der er nye indl¾g";
-$locale['453'] = "Du f¿lger ikke l¾ngere med i denne debat";
-$locale['454'] = "Dette indl¾g er lŒst. Kontakt ordstyreren for yderligere information.";
-$locale['455'] = "Du mŒ f¿rst redigere et indl¾g %d minut(ter) efter at du har gemt det.";
+$locale['450'] = "Fejl: Din session er udlï¿½bet, log pï¿½ igen og skriv et nyt indlï¿½g";
+$locale['451'] = "Fï¿½lg med i denne debat";
+$locale['452'] = "Du bliver nu underrettet, nï¿½r der er nye indlï¿½g";
+$locale['453'] = "Du fï¿½lger ikke lï¿½ngere med i denne debat";
+$locale['454'] = "Dette indlï¿½g er lï¿½st. Kontakt ordstyreren for yderligere information.";
+$locale['455'] = "Du mï¿½ fï¿½rst redigere et indlï¿½g %d minut(ter) efter at du har gemt det.";
 // Post Form
 $locale['460'] = "Overskrift";
-$locale['461'] = "Indl¾g";
+$locale['461'] = "Indlï¿½g";
 $locale['462'] = "Fontfarve: ";
 $locale['463'] = "Valgmuligheder";
 $locale['464'] = "Tilknyttet fil";
 $locale['465'] = " (Valgfrit)";
-$locale['466'] = "Maksimal filst¿rrelse: %s / Tilladte filtyper: %s";
-$locale['467'] = "Tilf¿j afstemning";
+$locale['466'] = "Maksimal filstï¿½rrelse: %s / Tilladte filtyper: %s";
+$locale['467'] = "Tilfï¿½j afstemning";
 $locale['468'] = "Rediger afstemning";
 $locale['469'] = "Overskrift";
 $locale['470'] = "Svarmulighed";
 $locale['470a'] = $locale['470']." 1";
 $locale['470b'] = $locale['470']." 2";
-$locale['471'] = "Tilf¿j svarmulighed";
+$locale['471'] = "Tilfï¿½j svarmulighed";
 $locale['472'] = "Opdater";
 $locale['473'] = "Slet";
-$locale['474'] = "RedigeringsŒrsag";
+$locale['474'] = "Redigeringsï¿½rsag";
 // Post Form Options
 $locale['480'] = " Fasthold emne i toppen af listen";
-$locale['481'] = " LŒs dette emne";
-$locale['482'] = " SlŒ smileys fra i dette indl¾g";
-$locale['483'] = " Vis min signatur i dette indl¾g";
-$locale['484'] = " Slet dette indl¾g";
+$locale['481'] = " Lï¿½s dette emne";
+$locale['482'] = " Slï¿½ smileys fra i dette indlï¿½g";
+$locale['483'] = " Vis min signatur i dette indlï¿½g";
+$locale['484'] = " Slet dette indlï¿½g";
 $locale['485'] = " Slet den tilknyttede fil -";
-$locale['486'] = " Underret mig, nŒr der kommer nye indl¾g";
+$locale['486'] = " Underret mig, nï¿½r der kommer nye indlï¿½g";
 $locale['487'] = "Skjul redigering";
-$locale['488'] = "LŒs indl¾g";
+$locale['488'] = "Lï¿½s indlï¿½g";
 // Post Access Violation
-$locale['500'] = "Du har ikke lov til at redigere dette indl¾g.";
+$locale['500'] = "Du har ikke lov til at redigere dette indlï¿½g.";
 
 // Forum Post Merger
-$locale['520'] = "Indl¾g samlet";
+$locale['520'] = "Indlï¿½g samlet";
 
 // Search Forum Form
-$locale['530'] = "S¿g i debat";
-$locale['531'] = "S¿geord";
-$locale['532'] = "S¿g";
+$locale['530'] = "Sï¿½g i debat";
+$locale['531'] = "Sï¿½geord";
+$locale['532'] = "Sï¿½g";
 // Forum Notification Email
 $locale['550'] = "Der er svar i debatten - {THREAD_SUBJECT}";
 $locale['551'] = "Hej {USERNAME},
 
-Der er kommet et svar i debatten '{THREAD_SUBJECT}' som du f¿lger med i pŒ ".$settings['sitename'].". Du kan bruge linket herunder til at se svaret:
+Der er kommet et svar i debatten '{THREAD_SUBJECT}' som du fï¿½lger med i pï¿½ ".$settings['sitename'].". Du kan bruge linket herunder til at se svaret:
 
 {THREAD_URL}
 
-Hvis du ikke l¾ngere ¿nsker at f¿lge med i denne debat, kan du klikke pŒ linket 'Hold op med at f¿lge debatten' i bunden af denne debat.
+Hvis du ikke lï¿½ngere ï¿½nsker at fï¿½lge med i denne debat, kan du klikke pï¿½ linket 'Hold op med at fï¿½lge debatten' i bunden af denne debat.
 
 Venlig hilsen
 ".$settings['siteusername'].".";

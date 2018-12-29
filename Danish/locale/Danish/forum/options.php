@@ -20,15 +20,15 @@ $locale['400'] = "Slet emne";
 $locale['401'] = "Emnet er slettet.";
 $locale['402'] = "Tilbage til debatten";
 $locale['403'] = "Tilbage til debatoverblik";
-$locale['404'] = "Er du sikker pŒ, at du vil slette dette emne?";
+$locale['404'] = "Er du sikker pï¿½, at du vil slette dette emne?";
 $locale['405'] = "Ja";
 $locale['406'] = "Nej";
 // Lock Thread
-$locale['410'] = "LŒs emne";
-$locale['411'] = "Emnet er lŒst.";
+$locale['410'] = "Lï¿½s emne";
+$locale['411'] = "Emnet er lï¿½st.";
 // Unlock Thread
-$locale['420'] = "LŒs emne op";
-$locale['421'] = "Emnet er Œbnet.";
+$locale['420'] = "Lï¿½s emne op";
+$locale['421'] = "Emnet er ï¿½bnet.";
 // Make Thread Sticky
 $locale['430'] = "Fasthold emnet i toppen";
 $locale['431'] = "Emnet er anbragt i toppen.";
@@ -47,6 +47,6 @@ $locale['460'] = "Debat";
 $locale['461'] = "Emne";
 $locale['462'] = "Forfatter";
 $locale['463'] = "Offentliggjort";
-$locale['464'] = "Der er ikke fundet noget - pr¿v igen.";
-$locale['465'] = "Du skal angive mindst et s¿geudtryk.";
+$locale['464'] = "Der er ikke fundet noget - prï¿½v igen.";
+$locale['465'] = "Du skal angive mindst et sï¿½geudtryk.";
 ?>

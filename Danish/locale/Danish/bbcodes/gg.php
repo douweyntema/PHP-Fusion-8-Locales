@@ -16,6 +16,6 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['bb_gg'] = "Gadu-Gadu";
-$locale['bb_gg_description'] = "Viser brugerstatus pŒ det polske kommunikationsv¾rkt¿j Gadu-Gadu";
+$locale['bb_gg_description'] = "Viser brugerstatus pï¿½ det polske kommunikationsvï¿½rktï¿½j Gadu-Gadu";
 $locale['bb_gg_usage'] = "Gadu-Gadu bruger id";
 ?>

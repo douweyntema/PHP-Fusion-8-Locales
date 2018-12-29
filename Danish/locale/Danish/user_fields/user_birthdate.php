@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['uf_birthdate'] = "F¿dselsdag";
-$locale['uf_birthdate_desc'] = "Viser brugerens f¿dselsdag";
-$locale['uf_birthdate_error'] = "F¿dselsdagen blev ikke indtastet korrekt.";
+$locale['uf_birthdate'] = "Fï¿½dselsdag";
+$locale['uf_birthdate_desc'] = "Viser brugerens fï¿½dselsdag";
+$locale['uf_birthdate_error'] = "Fï¿½dselsdagen blev ikke indtastet korrekt.";
 ?>

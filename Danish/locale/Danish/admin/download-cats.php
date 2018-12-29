@@ -17,10 +17,10 @@
 +--------------------------------------------------------*/
 // Download Category titles
 $locale['400'] = "Rediger download kategori";
-$locale['401'] = "Tilf¿j download kategori";
+$locale['401'] = "Tilfï¿½j download kategori";
 $locale['402'] = "Aktuelle kategorier";
 // Download Category messages
-$locale['410'] = "Kategorien er tilf¿jet";
+$locale['410'] = "Kategorien er tilfï¿½jet";
 $locale['411'] = "Kategorien er opdateret";
 $locale['412'] = "Denne kategori kan ikke slettes";
 $locale['413'] = "Der er tilknyttet downloads til kategorien";

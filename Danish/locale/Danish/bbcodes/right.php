@@ -15,6 +15,6 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_right_description'] = "Justerer den udvalgte tekst mod h¿jre";
-$locale['bb_right_usage'] = "Den tekst der skal h¿jrestilles";
+$locale['bb_right_description'] = "Justerer den udvalgte tekst mod hï¿½jre";
+$locale['bb_right_usage'] = "Den tekst der skal hï¿½jrestilles";
 ?>

@@ -15,6 +15,6 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_autolink_description'] = "Ændrer hjemmeside adresser eller mail adresser til links, der kan klikkes pŒ.";
+$locale['bb_autolink_description'] = "ï¿½ndrer hjemmeside adresser eller mail adresser til links, der kan klikkes pï¿½.";
 $locale['bb_autolink_usage'] = "Denne bbcode er ikke tilknyttet en knap. MARKER URL eller Mail bbcode.";
 ?>

@@ -27,7 +27,7 @@ $locale['502'] = " d. ";
 $locale['503'] = "Redigeret af ";
 //License Agreement
 $locale['600'] = "Betingelser for medlemskab";
-$locale['601'] = "Sidst ¾ndret:";
+$locale['601'] = "Sidst ï¿½ndret:";
 //Privacy Policy
 $locale['700'] = "Privatlivspolitik";
 ?>
