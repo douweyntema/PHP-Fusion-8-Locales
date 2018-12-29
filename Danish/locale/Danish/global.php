@@ -328,7 +328,7 @@ Brugernavn: USER_NAME
 Kodeord: Skjult af sikkerhedsårsager<br />
 Hvis du har glemt dit kodeord kan du oprette et nyt via følgende link: LOST_PASSWORD<br /><br />
 Venlig hilsen<br />
-[SITEUSERNAME];"
+[SITEUSERNAME]";
 $locale['global_453'] = "Hej USER_NAME<br />
 Udelukkelsen af din konto på [SITEURL] er blevet ophævet.<br /><br />
 Venlig hilsen<br />
