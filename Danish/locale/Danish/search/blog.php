@@ -19,7 +19,7 @@ $locale['n400'] = "Blog";
 $locale['n401'] = "Blogemne";
 $locale['n402'] = "Blogemner";
 $locale['n403'] = "fundet i";
-$locale['n404'] = "Blog emne";
-$locale['n405'] = "Blog tekst";
-$locale['n406'] = "udvidet blog tekst";
+$locale['n404'] = "Blogemne";
+$locale['n405'] = "Blogtekst";
+$locale['n406'] = "udvidet blogtekst";
 ?>

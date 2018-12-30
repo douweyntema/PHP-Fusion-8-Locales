@@ -178,8 +178,8 @@ $locale['global_101c'] = "Indtast mailadresse eller brugernavn";
 $locale['global_102'] = "Kodeord";
 $locale['global_103'] = "Husk mig";
 $locale['global_104'] = "Log ind";
-$locale['global_105'] = "Er du endnu ikke registreret bruger?<br /><a href='".BASEDIR."register.php' class='side'>Klik her</a> for at oprette dig.";
-$locale['global_106'] = "Har du glemt dit kodeord?<br />Bed om et nyt <a href='".BASEDIR."lostpassword.php' class='side'>ved at klikke her</a>.";
+$locale['global_105'] = "Er du endnu ikke registreret bruger?<br/><a href='".BASEDIR."register.php' class='side'>Klik her</a> for at oprette dig.";
+$locale['global_106'] = "Har du glemt dit kodeord?<br/>Bed om et nyt <a href='".BASEDIR."lostpassword.php' class='side'>ved at klikke her</a>.";
 $locale['global_107'] = "Tilmelding";
 $locale['global_108'] = "Glemt kodeord";
 $locale['global_109'] = "Tilmeld";
@@ -189,7 +189,7 @@ $locale['global_121'] = "Beskeder";
 $locale['global_122'] = "Brugerliste";
 $locale['global_123'] = "Administration";
 $locale['global_124'] = "Log ud";
-$locale['global_125'] = "Der er %u <br />";
+$locale['global_125'] = "Der er %u <br/>";
 $locale['global_126'] = "ny besked til dig";
 $locale['global_127'] = "nye beskeder til dig";
 $locale['global_128'] = "forslag";
@@ -217,8 +217,8 @@ $locale['UM061b'] = "Brugernavn eller mailadresse";
 $locale['UM062'] = "Kodeord";
 $locale['UM063'] = "Husk mig på denne computer";
 $locale['UM064'] = "Log ind";
-$locale['UM065'] = "Ikke registreret endnu?<br /><a href='".BASEDIR."register.php' class='side'>Klik her</a> for at oprette dig.";
-$locale['UM066'] = "Glemt kodeord?<br />Få et nyt <a href='".BASEDIR."lostpassword.php' class='side'>her</a>.";
+$locale['UM065'] = "Ikke registreret endnu?<br/><a href='".BASEDIR."register.php' class='side'>Klik her</a> for at oprette dig.";
+$locale['UM066'] = "Glemt kodeord?<br/>Få et nyt <a href='".BASEDIR."lostpassword.php' class='side'>her</a>.";
 $locale['UM067'] = "(ikke anbefalet på offentlige eller delte computere)";
 $locale['UM080'] = "Rediger profil";
 $locale['UM081'] = "Private beskeder";
@@ -273,7 +273,7 @@ $locale['global_193'] = "Logger ind som ";
 $locale['global_194'] = "Denne konto er aktuelt lukket.";
 $locale['global_195'] = "Denne konto er endnu ikke aktiveret.";
 $locale['global_196'] = "Forkert brugernavn eller kodeord.";
-$locale['global_197'] = "Vent et øjeblik, mens vi overfører dig ...<br /><br />
+$locale['global_197'] = "Vent et øjeblik, mens vi overfører dig ...<br/><br/>
 [ <a href='index.php'>Eller klik her, hvis du ikke ønsker at vente</a> ]";
 $locale['global_198'] = "<strong>Advarsel:</strong> Du har glemt at slette setup.php. Slet den med det samme!";
 $locale['global_199'] = "<strong>Advarsel:</strong> administratorkodeord er ikke oprettet. Klik på <a href='".BASEDIR."edit_profile.php'>Rediger profil</a> for at oprette det.";
@@ -291,13 +291,13 @@ Hvis du er administrator på siden, så brug din FTP-klient til at uploade et tema
 <strong>PHP-Fusion version 7</strong> til folderen <strong>themes/</strong>. Efter at du har gjort det, skal du se 
 under <strong>Hovedopsætning</strong> for at sikre dig, at det uploadede tema er kommet korrekt op på siden. 
 Bemærk at den uploadede temafolder skal have nøjagtigt samme navn inklusive store og små bogstaver som navnet 
-på det tema, du vælger under <strong>Hovedopsætning</strong>.<br /><br /> Hvis du er medlem på siden, så skal 
+på det tema, du vælger under <strong>Hovedopsætning</strong>.<br/><br/> Hvis du er medlem på siden, så skal 
 du kontakte sidens administrator via ".hide_email($settings[SITE_EMAIL])." mail og rapportere om problemet.";
 $locale['global_302'] = "Det tema, som du har valgt under hovedopsætning eksisterer ikke eller er inkompatibelt!";
 // JavaScript Not Enabled
-$locale['global_303'] = "Jamen dog! Hvor finder vi det stærke <strong>JavaScript</strong>?<br />Din browser understøtter ikke
+$locale['global_303'] = "Jamen dog! Hvor finder vi det stærke <strong>JavaScript</strong>?<br/>Din browser understøtter ikke
 JavaScript eller har ikke understøttelsen slået til. Slå <strong>JavaScript til</strong> i din browser for at se denne side
-ordentligt,<br /> eller <strong>opgrader</strong> til en browser, der understøtter JavaScript.";
+ordentligt,<br/> eller <strong>opgrader</strong> til en browser, der understøtter JavaScript.";
 // User Management
 $locale['global_400'] = "suspenderet";
 $locale['global_401'] = "udelukket";
@@ -315,28 +315,28 @@ $locale['global_412'] = "Denne konto er blevet anonymiseret sandsynligvis på gru
 // Banning due to flooding
 $locale['global_440'] = "Automatisk udelukkelse via Flood Control";
 $locale['global_441'] = "Din brugerkonto på [SITENAME] er blevet udelukket";
-$locale['global_442'] = "Hej [USER_NAME]<br />
-Din konto på [SITENAME] blev registreret fordi den offentliggjorde for mange indlæg på for kort tid fra IP-adressen [USER_IP]. Derfor er kontoen blevet udelukket. Dette sker for at forhindre, at scripts kan lægge spam ind meget hurtigt.<br />
-Kontakt administratoren på [SITE_EMAIL] for at få genåbnet din konto eller dokumenter, at det ikke var dig der udløste denne udelukkelse.<br />
+$locale['global_442'] = "Hej [USER_NAME]<br/>
+Din konto på [SITENAME] blev registreret fordi den offentliggjorde for mange indlæg på for kort tid fra IP-adressen [USER_IP]. Derfor er kontoen blevet udelukket. Dette sker for at forhindre, at scripts kan lægge spam ind meget hurtigt.<br/>
+Kontakt administratoren på [SITE_EMAIL] for at få genåbnet din konto eller dokumenter, at det ikke var dig der udløste denne udelukkelse.<br/>
 [SITEUSERNAME]";
 // Lifting of suspension
 $locale['global_450'] = "Udelukkelsen er automatisk ophævet af systemet";
 $locale['global_451'] = "Udelukkelse er ophævet på [SITENAME]";
-$locale['global_452'] = "Hej USER_NAME<br />
-Udelukkelsen af din konto på [SITEURL] er blevet ophævet. Her er dine pålogningsoplysninger:<br />
+$locale['global_452'] = "Hej USER_NAME<br/>
+Udelukkelsen af din konto på [SITEURL] er blevet ophævet. Her er dine pålogningsoplysninger:<br/>
 Brugernavn: USER_NAME
-Kodeord: Skjult af sikkerhedsårsager<br />
-Hvis du har glemt dit kodeord kan du oprette et nyt via følgende link: LOST_PASSWORD<br /><br />
-Venlig hilsen<br />
+Kodeord: Skjult af sikkerhedsårsager<br/>
+Hvis du har glemt dit kodeord kan du oprette et nyt via følgende link: LOST_PASSWORD<br/><br/>
+Venlig hilsen<br/>
 [SITEUSERNAME]";
-$locale['global_453'] = "Hej USER_NAME<br />
-Udelukkelsen af din konto på [SITEURL] er blevet ophævet.<br /><br />
+$locale['global_453'] = "Hej USER_NAME<br/>
+Udelukkelsen af din konto på [SITEURL] er blevet ophævet.<br/><br/>
 Venlig hilsen<br />
 [SITEUSERNAME]";
 $locale['global_454'] = "Kontoen er genaktiveret på [SITENAME]";
-$locale['global_455'] = "Hej USER_NAME<br />
-Sidste gang du loggede på, blev din konto reaktiveret på [SITEURL] og du er ikke længere registreret som inaktiv.<br /><br />
-Venlig hilsen<br />
+$locale['global_455'] = "Hej USER_NAME<br/>
+Sidste gang du loggede på, blev din konto reaktiveret på [SITEURL] og du er ikke længere registreret som inaktiv.<br/><br/>
+Venlig hilsen<br/>
 [SITEUSERNAME]";
 $locale['global_456'] = "Nyt koderord underrettelse til [SITENAME]";
 $locale['global_457'] = "Hej USER_NAME,

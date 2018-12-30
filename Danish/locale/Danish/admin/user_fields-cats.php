@@ -16,43 +16,43 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // User Fields Categories titles
-$locale['400'] = "Tilf�j kategori";
+$locale['400'] = "Tilføj kategori";
 $locale['401'] = "Rediger kategori";
 $locale['402'] = "Aktuelle kategorier";
 // User Fields Categories messages
-$locale['410'] = "Kategorien er tilf�jet";
+$locale['410'] = "Kategorien er tilføjet";
 $locale['411'] = "Kategorien er opdateret";
 $locale['412'] = "Kategorien er slettet";
 $locale['413'] = "Kategorien kan ikke slettes";
 $locale['414'] = "Der er tilknyttet brugerfelter til denne kategori";
 // User Fields Categories form
 $locale['420'] = "Kategoriens navn";
-$locale['421'] = "R�kkef�lge";
+$locale['421'] = "Rækkefølge";
 $locale['422'] = "Gem kategori";
-$locale['423'] = "Kategori DB navn";
-$locale['424'] = "Database tabel navn";
+$locale['423'] = "Kategori DB-navn";
+$locale['424'] = "Database tabelnavn";
 $locale['425'] = "Ikon klasse";
 $locale['426'] = "Som ny side?";
 $locale['427'] = "Ja, opret som ny side.";
-$locale['428'] = "Prim�r indeks";
-$locale['429'] = "Prim�r kolonnenavn";
+$locale['428'] = "Primær indeks";
+$locale['429'] = "Primær kolonnenavn";
 // User Fields Categories list
-$locale['430'] = "R�kkef�lge";
+$locale['430'] = "Rækkefølge";
 $locale['431'] = "Valgmuligheder";
 $locale['432'] = "Rediger";
 $locale['433'] = "Slet";
 $locale['434'] = "Der er ikke oprettet kategorier.";
 $locale['435'] = "Side";
-$locale['436'] = "Brugerinfo side";
+$locale['436'] = "Brugerinfoside";
 // User Fields Categories Ordering
 $locale['440'] = "Op";
 $locale['441'] = "Ned";
 $locale['442'] = "Flyt op";
 $locale['443'] = "Flyt ned";
-$locale['444'] = "Genopfrisk r�kkef�lge";
+$locale['444'] = "Genopfrisk rækkefølge";
 // Delete User Fields category
 $locale['450'] = "Skal denne kategori slettes?";
 // Error message
 $locale['450a'] = 'Indtast venligst et kategorinavn.';
-$locale['450b'] = 'Hvis du anvender en anden database end default brugertabellen, s� udfyld venligst b�de databasetabelnavn og dets UserId kolonne.';
+$locale['450b'] = 'Hvis du anvender en anden database end default brugertabellen, så udfyld venligst både databasetabelnavn og dets UserId-kolonne.';
 ?>

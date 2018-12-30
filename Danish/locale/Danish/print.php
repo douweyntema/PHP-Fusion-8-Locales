@@ -27,7 +27,7 @@ $locale['502'] = " d. ";
 $locale['503'] = "Redigeret af ";
 //License Agreement
 $locale['600'] = "Betingelser for medlemskab";
-$locale['601'] = "Sidst �ndret:";
+$locale['601'] = "Sidst ændret:";
 //Privacy Policy
 $locale['700'] = "Privatlivspolitik";
 ?>

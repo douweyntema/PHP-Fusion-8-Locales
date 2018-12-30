@@ -17,10 +17,10 @@
 +--------------------------------------------------------*/
 // Download Category titles
 $locale['400'] = "Rediger download kategori";
-$locale['401'] = "Tilf�j download kategori";
+$locale['401'] = "Tilføj download kategori";
 $locale['402'] = "Aktuelle kategorier";
 // Download Category messages
-$locale['410'] = "Kategorien er tilf�jet";
+$locale['410'] = "Kategorien er tilføjet";
 $locale['411'] = "Kategorien er opdateret";
 $locale['412'] = "Denne kategori kan ikke slettes";
 $locale['413'] = "Der er tilknyttet downloads til kategorien";
@@ -42,7 +42,7 @@ $locale['441'] = "Kan ses af";
 $locale['442'] = "Valgmuligheder";
 $locale['443'] = "Rediger";
 $locale['444'] = "Slet";
-$locale['445'] = "Der er ikke defineret kategorier under downloads";
+$locale['445'] = "Der er ikke oprettet kategorier under downloads";
 // Delete Download category
 $locale['450'] = "Skal denne kategori slettes?";
 // Error Messages

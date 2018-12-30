@@ -25,7 +25,7 @@ $locale['SB_title'] = "Replikboks";
 $locale['SB_name'] = "Navn:";
 $locale['SB_message'] = "Replik:";
 $locale['SB_shout'] = "Gem";
-$locale['SB_login_req'] = "Du skal v�re logget ind for at skrive en replik.";
+$locale['SB_login_req'] = "Du skal være logget ind for at skrive en replik.";
 $locale['SB_archive'] = "Replikboks arkiv";
 $locale['SB_no_msgs'] = "Ingen beskeder skrevet endnu.";
 $locale['SB_delete'] = "Slet";
@@ -40,7 +40,7 @@ $locale['SB_shouts_deleted'] = "Replikker slettet";
 // Edit Shout form
 $locale['SB_save_shout'] = "Gem replik";
 // Prune Shoutbox
-$locale['SB_delete_old'] = "Slet replikker �ldre end";
+$locale['SB_delete_old'] = "Slet replikker ældre end";
 $locale['SB_days'] = " dage";
 $locale['SB_delete_shouts'] = "Slet replikker";
 // Current Shouts
@@ -54,7 +54,7 @@ $locale['SB_warning_shout'] = "Slet denne replik?";
 // Settings
 $locale['SB_settings'] = "Replikboks indstillinger";
 $locale['SB_visible_shouts'] = "Synlige replikker";
-$locale['SB_guest_shouts'] = "G�ster kan skrive replikker?";
+$locale['SB_guest_shouts'] = "Gæster kan skrive replikker?";
 $locale['SB_yes'] = "Ja";
 $locale['SB_no'] = "Nej";
 $locale['SB_submit'] = "Gem";

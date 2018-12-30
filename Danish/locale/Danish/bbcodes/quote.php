@@ -16,7 +16,7 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['bb_quote_description'] = "Markerer den udvalgte tekst som citat";
-$locale['bb_quote_usage'] = "Den tekst der skal markeres";
+$locale['bb_quote_usage'] = "Den tekst, der skal markeres";
 $locale['bb_quote_expand'] = "Se hele teksten";
 $locale['bb_quote_collapse'] = "Skjul hele teksten";
 $locale['bb_quote'] = "Citer";

@@ -15,23 +15,23 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['html400'] = "- V�lg farve -";
-$locale['html401'] = "- V�lg billede -";
-$locale['html402'] = "R�dbrun";
-$locale['html403'] = "R�d";
+$locale['html400'] = "- Vælg farve -";
+$locale['html401'] = "- Vælg billede -";
+$locale['html402'] = "Rødbrun";
+$locale['html403'] = "Rød";
 $locale['html404'] = "Orange";
 $locale['html405'] = "Brun";
 $locale['html406'] = "Gul";
-$locale['html407'] = "Gr�n";
+$locale['html407'] = "Grøn";
 $locale['html408'] = "Lime";
-$locale['html409'] = "Olivengr�n";
+$locale['html409'] = "Olivengrøn";
 $locale['html410'] = "Turkis";
-$locale['html411'] = "Bl�";
-$locale['html412'] = "Marinebl�";
+$locale['html411'] = "Blå";
+$locale['html412'] = "Marineblå";
 $locale['html413'] = "Purpur";
 $locale['html414'] = "Violet";
 $locale['html415'] = "Sort";
-$locale['html416'] = "Gr�";
-$locale['html417'] = "S�lv";
+$locale['html416'] = "Grå";
+$locale['html417'] = "Sølv";
 $locale['html418'] = "Hvid";
 ?>

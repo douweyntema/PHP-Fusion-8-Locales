@@ -16,11 +16,11 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 // Category titles
-$locale['400'] = "Tilf�j artikelkategori";
+$locale['400'] = "Tilføj artikelkategori";
 $locale['401'] = "Rediger artikelkategori";
 $locale['402'] = "Aktuelt oprettede kategorier";
 // Category messages
-$locale['410'] = "Kategorien er tilf�jet";
+$locale['410'] = "Kategorien er tilføjet";
 $locale['411'] = "Kategorien er opdateret";
 $locale['412'] = "Kategorien kan ikke slettes";
 $locale['413'] = "Der er oprettet artikler under denne kategori";
@@ -46,6 +46,6 @@ $locale['445'] = "Der er endnu ikke oprettet kategorier";
 // Delete Article category
 $locale['450'] = "Skal denne artikelkategori slettes?";
 // Error Messages
-$locale['460'] = "Der skal angives et navn p� kategorien.";
+$locale['460'] = "Der skal angives et navn på kategorien.";
 $locale['461'] = "Denne kategori eksisterer allerede.";
 ?>

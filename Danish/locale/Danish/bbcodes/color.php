@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['bb_color_description'] = "Farvel�gger den valgte tekst";
-$locale['bb_color_usage'] = "Farvel�g den valgte tekst";
-$locale['bb_color_hex'] = "HEXADECIMAL farvev�rdi";
+$locale['bb_color_description'] = "Farvelægger den valgte tekst";
+$locale['bb_color_usage'] = "Farvelæg den valgte tekst";
+$locale['bb_color_hex'] = "HEXADECIMAL farveværdi";
 ?>

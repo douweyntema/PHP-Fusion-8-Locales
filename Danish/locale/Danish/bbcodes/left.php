@@ -16,5 +16,5 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['bb_left_description'] = "Retter den valgte tekst ind til venstre";
-$locale['bb_left_usage'] = "Tekst der skal venstrestilles";
+$locale['bb_left_usage'] = "Tekst, der skal venstrestilles";
 ?>
