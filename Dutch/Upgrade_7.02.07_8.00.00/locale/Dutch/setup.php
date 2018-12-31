@@ -2,270 +2,279 @@
 $locale['title'] = "PHP-Fusion Core 8 Edition Setup";
 $locale['sub-title'] = "PHP-Fusion Core 8 Edition Setup";
 $locale['os_version'] = '8.0';
-$locale['xml_lang'] = "en";
-$locale['charset'] = "utf8";
-$locale['001'] = "Step 1: Locale";
-$locale['002'] = "Step 2: File and Folder Permissions";
-$locale['003'] = "Step 3: Database Settings";
-$locale['004'] = "Step 4: Config / Database Setup";
-$locale['005'] = "Step 5: Primary Admin Details";
-$locale['006'] = "Step 6: Final Settings";
-$locale['007'] = "Next";
-$locale['008'] = "Try Again";
-$locale['009'] = "Finish";
-
+$locale['xml_lang'] = "nl";
+$locale['charset'] = "utf-8";
+$locale['001'] = "Stap 1: Taal (locale)";
+$locale['002'] = "Stap 2: Testen bestands- en mappermissies";
+$locale['003'] = "Stap 3: Database-instellingen";
+$locale['004'] = "Stap 4: Config / Database setup";
+$locale['005'] = "Stap 5: Gegevens primaire beheerder";
+$locale['006'] = "Stap 6: Laatste instellingen";
+$locale['007'] = "Volgende";
+$locale['008'] = "Terug";
+$locale['009'] = "Afronden";
 // Step 1
-$locale['010'] = "Please select the required locale (language):";
-$locale['011'] = "Download more locales from <a href='https://www.php-fusion.co.uk/infusions/downloads/downloads.php?cat_id=29' target='_blank'><strong>PHP-Fusion Official Support Site</strong></a>";
-
+$locale['010'] = "Kies a.u.b. de gewenste taal (locale):";
+$locale['011'] = "U kunt meer talen downloaden van de <a href='http://www.php-fusion.co.uk/downloads.php'>php-fusion.co.uk</a> website";
 // Step 2
-$locale['020'] = "In order for setup to continue, the following files/folders must be writable:";
-$locale['021'] = "Write permissions check passed, click Next to continue.";
-$locale['022'] = "Write permissions check failed, please CHMOD files/folders marked Failed.";
-$locale['023'] = "Passed";
-$locale['024'] = "Failed";
-$locale['025'] = "Refresh";
-
-// Step 3 - Access
-$locale['030'] = "Please enter your MySQL database access settings.";
-$locale['031'] = "Database Hostname:";
-$locale['032'] = "Database Username:";
-$locale['033'] = "Database Password:";
-$locale['034'] = "Database Name:";
-$locale['035'] = "Table Prefix:";
-$locale['036'] = "Cookie Prefix:";
-$locale['037'] = "Enable PDO or MySqli";
-$locale['038'] = "PDO seems to not be available";
-$locale['039'] = "PDO";
-$locale['039b'] = "MySqli";
-$locale['039c'] = "Select languages to use:";
-
+$locale['020'] = "Om de setup te kunnen vervolgen dienen de volgende bestanden/mappen schrijfbaar te zijn:";
+$locale['021'] = "Test voor schrijfpermissies geslaagd, klik op Volgende om verder te gaan.";
+$locale['022'] = "Test voor schrijfpermissies niet geslaagd, CHMOD a.u.b. de bestanden/folders met een Niet geslaagd markering.";
+$locale['023'] = "Geslaagd";
+$locale['024'] = "Niet geslaagd";
+$locale['025'] = "Herladen";
+// Step 3 - Access criteria
+$locale['030'] = "Geef a.u.b. de gegevens voor toegang tot uw MySQL database.";
+$locale['031'] = "Database hostnaam:";
+$locale['032'] = "Naam van databasegebruiker:";
+$locale['033'] = "Database wachtwoord:";
+$locale['034'] = "Database naam:";
+$locale['035'] = "Tabelvoorvoegsel:";
+$locale['036'] = "Cookie Voorvoegsel:";
+$locale['037'] = "PDO Inschakelen?";
+$locale['038'] = "PDO lijkt niet beschikbaar te zijn";
+$locale['039'] = "Nee";
+$locale['039b'] = "Ja";
+$locale['039c'] = "Selecteer de te gebruiken talen:";
 // Step 4 - Database Setup
-$locale['040'] = "Database connection established.";
-$locale['041'] = "Config file successfully written.";
-$locale['042'] = "Database tables created.";
-$locale['043'] = "Error:";
-$locale['044'] = "Unable to connect with MySQL.";
-$locale['045'] = "Please ensure your MySQL username and password are correct.";
-$locale['046'] = "Unable to write config file.";
-$locale['047'] = "Please ensure config.php is writable.";
-$locale['048'] = "Unable to create database tables.";
-$locale['049'] = "Please specify your database name.";
-$locale['050'] = "Unable to connect with MySQL database.";
-$locale['051'] = "The specified MySQL database does not exist.";
-$locale['052'] = "Table prefix error.";
-$locale['053'] = "The specified table prefix is already in use.";
-$locale['054'] = "Could not write or delete MySQL tables.";
-$locale['055'] = "Please make sure your MySQL user has read, write and delete permission for the selected database.";
-$locale['056'] = "Empty fields.";
-$locale['057'] = "Please make sure you have filled out all the MySQL connection fields.";
-
+$locale['040'] = "Verbinding met database gemaakt.";
+$locale['041'] = "Configuratie bestand succesvol geschreven.";
+$locale['042'] = "Database tabellen aangemaakt.";
+$locale['043'] = "Fout(en):";
+$locale['044'] = "Niet in staat verbinding met de database te maken.";
+$locale['045'] = "Controleer of uw MySQL gebruikersnaam en wachtwoord correct zijn.";
+$locale['046'] = "Niet in staat om het configuratie bestand te schrijven.";
+$locale['047'] = "Verzeker u ervan dat config.php schrijfbaar is.";
+$locale['048'] = "Niet in staat databasetabellen aan te maken.";
+$locale['049'] = "Geef a.u.b. uw database naam op.";
+$locale['050'] = "Niet in staat om te verbinden met de MySQL database.";
+$locale['051'] = "De opgegeven MySQL database bestaat niet.";
+$locale['052'] = "Tabel voorvoegsel fout.";
+$locale['053'] = "Het gewenste tabelvoorvoegsel is al in gebruik.";
+$locale['054'] = "Kan geen MySQL tabellen verwijderen of schrijven.";
+$locale['055'] = "Controleer of uw MySQL gebruiker rechten heeft om de geselecteerde database te lezen, schrijven en verwijderen.";
+$locale['056'] = "Lege velden.";
+$locale['057'] = "Vul A.U.B. alle MySQL velden in.";
 // Step 5 - Super Admin login
-$locale['060'] = "Primary Super Admin login details";
-$locale['061'] = "Username:";
-$locale['062'] = "Login Password:";
-$locale['063'] = "Repeat Login password:";
-$locale['064'] = "Admin Password:";
-$locale['065'] = "Repeat Admin password:";
-$locale['066'] = "Email address:";
-
+$locale['060'] = "Inloggegevens primaire superbeheerder";
+$locale['061'] = "Gebruikersnaam:";
+$locale['062'] = "Inlogwachtwoord:";
+$locale['063'] = "Inlogwachtwoord herhalen:";
+$locale['064'] = "Beheerderwachtwoord:";
+$locale['065'] = "Beheerderwachtwoord herhalen:";
+$locale['066'] = "E-mailadres:";
 // Step 6 - User details validation
-$locale['070'] = "User name contains invalid characters.";
-$locale['070b'] = "User name field can not be left empty.";
-$locale['071'] = "Your two login passwords do not match.";
-$locale['072'] = "Invalid login password, please use alpha numeric characters only.<br />Password must be a minimum of 8 characters long.";
-$locale['072b'] = "Login password fields can not be left empty";
-$locale['073'] = "Your two admin passwords do not match.";
-$locale['074'] = "Your user password and admin password must be different.";
-$locale['075'] = "Invalid admin password, please use alpha numeric characters only.<br />Password must be a minimum of 8 characters long.";
-$locale['075b'] = "Admin password fields can not be left empty.";
-$locale['076'] = "Your email address does not appear to be valid.";
-$locale['076b'] = "Email field can not be left empty.";
-$locale['077'] = "Your user settings are not correct:";
-
-// Step 6 - Admin Items
-$locale['080'] = "Administrators";
-$locale['081'] = "Article Categories";
-$locale['082'] = "Articles";
+$locale['070'] = "De gebruikernaam bevalt ongeldige tekens.";
+$locale['070b'] = "Het gebruikernaamveld moet worden ingevuld.";
+$locale['071'] = "Uw twee inlogwachtwoorden komen niet overeen.";
+$locale['072'] = "Ongeldig inlogwachtwoord. Gebruik a.u.b. alleen alfanumerieke tekens.<br />Het wachtwoord dient minimaal zes tekens lang te zijn.";
+$locale['072b'] = "Het inlogwachtwoord veld mag niet leeg zijn";
+$locale['073'] = "Uw twee beheerderwachtwoorden komen niet overeen.";
+$locale['074'] = "Uw loginwachtwoord en beheerderwachtwoord moeten verschillend zijn.";
+$locale['075'] = "Ongeldig beheerderwachtwoord. Gebruik a.u.b. alleen alfanumerieke tekens.<br />Het wachtwoord dient minimaal zes tekens lang te zijn.";
+$locale['075b'] = "Beheerderwachtwoordvelden mogen niet leeg blijven.";
+$locale['076'] = "Uw e-mailadres lijkt ongeldig te zijn.";
+$locale['076b'] = "E-mailadres velden mogen niet leeg blijven.";
+$locale['077'] = "Er is een fout in uw gebruikersinstellingen:";
+// Step 6 - Admin Panels
+$locale['080'] = "Beheerders";
+$locale['081'] = "Artikel Categorie&euml;n";
+$locale['082'] = "Artikelen";
 $locale['083'] = "Banners";
-$locale['084'] = "BB Codes";
-$locale['085'] = "Blacklist";
-$locale['086'] = "Comments";
-$locale['087'] = "Custom Pages";
+$locale['084'] = "BB-codes";
+$locale['085'] = "Zwarte lijst";
+$locale['086'] = "Reacties";
+$locale['087'] = "Eigen Pagina&rsquo;s";
 $locale['088'] = "Database Backup";
-$locale['089'] = "Download Categories";
+$locale['089'] = "Download Categorie&euml;n";
 $locale['090'] = "Downloads";
-$locale['091'] = "FAQs";
-$locale['092'] = "Forums";
-$locale['093'] = "Images";
+$locale['091'] = "FAQ&rsquo;s";
+$locale['092'] = "Forum Beheer";
+$locale['093'] = "Afbeeldingen";
 $locale['094'] = "Infusions";
-$locale['095'] = "Infusion Panels";
-$locale['096'] = "Members";
-$locale['097'] = "News Categories";
-$locale['098'] = "News";
-$locale['099'] = "Panels";
-$locale['100'] = "Photo Albums";
+$locale['095'] = "Infusion Panelen";
+$locale['096'] = "Leden";
+$locale['097'] = "Nieuws Categorie&euml;n";
+$locale['098'] = "Nieuws";
+$locale['099'] = "Panelen";
+$locale['100'] = "Foto Albums";
 $locale['101'] = "PHP Info";
-$locale['102'] = "Polls";
-$locale['103'] = "";
+$locale['102'] = "Enquêtes";
+$locale['103'] = "Shoutbox";
 $locale['104'] = "Site Links";
 $locale['105'] = "Smileys";
-$locale['106'] = "Submissions";
+$locale['106'] = "Inzendingen";
 $locale['107'] = "Upgrade";
-$locale['108'] = "User Groups";
-$locale['109'] = "Web Link Categories";
-$locale['110'] = "Web Links";
-$locale['111'] = "Main";
-$locale['112'] = "Time and Date";
+$locale['108'] = "Gebruikers Groepen";
+$locale['109'] = "Weblink Categorie&euml;n";
+$locale['110'] = "Weblinks";
+$locale['111'] = "Algemeen";
+$locale['112'] = "Datum en Tijd";
 $locale['113'] = "Forum";
-$locale['114'] = "Registration";
-$locale['115'] = "Photo Gallery";
-$locale['116'] = "Miscellaneous";
-$locale['117'] = "Private Message";
-$locale['118'] = "User Fields";
-$locale['119'] = "Forum Ranks";
-$locale['120'] = "User Field Categories";
-$locale['121'] = "News";
-$locale['122'] = "User Management";
+$locale['114'] = "Registratie";
+$locale['115'] = "Foto Galerij";
+$locale['116'] = "Diverse";
+$locale['117'] = "Priv&eacute; Berichten";
+$locale['118'] = "Gebruikers Velden";
+$locale['119'] = "Forum Rangen";
+$locale['120'] = "Gebruikers Veld Categorie&euml;n";
+$locale['121'] = "Nieuws";
+$locale['122'] = "Gebruikersbeheer";
 $locale['123'] = "Downloads";
-$locale['124'] = "Items per Page";
-$locale['125'] = "Security";
-$locale['126'] = "News Settings";
-$locale['127'] = "Downloads Settings";
-$locale['128'] = "Admin Password Reset";
-$locale['129'] = "Error Log";
-$locale['129a'] = "User Log";
+$locale['124'] = "Onderdelen per pagina";
+$locale['125'] = "Beveiliging";
+$locale['126'] = "Nieuws";
+$locale['127'] = "Download";
+$locale['128'] = "Admin Wachtwoord Reset";
+$locale['129'] = "Fouten Log";
+$locale['129a'] = "Gebruikers Log";
 $locale['129b'] = "robots.txt";
-$locale['129c'] = "Language Settings";
+$locale['129c'] = "Taal Instellingen";
 $locale['129d'] = "Permalinks";
-$locale['129e'] = "Migration Tool";
-$locale['129f'] = "Theme Settings";
-$locale['130a'] = "Blog Categories";
+$locale['129e'] = "Migratie Tool";
+$locale['129f'] = "Thema Instellingen";
+$locale['130a'] = "Blog Categorieen";
 $locale['130b'] = "Blog";
-$locale['130c'] = "Blog Settings";
-$locale['130d'] = "Fusion File Manager";
+$locale['130c'] = "Blog Instellingen";
+$locale['130d'] = "Fusion Bestands beheerder";
 
 // Step 6 - Navigation Links
-$locale['130'] = "Home";
-$locale['131'] = "Articles";
+$locale['130'] = "Start pagina";
+$locale['131'] = "Artikelen";
 $locale['132'] = "Downloads";
 $locale['133'] = "FAQ";
-$locale['134'] = "Discussion Forum";
+$locale['134'] = "Discussie Forum";
 $locale['135'] = "Contact";
-$locale['136'] = "News Categories";
+$locale['136'] = "Nieuws Categorieen";
 $locale['137'] = "Web Links";
-$locale['138'] = "Photo Gallery";
-$locale['139'] = "Search";
-$locale['140'] = "Submit Link";
-$locale['141'] = "Submit News";
-$locale['142'] = "Submit Article";
-$locale['143'] = "Submit Photo";
-$locale['144'] = "Submit Download";
-$locale['145'] = "Submit Blog";
+$locale['138'] = "Foto Gallerij";
+$locale['139'] = "Zoeken";
+$locale['140'] = "Link inzenden";
+$locale['141'] = "Nieuws inzenden";
+$locale['142'] = "Artikel inzenden";
+$locale['143'] = "Foto inzenden";
+$locale['144'] = "Download inzenden";
+$locale['145'] = "Blog inzenden";
 
 // Stage 6 - Panels
-$locale['160'] = "Navigation";
-$locale['161'] = "Online Users";
-$locale['162'] = "Forum Threads";
-$locale['163'] = "Latest Articles";
-$locale['164'] = "Welcome Message";
-$locale['165'] = "Forum Threads List";
-$locale['166'] = "User Info";
-$locale['167'] = "Members Poll";
+$locale['160'] = "Navigatie";
+$locale['161'] = "Online Leden";
+$locale['162'] = "Forum Onderwerpen";
+$locale['163'] = "Nieuwste Artikelen";
+$locale['164'] = "Welkom bericht";
+$locale['165'] = "Forum Onderwerpen lijst";
+$locale['166'] = "Gebruikerd insformatie";
+$locale['167'] = "Leden enquetes";
 $locale['168'] = "RSS Feeds";
-$locale['169'] = "Blog Archives";
-
+$locale['169'] = "Blog Archieven";
 //Multilanguage table rights
-$locale['MLT001'] = "Articles";
-$locale['MLT002'] = "Custom Pages";
+$locale['MLT001'] = "Artikelen";
+$locale['MLT002'] = "Eigen Pagina&rsquo;s";
 $locale['MLT003'] = "Downloads";
 $locale['MLT004'] = "FAQs";
 $locale['MLT005'] = "Forums";
-$locale['MLT006'] = "News";
-$locale['MLT007'] = "Photogallery";
-$locale['MLT008'] = "Polls";
-$locale['MLT009'] = "Email Templates";
+$locale['MLT006'] = "Nieuws";
+$locale['MLT007'] = "Fotoalbums";
+$locale['MLT008'] = "Enquetes";
+$locale['MLT009'] = "Email Sjablonen";
 $locale['MLT010'] = "Weblinks";
 $locale['MLT011'] = "Sitelinks";
-$locale['MLT012'] = "Panels";
-$locale['MLT013'] = "Forum Ranks";
-$locale['MLT014'] = "Blog";
-
-// Stage 6 - News & Blog default Categories
+$locale['MLT012'] = "Panelen";
+$locale['MLT013'] = "Forum Rangen";
+// Step 6 - Navigation Links
+$locale['130'] = "Start Pagina";
+$locale['131'] = "Artikelen";
+$locale['132'] = "Downloads";
+$locale['133'] = "FAQ&rsquo;s";
+$locale['134'] = "Forum";
+$locale['135'] = "Contact";
+$locale['136'] = "Nieuws Categorie&euml;n";
+$locale['137'] = "Web Links";
+$locale['138'] = "Foto Galerij";
+$locale['139'] = "Zoeken";
+$locale['140'] = "Link inzenden";
+$locale['141'] = "Nieuws inzenden";
+$locale['142'] = "Artikel inzenden";
+$locale['143'] = "Foto inzenden";
+$locale['144'] = "Download Insturen";
+// Stage 6 - Panels
+$locale['160'] = "Navigatie";
+$locale['161'] = "Online Gebruikers";
+$locale['162'] = "Forum Onderwerpen";
+$locale['163'] = "Laatste Artikelen";
+$locale['164'] = "Welkomst Bericht";
+$locale['165'] = "Forum Onderwerpenlijst";
+$locale['166'] = "Gebruikersinformatie";
+$locale['167'] = "Ledenenquête";
+$locale['168'] = "Shoutbox";
+// Stage 6 - News Categories
 $locale['180'] = "Bugs";
 $locale['181'] = "Downloads";
 $locale['182'] = "Games";
-$locale['183'] = "Graphics";
+$locale['183'] = "Grafisch";
 $locale['184'] = "Hardware";
-$locale['185'] = "Journal";
-$locale['186'] = "Members";
+$locale['185'] = "Journaal";
+$locale['186'] = "Leden";
 $locale['187'] = "Mods";
-$locale['188'] = "Movies";
-$locale['189'] = "Network";
-$locale['190'] = "News";
+$locale['188'] = "Films";
+$locale['189'] = "Netwerk";
+$locale['190'] = "Nieuws";
 $locale['191'] = "PHP-Fusion";
-$locale['192'] = "Security";
+$locale['192'] = "Veiligheid";
 $locale['193'] = "Software";
-$locale['194'] = "Themes";
+$locale['194'] = "Thema&rsquo;s";
 $locale['195'] = "Windows";
-
-// Stage 6 - Default Forum Ranks
-$locale['200'] = "Super Admin";
-$locale['201'] = "Admin";
+// Stage 6 - Sample Forum Ranks
+$locale['200'] = "Superbeheerder";
+$locale['201'] = "Beheerder";
 $locale['202'] = "Moderator";
-$locale['203'] = "Newbie";
-$locale['204'] = "Junior Member";
-$locale['205'] = "Member";
-$locale['206'] = "Senior Member";
-$locale['207'] = "Veteran Member";
-$locale['208'] = "Fusioneer";
-
-// Stage 6 - Default Smileys
-$locale['210'] = "Smile";
-$locale['211'] = "Wink";
-$locale['212'] = "Sad";
-$locale['213'] = "Frown";
-$locale['214'] = "Shock";
+$locale['203'] = "Nieuweling";
+$locale['204'] = "Junior Lid";
+$locale['205'] = "Lid";
+$locale['206'] = "Senior Lid";
+$locale['207'] = "Veteraan";
+$locale['208'] = "Guru";
+// Stage 6 - Sample Smileys
+$locale['210'] = "Lachen";
+$locale['211'] = "Knipogen";
+$locale['212'] = "Triest";
+$locale['213'] = "Fronzen";
+$locale['214'] = "Geschoqueerd";
 $locale['215'] = "Pfft";
-$locale['216'] = "Cool";
-$locale['217'] = "Grin";
-$locale['218'] = "Angry";
-
+$locale['216'] = "Geweldig";
+$locale['217'] = "Grijnzen";
+$locale['218'] = "Boos";
 // Stage 6 - User Field Categories
-$locale['220'] = "Contact Information";
-$locale['221'] = "Miscellaneous Information";
-$locale['222'] = "Options";
-$locale['223'] = "Statistics";
-$locale['224'] = "Privacy";
-
-// Welcome panel message
-$locale['230'] = "Welcome to your site";
-
+$locale['220'] = "Contact Informatie";
+$locale['221'] = "Diverse Informatie";
+$locale['222'] = "Opties";
+$locale['223'] = "Statistieken";
+// Welcome message
+$locale['230'] = "Welkom op uw site!";
 // Final message
-$locale['240'] = "Setup is complete, PHP-Fusion 8 is now ready for use.<br />
-Click Finish to go to your PHP-Fusion powered site.<br />
-<strong>Note:</strong> After you enter your site you should delete setup.php from
-your server and chmod your config.php back to 644 for security purposes.<br /><br />
-Thank you for choosing PHP-Fusion.";
-
+$locale['240'] = "De setup is voltooid! PHP-Fusion 8 is nu klaar voor gebruik.<br />
+Klik op <strong>Afronden</strong> om naar uw PHP-Fusion site te gaan.<br />
+<strong>Opmerking:</strong> Indien uw site goed blijkt te werken dient u uit veiligheidsoverwegingen setup.php van uw server te verwijderen en moet u config.php tegen schrijven beveiligen (CHMOD 644).<br /><br />
+Dank u wel voor het kiezen van PHP-Fusion.";
 // Default time settings
+// http://php.net/manual/en/function.strftime.php
 $locale['shortdate'] = "%d.%m.%y";
 $locale['longdate'] = "%B %d %Y %H:%M:%S";
 $locale['forumdate'] = "%d-%m-%Y %H:%M";
 $locale['newsdate'] = "%B %d %Y";
 $locale['subheaderdate'] = "%B %d %Y %H:%M:%S";
-
-// Email Template Setup, donÂ´t translate the words between brackets [].
-$locale['T001'] = "Email Templates";
-$locale['T101'] = "Notification on new PM";
-$locale['T102'] = "You have a new private message from [USER] waiting at [SITENAME]";
-$locale['T103'] = "Hello [RECEIVER],\r\nYou have received a new Private Message titled [SUBJECT] from [USER] at [SITENAME]. You can read your private message at [SITEURL]messages.php\r\n\r\nMessage: [MESSAGE]\r\n\r\nYou can disable email notification through the options panel of the Private Message page if you no longer wish to be notified of new messages.\r\n\r\nRegards,\r\n[SENDER].";
-$locale['T201'] = "Notification on new forum posts";
-$locale['T202'] = "Thread Reply Notification - [SUBJECT]";
-$locale['T203'] = "Hello [RECEIVER],\r\n\r\nA reply has been posted in the forum thread \'[SUBJECT]\' which you are tracking at [SITENAME]. You can use the following link to view the reply:\r\n\r\n[THREAD_URL]\r\n\r\nIf you no longer wish to watch this thread you can click the \'Stop tracking this thread\' link located at the top of the thread.\r\n\r\nRegards,\r\n[SENDER].";
-$locale['T301'] = "Contact form";
+// Email Template Setup
+// Please do NOT translate the words between brackets [] !
+$locale['T001'] = "Email Sjablonen";
+$locale['T101'] = "Notificatie bij niew PB";
+$locale['T102'] = "U heeft een nieuw priv&eacute; bericht ontvangen van [USER] op [SITENAME]";
+$locale['T103'] = "Hallo [RECEIVER],\r\nU heeft een nieuw priv&eacute; bericht ontvangen met het onderwerp [SUBJECT] van [USER] op [SITENAME]. U kunt uw priv&eacute; bericht lezen op [SITEURL]messages.php\r\n\r\nBericht: [MESSAGE]\r\n\r\nIndien u niet langer notificaties voor nieuwe priv&eacute; berichten per e-mail wilt ontvangen kunt u dit uitschakelen via het <strong>Opties Paneel</strong> in uw priv&eacute; berichten pagina..\r\n\r\Met vriendelijke groet,\r\n[SENDER].";
+$locale['T201'] = "Notificatie bij nieuw forum posts";
+$locale['T202'] = "Notificatie van antwoord in forum - [SUBJECT]";
+$locale['T203'] = "Hallo [RECEIVER],\r\n\r\nEr is een antwoord geplaatst in het forumonderwerp \'[SUBJECT]\' welke u volgt op [SITENAME]. U kunt de onderstaande link gebruiken om het antwoord te bekijken:\r\n\r\n[THREAD_URL]\r\n\r\nIndien u het onderwerp niet langer wenst te volgen, dan kunt u op de link \'Volg dit onderwerp niet langer\' klikken. U vindt de link bovenaan in het betreffende onderwerp..\r\n\r\Met vriendelijke groet,\r\n[SENDER].";
+$locale['T301'] = "Contact formulier";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";
-
 // Language Admin
-$locale['L001'] = "Multilingual Settings";
+$locale['L001'] = "Meertalig";
+?>

@@ -127,7 +127,7 @@ $locale['620'] = "Bestaande watermerken verwijderen?";
 // Other Settings
 $locale['650'] = "Diverse";
 $locale['651'] = "Ongewenste woorden lijst:";
-$locale['652'] = "Geef één woord per regel.";
+$locale['652'] = "Geef &eacute;&eacute;n woord per regel.";
 $locale['653'] = "Leeg laten indien niet gewenst.";
 $locale['654'] = "Vervanging schuttingwoorden:";
 $locale['655'] = "Gasten toestaan berichten te plaatsen?";
@@ -188,8 +188,8 @@ $locale['691'] = "Gebruikers mogen gebruikersnaam veranderen";
 $locale['692'] = "Captcha Instellingen";
 $locale['693'] = "Captcha";
 $locale['694'] = "Recaptcha Publieke Sleutel (<a href='https://www.google.com/recaptcha/admin/create' title='Haal hier uw sleutel'>Haal uw sleutel</a>)";
-$locale['695'] = "Recaptcha Privé Sleutel";
-$locale['696'] = "Geef uw publieke en privé reCAPTCHA sleutel!";
+$locale['695'] = "Recaptcha Priv&eacute; Sleutel";
+$locale['696'] = "Geef uw publieke en priv&eacute; reCAPTCHA sleutel!";
 $locale['697'] = "Kies een kleuren schema";
 $locale['697r'] = "Rood";
 $locale['697b'] = "Matzwart";
@@ -204,12 +204,12 @@ $locale['699g'] = "Controleer uploaded bestanden op MIME type?";
 $locale['699h'] = "Registratie Gateway inschakelen?";
 
 // Private Message Settings
-$locale['700'] = "Privé Berichten";
+$locale['700'] = "Priv&eacute; Berichten";
 $locale['701'] = "Berichtenlimiet inbox:";
 $locale['702'] = "Berichtenlimiet outbox:";
 $locale['703'] = "Berichtenlimiet archief:";
 $locale['704'] = "Stel in op 0 voor ongelimiteerd";
-$locale['707'] = "Limieten Privé Berichten";
+$locale['707'] = "Limieten Priv&eacute; Berichten";
 $locale['708'] = "Standaardwaarden voor opties voor gebruikers";
 $locale['709'] = "Waarschuwing per e-mail?";
 $locale['710'] = "Verzonden PB&rsquo;s bewaren?";
