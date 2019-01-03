@@ -16,4 +16,3 @@ $locale['r121'] = "Zeer goed";
 $locale['r122'] = "Goed";
 $locale['r123'] = "Matig";
 $locale['r124'] = "Slecht";
-?>

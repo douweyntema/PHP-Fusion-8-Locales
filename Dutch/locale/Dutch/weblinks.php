@@ -7,4 +7,3 @@ $locale['412'] = "Bezoeken:";
 // Downloads Notices
 $locale['430'] = "Er zijn nog geen weblinkcategorie&euml;n aangemaakt";
 $locale['431'] = "Er zijn nog geen weblinks aan deze Categorie toegevoegd.";
-?>

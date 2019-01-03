@@ -34,4 +34,3 @@ $locale['456'] = "%s zijn uitgeschakeld voor alle onderdelen.<br />Deze instelli
 $locale['457'] = "Commentaren";
 $locale['458'] = "Beoordelingen";
 $locale['459'] = $locale['457']." en ".$locale['458'];
-?>

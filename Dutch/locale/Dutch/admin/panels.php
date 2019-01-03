@@ -11,7 +11,6 @@ $locale['407'] = "Huidige Panelen";
 $locale['408'] = "Paneel toevoegen";
 $locale['409'] = "Paneel wijzigen";
 $locale['410'] = "Je kunt de panelen slepen over het panelen scherm om de positie te veranderen of om de volgorde aan te passen";
-
 // Panel Settings
 $locale['420'] = "Links";
 $locale['421'] = "Middenboven";
@@ -84,4 +83,3 @@ $locale['603'] = "gebruikte panelen";
 $locale['604'] = "Panelen";
 $locale['605'] = "Paneel";
 $locale['606'] = "Site inhoud";
-?>

@@ -34,4 +34,4 @@ $locale['457'] = $locale['455']." en ".$locale['456'];
 $locale['460'] = "TinyMCE:";
 $locale['461'] = "Inschakelen";
 $locale['462'] = "Uitschakelen";
-?>
+

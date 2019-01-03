@@ -50,4 +50,3 @@ $locale['470'] = "Onderwerp kan niet leeg worden gelaten!";
 $locale['471'] = "Bericht kan niet leeg worden gelaten!";
 $locale['472'] = "Afzender naam kan niet leeg worden gelaten!";
 $locale['473'] = "Afzender email kan niet leeg worden gelaten!";
-?>

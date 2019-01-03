@@ -21,4 +21,3 @@ $locale['440'] = "Uw bericht is verzonden";
 $locale['441'] = "Dank u wel!";
 $locale['442'] = "Uw bericht werd niet verzonden vanwege het volgende:";
 $locale['443'] = "Probeert u het a.u.b. nogmaals.";
-?>

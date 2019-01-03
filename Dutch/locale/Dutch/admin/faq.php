@@ -38,4 +38,3 @@ $locale['547'] = "Deze FAQ verwijderen?";
 $locale['460'] = "Geef een categorie naam.";
 $locale['461'] = "Deze categorie bestaat al.";
 $locale['462'] = "Voer een FAQ vraag en een FAQ antwoord in.";
-?>

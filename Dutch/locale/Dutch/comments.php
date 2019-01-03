@@ -10,4 +10,3 @@ $locale['c107'] = " Smileys in deze reactie uitschakelen";
 $locale['c108'] = "Wijzigen";
 $locale['c109'] = "Verwijderen";
 $locale['c110'] = "Verwijder deze reactie?";
-?>

@@ -40,6 +40,7 @@ $locale['u102'] = "Wijzig Profiel";
 $locale['u103'] = "Profiel";
 $locale['u104'] = "Lid Profiel voor";
 $locale['u105'] = "Profiel bijwerken";
+
 // New UF 1.20
 $locale['uf_100'] = "Algemen Account Instellingen";
 $locale['uf_101'] = "Gebruiker Informatie Instellingen";
@@ -151,5 +152,3 @@ Opmerking: Je moet ingelogd zijn om door te gaan.\n
 Groeten,
 ".$settings['siteusername']."
 ".$settings['sitename'];
-
-?>

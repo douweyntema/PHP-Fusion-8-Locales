@@ -6,4 +6,3 @@ $locale['n403'] = "gevonden in";
 $locale['n404'] = "nieuws onderwerp";
 $locale['n405'] = "nieuws tekst";
 $locale['n406'] = "uitgebreide nieuws tekst";
-?>

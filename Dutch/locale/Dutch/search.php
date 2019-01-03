@@ -45,4 +45,3 @@ $locale['521'] = "resultaten";
 $locale['522'] = "gevonden die overeenkomen met de zoekcriteria";
 //more than 100 results
 $locale['530'] = "Kunt u a.u.b. preciezer zijn bij het formuleren van uw zoekopdracht? Uw opdracht gaf meer dan %s resultaten. We tonen slechts de eerste 100 resultaten";
-?>

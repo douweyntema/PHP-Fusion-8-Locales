@@ -29,4 +29,3 @@ $locale['436'] = "Er zijn nog geen smileys aangemaakt.";
 $locale['437'] = "Geef een Smiley Code";
 $locale['438'] = "Selecteer een Smiley";
 $locale['439'] = "Geef een Smiley Tekst";
-?>

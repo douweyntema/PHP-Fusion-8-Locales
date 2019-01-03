@@ -44,4 +44,3 @@ $locale['470'] = "Beheerder verwijderen";
 $locale['471'] = "Om deze beheerder te verwijderen dient u uw beheerderwachtwoord op te geven:";
 $locale['472'] = "Bevestigen";
 $locale['473'] = "Afbreken";
-?>

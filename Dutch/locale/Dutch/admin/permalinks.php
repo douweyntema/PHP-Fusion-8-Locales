@@ -40,4 +40,3 @@ $locale['434'] = "Normaliseer";
 $locale['435'] = "Kies om URL af te korten met alle speciale tekens";
 $locale['436'] = "Foutopsporing SEO";
 $locale['437'] = "Kies om SEO foutopsporing in- of uit te schakelen";
-

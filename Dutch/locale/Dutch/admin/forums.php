@@ -80,4 +80,3 @@ $locale['609'] = "Berichten verwijderd: ";
 $locale['610'] = "Bijlagen verwijderd: ";
 $locale['611'] = "Onderwerpen verwijderd: ";
 $locale['612'] = "Gesnoeide onderwerpen, berichten en bijlagen gaan verloren. Weet u zeker dat u dit forum wilt snoeien?";
-?>

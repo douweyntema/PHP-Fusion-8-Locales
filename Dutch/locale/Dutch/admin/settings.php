@@ -202,7 +202,6 @@ $locale['699e'] = "Email";
 $locale['699f'] = "Algemeen";
 $locale['699g'] = "Controleer uploaded bestanden op MIME type?";
 $locale['699h'] = "Registratie Gateway inschakelen?";
-
 // Private Message Settings
 $locale['700'] = "Priv&eacute; Berichten";
 $locale['701'] = "Berichtenlimiet inbox:";
@@ -307,5 +306,3 @@ $locale['error_height'] = 'Please enter Height.';
 $locale['error_value'] = 'Please enter a value.';
 $locale['theme_settings'] = 'Thema Instellingen';
 $locale['theme_description'] = "De configuratie instellingen voor themas";
-
-?>

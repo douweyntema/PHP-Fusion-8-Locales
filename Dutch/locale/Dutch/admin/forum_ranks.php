@@ -37,4 +37,3 @@ $locale['438'] = "Type / Teller";
 // Forum Ranks Disabled
 $locale['450'] = "Forum Rangen zijn op dit moment uitgeschakeld.<br />Gaat u a.u.b. naar het %s Beheerder Paneel om deze in te schakelen.";
 $locale['451'] = "Instellingen Forum";
-?>

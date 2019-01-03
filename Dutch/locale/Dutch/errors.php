@@ -15,4 +15,3 @@ $locale['E_ALL'] = "Definieert alle berichten behalve E_STRICT";
 $locale['E_STRICT'] = "";
 $locale['err_100'] = "N/A";
 $locale['err_101'] = "<strong>WAARSCHUWING:</strong> Een fout is opgetreden tijdens het parsen van de pagina. Zie PHP-Fusion's <a href='[ERROR_LOG_URL]'>error log</a> voor meer informatie.";
-?>

@@ -13,4 +13,3 @@ $locale['420'] = "Bewerk je robots.txt bestand";
 $locale['421'] = "U vindt meer informatie en hulp over robots.txt hier.";
 $locale['422'] = "Opslaan";
 $locale['423'] = "Herstel naar standaard";
-?>

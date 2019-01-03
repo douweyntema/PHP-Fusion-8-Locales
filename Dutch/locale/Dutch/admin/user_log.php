@@ -19,5 +19,3 @@ $locale['116'] = "Verwijder";
 $locale['117'] = "Opties";
 $locale['118'] = "Alle inzendingen ouder dan %d dagen worden gewist.";
 $locale['119'] = "Gebruikers log regel verwijderd";
-
-?>

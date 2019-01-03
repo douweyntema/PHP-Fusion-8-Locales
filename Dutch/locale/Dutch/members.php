@@ -9,4 +9,3 @@ $locale['406'] = "Niet opgenomen in een gebruikersgroep";
 $locale['407'] = "Toegang tot alle groepen";
 $locale['408'] = "Zoeken naar gebruiker:";
 $locale['409'] = "Zoeken";
-?>

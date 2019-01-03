@@ -23,4 +23,3 @@ $locale['450'] = "Nieuw";
 $locale['451'] = "Opgelost";
 $locale['452'] = "Genegeerd";
 $locale['453'] = "Uitvoeren";
-?>

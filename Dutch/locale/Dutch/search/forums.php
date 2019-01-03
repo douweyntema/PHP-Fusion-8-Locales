@@ -8,4 +8,3 @@ $locale['f405'] = "Aankondiging:";
 $locale['f406'] = "gevonden in";
 $locale['f407'] = "onderwerp van bericht";
 $locale['f408'] = "tekst van bericht";
-?>

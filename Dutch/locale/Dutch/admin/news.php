@@ -41,4 +41,3 @@ $locale['452'] = "%s zijn uitgeschakeld voor alle items.<br />Deze instelling is
 $locale['453'] = "Commentaren";
 $locale['454'] = "Beoordelingen";
 $locale['455'] = $locale['453']." en ".$locale['454'];
-?>

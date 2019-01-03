@@ -18,4 +18,3 @@ $locale['html415'] = "Zwart";
 $locale['html416'] = "Grijs";
 $locale['html417'] = "Zilver";
 $locale['html418'] = "Wit";
-?>

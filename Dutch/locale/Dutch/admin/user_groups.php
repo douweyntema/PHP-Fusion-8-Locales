@@ -40,4 +40,3 @@ $locale['462'] = "Alle leden verwijderen";
 $locale['463'] = "Er zijn geen leden in deze groep opgenomen.";
 // Error Messages
 $locale['464'] = "Geef a.u.b. een Groeps naam op";
-?>

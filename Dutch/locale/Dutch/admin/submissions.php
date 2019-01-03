@@ -69,7 +69,6 @@ $locale['507b'] = "- Geen -";
 $locale['508b'] = "Blog:";
 $locale['509b'] = "Blog fragment:";
 $locale['510b'] = "Blog voorbeeld";
-
 // Add/Delete Article Submissions
 $locale['530'] = "Ingezonden artikel publiceren";
 $locale['531'] = "Het artikel is gepubliceerd";
@@ -132,4 +131,3 @@ $locale['660'] = "%s zijn uitgeschakeld voor alle items.<br />Deze instelling is
 $locale['661'] = "Commentaren";
 $locale['662'] = "Beoordelingen";
 $locale['663'] = $locale['661']." en ".$locale['662'];
-?>

@@ -5,4 +5,3 @@ $locale['w402'] = "Weblinks";
 $locale['w403'] = "[NIEUW]";
 $locale['w404'] = "Datum toegevoegd:";
 $locale['w405'] = "Bezoeken:";
-?>

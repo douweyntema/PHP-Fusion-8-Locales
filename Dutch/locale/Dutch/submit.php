@@ -26,6 +26,21 @@ $locale['475'] = "Nieuwsbericht inzenden";
 $locale['476'] = "Categorie:";
 $locale['477'] = "- Geen -";
 $locale['478'] = "Nieuws Fragment:";
+// Submit Blog
+$locale['450b'] = "Blog inzenden";
+// Submit Blog Success
+$locale['460b'] = "Bedankt voor het inzenden van uw Blog";
+$locale['461b'] = "Stuur nog een Blog in";
+// Submit Blog Form
+$locale['470b'] = "Gebruik het volgende formulier om een Blog bericht in te zenden. Uw inzending zal worden beoordeeld door een beheerder. ".$settings['sitename']." behoudt zich het recht voor inzendingen aan te passen. Blog berichten dienen te passen binnen de inhoud van de site. Blog berichten die niet geschikt lijken worden niet geaccepteerd.";
+$locale['471b'] = "Onderwerp:";
+$locale['472b'] = "Blog:";
+$locale['473b'] = " Automatische regelonderbreking inschakelen";
+$locale['474b'] = "Blog bericht bekijken";
+$locale['475b'] = "Blog bericht inzenden";
+$locale['476b'] = "Categorie:";
+$locale['477b'] = "- Geen -";
+$locale['478b'] = "Blog Fragment:";
 // Submit Article
 $locale['500'] = "Artikel inzenden";
 // Submit Article Success
@@ -35,7 +50,7 @@ $locale['511'] = "Nog een artikel inzenden";
 $locale['520'] = "Gebruik het volgende formulier om een artikel in te zenden. Uw inzending zal worden beoordeeld door een beheerder. ".$settings['sitename']." behoudt zicht het recht voor artikelen aan te passen. Artikelen dienen te passen binnen de inhoud van de site. Artikelen die niet geschikt lijken worden niet geaccepteerd.";
 $locale['521'] = "Categorie:";
 $locale['522'] = "Onderwerp:";
-$locale['523'] = "Snippet:";
+$locale['523'] = "Fragment:";
 $locale['524'] = "Artikel:";
 $locale['525'] = " Automatische regelonderbreking inschakelen";
 $locale['526'] = "Artikel bekijken";
@@ -102,4 +117,3 @@ $locale['693'] = "Bestandsgrootte:";
 $locale['694'] = "Max. bestandsgrootte: %s / Toegestane bestandstypes: %s";
 $locale['694b'] = "Max. bestandsgrootte: %s / Toegestane bestandstypes: %s / Max breedte: %spx, Max. hoogte: %spx";
 $locale['695'] = "Download Inzenden";
-?>

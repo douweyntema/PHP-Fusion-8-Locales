@@ -146,4 +146,3 @@ $locale['618'] = "Het is sterk aangeraden om in plaats van deactiveren, anonimis
 $locale['619'] = "Je kan dit hier doen.";
 $locale['620'] = "anonimiseren";
 $locale['621'] = "Automatische deactivicatie van inactieve gebruikers.";
-?>

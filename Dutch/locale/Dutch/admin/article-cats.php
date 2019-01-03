@@ -32,4 +32,3 @@ $locale['450'] = "Deze artikelcategorie verwijderen?";
 // Error Messages
 $locale['460'] = "Geef een categorie naam.";
 $locale['461'] = "Deze categorie bestaat al.";
-?>

@@ -44,4 +44,3 @@ $locale['470'] = "Volgorde albums en foto&rsquo;s verversen";
 $locale['471'] = "Er zijn nog geen fotoalbums aangemaakt.";
 // Delete Album
 $locale['500'] = "Dit album verwijderen?";
-?>

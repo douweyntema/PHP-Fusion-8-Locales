@@ -14,4 +14,3 @@ $locale['431'] = "Verwijderen";
 $locale['432'] = "IP van gebruiker:";
 $locale['433'] = "Deze reactie verwijderen?";
 $locale['434'] = "Er zijn nog geen reacties op dit item.";
-?>

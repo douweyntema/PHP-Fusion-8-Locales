@@ -15,4 +15,3 @@ Uw account op ".$settings['sitename']." is gereactiveerd. We hopen dat we u vake
 Met vriendelijke groet,\n\n
 ".$settings['siteusername'];
 $locale['506'] = "Gereactiveerd door gebruiker.";
-?>

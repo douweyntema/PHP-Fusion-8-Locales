@@ -11,5 +11,3 @@ $locale['uf_blacklist_003'] = "Er staan geen gebruikers op de zwarte lijst.";
 $locale['uf_blacklist_004'] = "Gebruiker %s is verwijderd van uw zwarte lijst.";
 $locale['uf_blacklist_005'] = "De gebruiker staat niet op de zwarte lijst.";
 $locale['uf_blacklist_006'] = "Geen gebruiker gevonden.";
-
-?>

@@ -33,4 +33,3 @@ $locale['457'] = "Keer bekeken: ";
 $locale['458'] = "Klik om te sluiten";
 $locale['459'] = "Eerste foto";
 $locale['460'] = "Laatste foto";
-?>

@@ -38,6 +38,7 @@ $locale['title'] = "Titel";
 $locale['rights'] = "Righten";
 $locale['image'] = "Afbeeldein/Iconen";
 $locale['info'] = "Info";
+
 // Forms
 $locale['choose'] = "Kies a.u.b. een...";
 $locale['parent'] = "Maak als nieuw hoofd..";
@@ -59,4 +60,3 @@ $locale['pm'] = "Priv&eacute; Berichten";
 $locale['logged'] = "Ingelogd als ";
 $locale['version'] = "Versie ";
 $locale['browse'] = "Bladeren ...";
-?>

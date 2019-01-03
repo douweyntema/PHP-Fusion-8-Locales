@@ -45,4 +45,3 @@ $locale['420'] = "Succesvol";
 $locale['421'] = "Reden";
 $locale['422'] = "van";
 $locale['423'] = "Geen reden gegeven.";
-?>

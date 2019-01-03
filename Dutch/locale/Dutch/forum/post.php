@@ -71,8 +71,10 @@ $locale['487'] = "Verberg bewerken";
 $locale['488'] = "Sluit Bericht";
 // Post Access Violation
 $locale['500'] = "U kunt dit bericht niet wijzigen.";
+
 // Forum Post Merger
 $locale['520'] = "Samenvoegen aan";
+
 // Search Forum Form
 $locale['530'] = "Zoek in forum";
 $locale['531'] = "Zoekterm(en)";
@@ -89,9 +91,4 @@ U kunt de onderstaande link gebruiken om het antwoord te bekijken:
 
 Indien u het onderwerp niet langer wenst te volgen, dan kunt u op de link \'Volg dit onderwerp niet langer\' klikken. U vindt de link bovenaan in het betreffende onderwerp.
 
-Met vriendelijke groetMet vriendelijke groet, ".$settings['siteusername'].".
-
-
-
-Tips! http://nieuwskop.nl, http://tv-programma.info, http://start-plaats.nl";
-?>
+Met vriendelijke groetMet vriendelijke groet, ".$settings['siteusername'].".";

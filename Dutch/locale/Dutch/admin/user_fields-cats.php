@@ -39,4 +39,3 @@ $locale['450'] = "Weet je zeker dat je de Gebruikersveld categorie wilt verwijde
 // Error message
 $locale['450a'] = "Geef a.u.b een categorie naam.";
 $locale['450b'] = "Als ueen andere database gebruikt dan de default users tabel, vul dan a.u.b zowel de Database tabel in en de UserID kolom.";
-?>

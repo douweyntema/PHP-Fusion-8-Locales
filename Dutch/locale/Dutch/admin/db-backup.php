@@ -45,4 +45,3 @@ $locale['461'] = "Vereiste informatie";
 $locale['480'] = "Back-up herstellen";
 $locale['481'] = "Bestandsnaam:";
 $locale['481b'] = "Geef a.u.b een bestandsnaam op";
-?>

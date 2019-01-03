@@ -22,4 +22,3 @@ Uw nieuwe wachtwoord voor toegang tot uw ".$settings['sitename']." account is:\n
 Met vriendelijke groet,
 ".$settings['siteusername'];
 $locale['412'] = "Er is een fout opgetreden, probeert u het nog eens.";
-?>

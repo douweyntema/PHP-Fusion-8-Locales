@@ -11,7 +11,6 @@ $locale['407'] = "PHP-Fusion versie";
 $locale['408'] = "Database voorvoegsel";
 $locale['409'] = "Cookie voorvoegsel";
 $locale['410'] = "Webbrowser en OS";
-
 //PHP settings
 $locale['420'] = "PHP instellingen";
 $locale['421'] = "Ja";
@@ -24,13 +23,10 @@ $locale['428'] = "Display fouten";
 $locale['429'] = "Uitgeschakelde functies";
 $locale['430'] = "n/b";
 $locale['431'] = "versie";
-
 //Write permission
 $locale['440'] = "Mapmachtigingen";
 $locale['441'] = "Beschrijfbaar";
 $locale['442'] = "Niet Beschrijfbaar";
-
 //PHPinfo
 $locale['450'] = "Details";
 $locale['451'] = "Niet in staat om gegevens op te halen. Controleer of phpinfo() functie is uitgeschakeld?";
-?>

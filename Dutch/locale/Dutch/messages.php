@@ -106,4 +106,3 @@ $locale['629'] = "U kunt het geselecteerde bericht/de geselecteerde berichten ni
 $locale['630'] = " Berichtenlimiet";
 $locale['631'] = "Ja";
 $locale['632'] = "Nee";
-?>

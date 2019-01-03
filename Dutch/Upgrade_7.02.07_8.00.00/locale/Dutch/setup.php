@@ -13,9 +13,11 @@ $locale['006'] = "Stap 6: Laatste instellingen";
 $locale['007'] = "Volgende";
 $locale['008'] = "Terug";
 $locale['009'] = "Afronden";
+
 // Step 1
 $locale['010'] = "Kies a.u.b. de gewenste taal (locale):";
 $locale['011'] = "U kunt meer talen downloaden van de <a href='http://www.php-fusion.co.uk/downloads.php'>php-fusion.co.uk</a> website";
+
 // Step 2
 $locale['020'] = "Om de setup te kunnen vervolgen dienen de volgende bestanden/mappen schrijfbaar te zijn:";
 $locale['021'] = "Test voor schrijfpermissies geslaagd, klik op Volgende om verder te gaan.";
@@ -23,6 +25,7 @@ $locale['022'] = "Test voor schrijfpermissies niet geslaagd, CHMOD a.u.b. de bes
 $locale['023'] = "Geslaagd";
 $locale['024'] = "Niet geslaagd";
 $locale['025'] = "Herladen";
+
 // Step 3 - Access criteria
 $locale['030'] = "Geef a.u.b. de gegevens voor toegang tot uw MySQL database.";
 $locale['031'] = "Database hostnaam:";
@@ -36,6 +39,7 @@ $locale['038'] = "PDO lijkt niet beschikbaar te zijn";
 $locale['039'] = "Nee";
 $locale['039b'] = "Ja";
 $locale['039c'] = "Selecteer de te gebruiken talen:";
+
 // Step 4 - Database Setup
 $locale['040'] = "Verbinding met database gemaakt.";
 $locale['041'] = "Configuratie bestand succesvol geschreven.";
@@ -55,6 +59,7 @@ $locale['054'] = "Kan geen MySQL tabellen verwijderen of schrijven.";
 $locale['055'] = "Controleer of uw MySQL gebruiker rechten heeft om de geselecteerde database te lezen, schrijven en verwijderen.";
 $locale['056'] = "Lege velden.";
 $locale['057'] = "Vul A.U.B. alle MySQL velden in.";
+
 // Step 5 - Super Admin login
 $locale['060'] = "Inloggegevens primaire superbeheerder";
 $locale['061'] = "Gebruikersnaam:";
@@ -63,6 +68,7 @@ $locale['063'] = "Inlogwachtwoord herhalen:";
 $locale['064'] = "Beheerderwachtwoord:";
 $locale['065'] = "Beheerderwachtwoord herhalen:";
 $locale['066'] = "E-mailadres:";
+
 // Step 6 - User details validation
 $locale['070'] = "De gebruikernaam bevalt ongeldige tekens.";
 $locale['070b'] = "Het gebruikernaamveld moet worden ingevuld.";
@@ -76,6 +82,7 @@ $locale['075b'] = "Beheerderwachtwoordvelden mogen niet leeg blijven.";
 $locale['076'] = "Uw e-mailadres lijkt ongeldig te zijn.";
 $locale['076b'] = "E-mailadres velden mogen niet leeg blijven.";
 $locale['077'] = "Er is een fout in uw gebruikersinstellingen:";
+
 // Step 6 - Admin Panels
 $locale['080'] = "Beheerders";
 $locale['081'] = "Artikel Categorie&euml;n";
@@ -167,6 +174,7 @@ $locale['166'] = "Gebruikerd insformatie";
 $locale['167'] = "Leden enquetes";
 $locale['168'] = "RSS Feeds";
 $locale['169'] = "Blog Archieven";
+
 //Multilanguage table rights
 $locale['MLT001'] = "Artikelen";
 $locale['MLT002'] = "Eigen Pagina&rsquo;s";
@@ -181,32 +189,8 @@ $locale['MLT010'] = "Weblinks";
 $locale['MLT011'] = "Sitelinks";
 $locale['MLT012'] = "Panelen";
 $locale['MLT013'] = "Forum Rangen";
-// Step 6 - Navigation Links
-$locale['130'] = "Start Pagina";
-$locale['131'] = "Artikelen";
-$locale['132'] = "Downloads";
-$locale['133'] = "FAQ&rsquo;s";
-$locale['134'] = "Forum";
-$locale['135'] = "Contact";
-$locale['136'] = "Nieuws Categorie&euml;n";
-$locale['137'] = "Web Links";
-$locale['138'] = "Foto Galerij";
-$locale['139'] = "Zoeken";
-$locale['140'] = "Link inzenden";
-$locale['141'] = "Nieuws inzenden";
-$locale['142'] = "Artikel inzenden";
-$locale['143'] = "Foto inzenden";
-$locale['144'] = "Download Insturen";
-// Stage 6 - Panels
-$locale['160'] = "Navigatie";
-$locale['161'] = "Online Gebruikers";
-$locale['162'] = "Forum Onderwerpen";
-$locale['163'] = "Laatste Artikelen";
-$locale['164'] = "Welkomst Bericht";
-$locale['165'] = "Forum Onderwerpenlijst";
-$locale['166'] = "Gebruikersinformatie";
-$locale['167'] = "Ledenenquête";
-$locale['168'] = "Shoutbox";
+$locale['MLT014'] = "Blog";
+
 // Stage 6 - News Categories
 $locale['180'] = "Bugs";
 $locale['181'] = "Downloads";
@@ -224,6 +208,7 @@ $locale['192'] = "Veiligheid";
 $locale['193'] = "Software";
 $locale['194'] = "Thema&rsquo;s";
 $locale['195'] = "Windows";
+
 // Stage 6 - Sample Forum Ranks
 $locale['200'] = "Superbeheerder";
 $locale['201'] = "Beheerder";
@@ -234,6 +219,7 @@ $locale['205'] = "Lid";
 $locale['206'] = "Senior Lid";
 $locale['207'] = "Veteraan";
 $locale['208'] = "Guru";
+
 // Stage 6 - Sample Smileys
 $locale['210'] = "Lachen";
 $locale['211'] = "Knipogen";
@@ -244,18 +230,23 @@ $locale['215'] = "Pfft";
 $locale['216'] = "Geweldig";
 $locale['217'] = "Grijnzen";
 $locale['218'] = "Boos";
+
 // Stage 6 - User Field Categories
 $locale['220'] = "Contact Informatie";
 $locale['221'] = "Diverse Informatie";
 $locale['222'] = "Opties";
 $locale['223'] = "Statistieken";
+$locale['224'] = "Privacy";
+
 // Welcome message
 $locale['230'] = "Welkom op uw site!";
+
 // Final message
 $locale['240'] = "De setup is voltooid! PHP-Fusion 8 is nu klaar voor gebruik.<br />
 Klik op <strong>Afronden</strong> om naar uw PHP-Fusion site te gaan.<br />
 <strong>Opmerking:</strong> Indien uw site goed blijkt te werken dient u uit veiligheidsoverwegingen setup.php van uw server te verwijderen en moet u config.php tegen schrijven beveiligen (CHMOD 644).<br /><br />
 Dank u wel voor het kiezen van PHP-Fusion.";
+
 // Default time settings
 // http://php.net/manual/en/function.strftime.php
 $locale['shortdate'] = "%d.%m.%y";
@@ -275,6 +266,6 @@ $locale['T203'] = "Hallo [RECEIVER],\r\n\r\nEr is een antwoord geplaatst in het 
 $locale['T301'] = "Contact formulier";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";
+
 // Language Admin
-$locale['L001'] = "Meertalig";
-?>
+$locale['L001'] = "Meertalige instellingen";
